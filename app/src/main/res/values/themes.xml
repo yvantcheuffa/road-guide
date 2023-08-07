@@ -1,0 +1,17 @@
+<resources>
+    <style name="Base.Theme.RoadGuide" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+    </style>
+
+    <style name="Theme.RoadGuideSplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/colorPrimary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_icon</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/white</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.RoadGuide</item>
+    </style>
+
+    <style name="Theme.RoadGuide" parent="Base.Theme.RoadGuide" />
+</resources>
