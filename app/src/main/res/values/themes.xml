@@ -1,17 +1,48 @@
 <resources>
-    <style name="Base.Theme.RoadGuide" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
-        <item name="colorSecondary">@color/colorSecondary</item>
-        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+
+    <style name="Theme.RoadGuide" parent="Theme.MaterialComponents.Light.DarkActionBar.Bridge">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">?colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="materialButtonStyle">@style/Theme.RoadGuide.ButtonStyle</item>
     </style>
 
-    <style name="Theme.RoadGuideSplashScreen" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/colorPrimary</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_icon</item>
-        <item name="windowSplashScreenIconBackgroundColor">@color/white</item>
-        <item name="postSplashScreenTheme">@style/Base.Theme.RoadGuide</item>
+    <style name="Theme.RoadGuide.NoActionBar" parent="Theme.RoadGuide">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.RoadGuide" parent="Base.Theme.RoadGuide" />
+    <style name="NoRipple" parent="Theme.MaterialComponents">
+        <item name="rippleColor">@android:color/transparent</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.RoadGuide.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+    <style name="Theme.LocationTracker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.LocationTracker.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.RoadGuide.ButtonStyle" parent="@style/Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/text_color_selector</item>
+        <item name="android:backgroundTint">@color/background_color_selector</item>
+        <item name="rippleColor">@android:color/transparent</item>
+    </style>
+
+    <style name="ChooseLicenceTheme.ButtonStyle" parent="@style/Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/inverted_text_color_selector</item>
+        <item name="background">@color/inverted_background_color_selector</item>
+        <item name="rippleColor">@android:color/transparent</item>
+    </style>
+
+    <style name="ChooseLicenceTheme" parent="Theme.RoadGuide.NoActionBar">
+        <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:background">@drawable/colored_window_background</item>
+    </style>
 </resources>

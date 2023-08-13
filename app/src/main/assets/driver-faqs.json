@@ -1,0 +1,80 @@
+[
+  {
+    "question": "Why you need a driver's licence.",
+    "answers": [
+      "To drive legally on South African roads, you need a driving license. You must have a learner's license before applying for a driving license."
+    ]
+  },
+  {
+    "question": "How can I apply?",
+    "answers": [
+      "You can apply online for your driving test. Link: *https://online.natis.gov.za/#/*",
+      "If you could not apply online, find the nearest driving test centre (DLTC) to book a driving test and confirm your test date."
+    ]
+  },
+  {
+    "question": "What are the required documents for a driver's license application?",
+    "answers": [
+      "Your learner's license.",
+      "Your identity document (ID).",
+      "(Two - four) identical black-white or colour photos (confirm with the DLTC how many photos are required)",
+      "Booking Fee",
+      "Proof of postal and residential address. (If the utility bill is not in your name the owner of the bill should make an affidavit declaring that you live at the address and attach the utility bill to the affidavit.",
+      "If you live in an informal settlement a letter from the ward councillor confirming your postal and residential address is required."
+    ]
+  },
+  {
+    "question": "How many categories are available for a driver's license and the required age to apply?",
+    "answers": [
+      "Code A1: Motor cycle with an engine not exceeding 125 cc and with or without a sidecar. Required age must be at least 17 years old on the date of the test.",
+      "Code A: Motor cycle with an engine that exceeds 125 cc and with or without a sidecar. Required age must be 18 years or older to apply.",
+      "Code B: Motor vehicle, including a goods vehicle, minibus, or a bus, with a gross vehicle mass not exceeding 3 500kg. Required age must be 18 years or older to apply.",
+      "Code C1: Motor vehicle, minibus, goods vehicle, or a bus with a gross vehicle mass between 3 500 kg and 16 000 kg. Required age must be 18 years or older to apply.",
+      "Code C: Motor vehicle, a goods vehicle or a bus with a gross vehicle mass exceeding 16 000kg. Required age must be 18 years or older to apply Code EB:",
+      "Light motor vehicle that is articulated (light motor vehicle drawing a trailer) with a gross combination mass not exceeding 3 500 kg. You must be 18 years or older to apply.",
+      "A minibus, bus, or goods vehicle with a gross vehicle mass not exceeding 3 500 kg. and a combination of a motor vehicle with a tare not exceeding 3 500 kg. Required age must be 18 years or older to apply.",
+      "Code EC1: An articulated heavy motor vehicle (heavy motor vehicle drawing a trailer[s]) with a gross combination mass between 3 500 kg and 16 000 kg. You must be 18 years or older to apply.",
+      "A combination of a motor vehicle with a tare between 3 500 kg and 16 500 kg and a minibus, goods vehicle, bus, or minibus with a gross vehicle mass between 3 500 kg and 16 000 kg. Required age must be 18 years or older to apply.",
+      "Code EC: It is for an articulated heavy motor vehicle (heavy motor vehicle drawing a trailer[s]) with a gross combination mass exceeding 16 000 kg or a combination of a bus or goods vehicle with a gross vehicle mass exceeding 16 000 kg. Required age must be 18 years or older to apply."
+    ]
+  },
+  {
+    "question": "Which form am I required to fill for a Driver's license? (If you could not apply online).",
+    "answers": [
+      "You will complete the Driver's license (DL1) form which is available at the DLTC.",
+      "If you are 65 years old or greater you should also complete a medical certificate form (MC) which will be available too at the DLTC."
+    ]
+  },
+  {
+    "question": "Other processes or requirement that will be needed from you at the DLTC?",
+    "answers": [
+      "Your fingerprints will be taken, you need to do an eye test at the DLTC or have a qualified optometrist to test your eyes and submit the form at the testing centre. After the application has been processed, you will be provided with a date and time for your driving test."
+    ]
+  },
+  {
+    "question": "How will I be tested.",
+    "answers": [
+      "A qualified examiner will assess you.",
+      "You will be tested according to the K53 testing standard.",
+      "You will be tested to guarantee that you know and recognize the road traffic signs, knowledge of the rules of the road and the different signals which a driver of a vehicle is required to give when driving on a public road and are you capable of driving the type of vehicle specified on the (DL1) application form."
+    ]
+  },
+  {
+    "question": "Which documents or material is required before the test.",
+    "answers": [
+      "Booking receipt",
+      "ID document",
+      "Learners license"
+    ]
+  },
+  {
+    "question": "How long does it take to get my driver's license?",
+    "answers": [
+      "If you pass your driving license test, you will be issued with a temporary driving license after paying the issuing fee, you will use the temporary driving license while you wait for the credit-card-format driving license.",
+      "The driving license should be ready within four to six weeks.",
+      "The driving license testing centre will notify you via email, SMS, or post when your license is ready for collection.",
+      "When collecting your license card, you will need to produce your ID document.",
+      "Licenses not collected within 120 days are destroyed."
+    ]
+  }
+]

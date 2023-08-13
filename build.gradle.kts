@@ -10,6 +10,7 @@ buildscript {
         classpath(Build.kotlinGradlePlugin)
         classpath(Build.hiltAndroidGradlePlugin)
         classpath(Build.spotlessGradlePlugin)
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.0")
     }
 }
 

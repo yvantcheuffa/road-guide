@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">K53 SA</string>
+    <string name="choose_license_type">Choose license type</string>
+    <string name="learners">Learners</string>
+    <string name="drivers">Drivers</string>
+    <string name="menu">Menu</string>
+    <string name="faq_drivers">FAQ(Drivers)</string>
+    <string name="error_loading_driver_faqs">An error occurred while loading driver FAQs</string>
+    <string name="error_loading_learner_faqs">An error occurred while loading learner FAQs</string>
+    <string name="faq_question">%1$d. %2$s</string>
+    <string name="faq_answer">• %1$s</string>
+    <string name="faq">Frequently asked questions</string>
+    <string name="faq_short">FAQ</string>
+    <string name="driver_license">Drivers\' licence (FAQ)</string>
+    <string name="drivers_license">Drivers licence</string>
+    <string name="more">More</string>
+    <string name="more_apps">More apps</string>
+    <string name="rate_app">Rate app</string>
+    <string name="share_via">Share via</string>
+    <string name="about_us">About us</string>
+    <string name="motorcycle">Motorcycle</string>
+    <string name="light_motor_vehicle">Light Motor Vehicle</string>
+    <string name="heavy_motor_vehicle">Heavy Motor Vehicle</string>
+    <string name="motorcycle_underline"><u>Motorcycle</u></string>
+    <string name="light_motor_vehicle_underline"><u>Light Motor Vehicle</u></string>
+    <string name="heavy_motor_vehicle_underline"><u>Heavy Motor Vehicle</u></string>
+    <string name="motorcycle_description">Learn how to accurately execute actions like pre-strip inspection, lane change and also get tips on each module. Codes A1 and A</string>
+    <string name="light_motor_vehicle_description">Learn how to accurately execute actions like pre-strip inspection, allay docking, parallel parking and also get tips on each module. Code B, Code 8</string>
+    <string name="heavy_motor_vehicle_description">Learn how to accurately execute actions like pre-strip inspection, allay docking, speed management and also get tips on each module. Codes C1, C, EC1 and EC, Code 10</string>
+    <string name="find_us_on">Find us on:</string>
+    <string name="facebook">Facebook</string>
 </resources>

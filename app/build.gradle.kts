@@ -46,7 +46,6 @@ android {
 }
 
 dependencies {
-
     // Annotation processors
     kapt(Hilt.hiltCompiler)
 
@@ -62,6 +61,7 @@ dependencies {
     implementation(AndroidX.navigationUi)
     implementation(Hilt.hiltAndroid)
     implementation(Google.material)
+    implementation(Google.gson)
     implementation(Coroutines.android)
     implementation(Coroutines.core)
     implementation(CircleImageView.circleImageView)

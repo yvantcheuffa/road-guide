@@ -1,0 +1,3181 @@
+[
+  {
+    "name": "Motorcycle",
+    "description": "Learn how to accurately execute actions like pre-trip inspection, lane change and also get tips on each module. Codes A1 and A",
+    "iconResName": "ic_launcher_foreground",
+    "testReport": {
+      "name": "Heavy motor vehicle test report code C1, C"
+    },
+    "modules": [
+      {
+        "name": "TEST REPORT (Part One)",
+        "sections": [
+          {
+            "name": "Pre-trip inspection - around the motorcycle",
+            "iconsResName": "ic_motorcycle_1",
+            "subSections": [
+              {
+                "name": "Pre-trip inspection",
+                "descriptions": [
+                  "Check underneath the motorcycle for noticeable leaks, obstructions, etc.",
+                  "While moving in an anti-clockwise direction you should look out for possible motorcycle damages, preferably from top to bottom to left to right.",
+                  "Inspect front wheel on the motorcycle for tread depth, grease or oil leakage, valve cap, spokes, wheel hub, sidewall damage, inflation, wear and damage.",
+                  "Check wear on the front brake disc/s, if necessary.",
+                  "Check shock absorbers/forks on the front for damages, oil leakage and security.",
+                  "Check mudguard on the front for security and damage.",
+                  "Check light/s, lenses and reflectors on the front for damage, security and cleanliness.",
+                  "Check indicator on the left front for security, cleanliness and damage.",
+                  "Check for any damage on the windscreen/fairing, cleanliness and security, if necessary.",
+                  "Look at the cables, controls, mirror and clutch fluid level (if necessary) on the left side of the handlebar for damage, security, cleanliness and operation.",
+                  "Check for damage, leaks and operation on the fuel tap/valve.",
+                  "Look at the left front foot peg and gear lever for damage and security.",
+                  "Check for damage and security on the left side-cover.",
+                  "Point out that the battery should be checked for fluid level, damages and security.",
+                  "Inspect chain (tension and lubrication), exhaust, Chain guard, left rear foot peg and shock-absorber (if necessary) for security and damage.",
+                  "Check for security, cleanliness and damage on the left rear indicator.",
+                  "Inspect the lens, rear light, registration plate and reflector for damages, security and cleanliness.",
+                  "Check the rear registration plate for legality, cleanliness and damage.",
+                  "Inspect rear wheel as described in item 3.",
+                  "Inspect rear indicator on the right for cleanliness, damage and security.",
+                  "Inspect rear brake assembly and brake disc for wear and security where possible.",
+                  "Check shock absorbers/forks on the rear for damages, oil leakage and security.",
+                  "Inspect right rear foot peg and side cover for security.",
+                  "Inspect seat for cleanliness, damage and security.",
+                  "Inspect front foot peg on the right for damage and security.",
+                  "Inspect damage and security on foot brake for free play, and brake fluid level, if necessary.",
+                  "Inspect filler cap and fuel tank for security and leakage.",
+                  "Point out that engine oil levels and coolant should be checked, if necessary.",
+                  "Inspect the radiator for damage and security, if applicable.",
+                  "Inspect mirror, cables, hand controls on the right and brake fluid level (if applicable) as described in item 10.",
+                  "Inspect front indicator on the right for damage, cleanliness and security.",
+                  "Inspect Certificate of Clearance disc for validity, cleanliness and security."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "In the case of minor defects, the candidate may be given a chance to rectify them; however, he/she will be given a time limit of five minutes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Pre-trip inspection - on motorcycle",
+            "iconsResName": "ic_motorcycle_2",
+            "subSections": [
+              {
+                "name": "Pre-trip inspection - on motorcycle",
+                "descriptions": [
+                  "Switch the ignition to ON position.",
+                  "Check warning lights and gauges for faults.",
+                  "Check if the front and rear lights, direction indicators, horn and stop light are in working order.",
+                  "Switch the ignition to OFF position after turning all switches to \"OFF\".",
+                  "Check the pressure of brakes and clutch.",
+                  "Check if the throttle is in working order.",
+                  "If applicable, check if the kick start lever is working.",
+                  "Adjust mirrors for optimum rear-view vision."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "In the case of minor defects, the candidate may be given a chance to rectify them; however, he/she will be given a time limit of five minutes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mount - dismount",
+            "subSections": [
+              {
+                "name": "Mount - Dismount",
+                "detailedDescriptions": [
+                  {
+                    "name": "Mount: With side stand",
+                    "descriptions": [
+                      "Stand on the left side of the motorcycle and unlock steering, if necessary.",
+                      "Take hold of both handlebars and apply front brake.",
+                      "Move your right leg over the motorcycle and take seat.",
+                      "Bring the motorcycle to an upright position and straighten the front wheel.",
+                      "Return side stand to secure position with foot, if necessary, and balance motorcycle.",
+                      "Apply the front brake to make sure that the motorcycle does not roll."
+                    ]
+                  },
+                  {
+                    "name": "Dismount: With side stand",
+                    "descriptions": [
+                      "Observe.",
+                      "Apply front brake and fully extend side stand, if necessary, (choose a hard surface for the side stand) while seated.",
+                      "Let the motorcycle balance fully on the side stand and turn front wheel to the left.",
+                      "Stand up from the seat and swing the right leg over the motorcycle.",
+                      "Ensure that the motorcycle is standing steadily before releasing the handlebars and front brake.",
+                      "Lock the steering, if necessary."
+                    ]
+                  },
+                  {
+                    "name": "Mount: With centre stand",
+                    "descriptions": [
+                      "Stand on the left side of the motorcycle and unlock the steering, if required.",
+                      "Use your left hand to hold the left handlebar, and your",
+                      "Pull the motorcycle forward off the centre stand and balance it.",
+                      "Take hold of both handlebars and apply front brake.",
+                      "Move your right leg over the motorcycle and take a seat.",
+                      "Bring the motorcycle to an upright position and straighten the front wheel.",
+                      "Apply the front brake to make sure that the motorcycle does not roll."
+                    ]
+                  },
+                  {
+                    "name": "Dismount: With centre stand",
+                    "descriptions": [
+                      "Observe.",
+                      "Apply front brakes and keep the front wheel straight.",
+                      "Move right leg over the motorcycle and balance it.",
+                      "Use your left hand to hold the left handlebar, and your right hand to hold the handle attached under the seat.",
+                      "Use right foot lower the centre stand and push down firmly on it with the motorcycle on an upright position.",
+                      "Pull upward and backward until motorcycle rests on the stand.",
+                      "Lock the steering, if necessary."
+                    ]
+                  }
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If you fail to apply the front brake when mounting the motorcycle you will be penalised under:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Starting and switching off procedures",
+            "subSections": [
+              {
+                "name": "Starting and switching off procedures",
+                "detailedDescriptions": [
+                  {
+                    "name": "Starting engine",
+                    "descriptions": [
+                      "Turn \"ON\" the fuel tap/valve, if necessary.",
+                      "Twist ignition key to \"ON\" and check if the warning lights and meters are working.",
+                      "Make sure that the gear is in neutral. (Green warning light on)",
+                      "Switch the engine from \"kill\" switch to the \"RUN\" position.",
+                      "Operate the choke, if applicable.",
+                      "Press the start button to start the engine or kick start the motorcycle.",
+                      "As soon as the engine starts, release the starter button/kick starter. (Fold back the kick start lever, if applicable)",
+                      "Kill the choke operation when applicable."
+                    ]
+                  },
+                  {
+                    "name": "Stopping engine",
+                    "descriptions": [
+                      "Switch off accessories if applicable.",
+                      "Use the engine \"kill\" switch to stop the engine.",
+                      "Twist the ignition key to \"OFF\".",
+                      "Turn off the fuel tap/valve, if necessary.",
+                      "Select first gear, if necessary."
+                    ]
+                  }
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Some motorcycles require you to pull in the clutch and/return the side stand to a secure position in order to start the engine."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Speed management",
+            "iconsResName": "ic_motorcycle_3",
+            "subSections": [
+              {
+                "name": "Speed management",
+                "descriptions": [
+                  "Observe.",
+                  "Move off.",
+                  "Accelerate and shift to a higher gear.",
+                  "Make sure you don't touch boundary lines.",
+                  "Brake at line C.",
+                  "Change to lower gear.",
+                  "Stop with the front wheel on c`ross point \"D\" of the calibrated cross.",
+                  "Keep your balance and don't shift the motorcycle until the stopping point is determined."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Three attempts will be granted if the first and second attempts were unsuccessful given that no boundary lines have been touched."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "This is not an emergency stop, but, if the motorcycle is not brought to a controlled stop, you will be penalized for:"
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the motorcycle rolls, the test will be discarded, a circle will be drawn around the black block \"Roll\" on the test report."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Moving off",
+            "subSections": [
+              {
+                "name": "Moving off",
+                "descriptions": [
+                  "Make sure the motorcycle is not moving by applying the rear brake.",
+                  "Follow all road signs, signals, rules and markings.",
+                  "Check mirrors and appropriate blind spot, if relevant.",
+                  "Signal intention, if necessary.",
+                  "Make sure that there's clear space beyond the intersection before entering.",
+                  "Before entering the intersection make sure that it's clear.",
+                  "Maintain clear space behind the vehicle ahead of you before moving off (Roughly 4- 5 metres).",
+                  "Choose gear, if necessary.",
+                  "Get clutch control, if necessary.",
+                  "Observe.",
+                  "Move off without elevating front wheel.",
+                  "Keep your balance and put both feet on the front foot pegs immediately when the motorcycle moves off.",
+                  "Accelerate as needed.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If the motorcycle rolls, the test will be discarded, a circle will be drawn around the black block \"Roll\" on the test report."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Apply the front brake before releasing the rear brake and choosing the gear."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Numbers 8, 9, and 10 may be carried out in one flowing movement."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "You must observe before moving off, including during stop-start traffic."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "You must not cause the wheel of the motorcycle to spin; if you do then you will be penalized for:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Turning (Left)",
+            "iconsResName": "ic_motorcycle_4",
+            "subSections": [
+              {
+                "name": "Intersections - turning left",
+                "descriptions": [
+                  "Look at rear-view mirrors and blind spot to the left, if necessary.",
+                  "Position motorcycle in the appropriate lane if necessary.",
+                  "Check mirrors and blind spot to the left.",
+                  "Signal your intention.",
+                  "Follow all road signs, signals, rules and markings.",
+                  "Look at rear-view mirror.",
+                  "Slow down, if necessary.",
+                  "Brake, if necessary.",
+                  "Choose gear, if necessary.",
+                  "Give way to pedestrians, if you must.",
+                  "Stop, if you must.",
+                  "Choose neutral, if necessary.",
+                  "Choose gear, if applicable.",
+                  "Observe, if necessary.",
+                  "Move off/ proceed if you must.",
+                  "Check blind spot to the left, if necessary.",
+                  "Steer and position in the appropriate lane, follow all road signs, signals, rules and markings.",
+                  "Increase speed as necessary.",
+                  "Cancel signal, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should check the blind spot before changing direction. If you have steered to the left before stopping, then there's no need to check the blind spot again after moving off. The observation for moving off will be enough."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Always position the motorcycle in such a way that you discourage other road users from sharing the lane with you."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the motorcycle rolls, the test will be discarded, a circle will be drawn around the black block \"Roll\" on the test report."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lane changing",
+            "iconsResName": "ic_motorcycle_6",
+            "subSections": [
+              {
+                "name": "Lane changing",
+                "descriptions": [
+                  "Follow all road signs, signals, rules and markings.",
+                  "Look at rear-view mirrors and the correct blind spot.",
+                  "Signal your intention.",
+                  "Look at necessary blind spot.",
+                  "Move to selected lane, if safe.",
+                  "Cancel signal, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Lane changing. Avoid changing lanes within an intersection."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Where more than one lane is changed in one movement, the appropriate blind spot must be checked before crossing each lane-line."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "The left-hand side line of the straight path between \"A\" and \"C\" must not be touched anywhere."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "The right-hand side line of the straight path between \"A\" and \"C\" must be crossed before reaching \"C\"."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "You shall perform a lane change to the right without crossing line \"0-P\" and passing to the left of such line, and stop where you were told to do so."
+                  },
+                  {
+                    "name": "Note F",
+                    "description": "If the motorcycle rolls, the test will not continue, a circle will be drawn around the black block \"Roll\" on the test report."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Incline start",
+            "iconsResName": "ic_motorcycle_5",
+            "subSections": [
+              {
+                "name": "Incline start",
+                "descriptions": [
+                  "Stop where indicated in the necessary gear without allowing the motorcycle to roll backwards.",
+                  "Use the rear brake to stay motionless.",
+                  "Check mirrors and appropriate blind spot.",
+                  "Signal your intention.",
+                  "Get clutch control, if necessary.",
+                  "Observe.",
+                  "Move off without rolling back and/or elevating front wheel.",
+                  "Keep your balance and put both feet on the front foot pegs immediately when the motorcycle moves off.",
+                  "Accelerate as needed.",
+                  "Cancel signal if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You must not cause the rear wheel of the motorcycle to spin or elevate front wheel when moving off, if you do then you will be penalized for:"
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You will only be given one attempt."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the motorcycle rolls, the test will be discarded, a circle will be drawn around the black block \"Roll\" on the test report."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TEST REPORT (Part Two)",
+        "sections": [
+          {
+            "name": "Turning speed judgement",
+            "iconsResName": "ic_motorcycle_7",
+            "subSections": [
+              {
+                "name": "Incline start",
+                "descriptions": [
+                  "Observe.",
+                  "Move off.",
+                  "Accelerate and ride as quickly as possible through the curve.",
+                  "Make sure you don't touch the curved boundary lines.",
+                  "Stop at the following starting point, without touching the outer boundary line.",
+                  "Do the same in the opposite direction."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Only three attempts will be granted if the first and second attempts were unsuccessful given that no boundary lines have been touched."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "If the motorcycle rolls, the test will be discarded, a circle will be drawn around the black block \"Roll\" on the test report."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Emergency stop",
+            "iconsResName": "ic_motorcycle_8",
+            "subSections": [
+              {
+                "name": "Emergency stop",
+                "descriptions": [
+                  "Observe.",
+                  "Move off.",
+                  "Increase speed and change gear, if necessary.",
+                  "Make sure you don't touch boundary lines.",
+                  "Disengage clutch, if necessary.",
+                  "Apply both brakes at the same time when the red light comes on.",
+                  "Bring the motorcycle to a controlled stop in the shortest possible distance.",
+                  "Keep your balance and don't move the motorcycle until the measurement has been taken."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Release pressure on the rear brake pedal or the front brake lever if either wheel(s) should skid."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Only three attempts will be granted in any direction if the first and second attempts were unsuccessful given that no boundary lines have been touched."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the reading \"Fast\" is shown, the motorcycle must be stopped before the 26th calibration mark in order to pass this maneuver, in that case no points shall be recorded."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "If the applicant touches a boundary line of the straight path, or stops with any part of the motorcycle protruding beyond the 45th calibration mark, the test will be discarded, a circle will be drawn around the black block \"T-line\" on the test report."
+                  },
+                  {
+                    "name": "Note F",
+                    "description": "If the motorcycle rolls, the test will not continue, a circle will be drawn around the black block \"Roll\" on the test report."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Emergency swerve",
+            "iconsResName": "ic_motorcycle_9",
+            "subSections": [
+              {
+                "name": "Emergency swerve",
+                "descriptions": [
+                  "Observe.",
+                  "Move off.",
+                  "Increase speed and change gear, if necessary.",
+                  "Make sure you don't touch boundary lines.",
+                  "Disengage clutch, if necessary.",
+                  "When the amber light comes on, swerve in the direction of that light to cross line \"K-L\" as far as possible from the cross point \"D\".",
+                  "Don't touch line \"M-N\" or \"O-P\" by straightening up.",
+                  "Stop without coming into contact with the outer boundary lines."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Only three attempts will be granted in any direction if the first and second attempts were unsuccessful given that no boundary lines have been touched."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "If you touch a boundary line of the straight path, or of lines \"p-0\", \"M-N\" or the outer boundary lines while carrying out this action, then the test will be discarded, a circle will be drawn around the black block \"T-line\" on the test report."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the motorcycle rolls, the test will be discarded, a circle will be drawn around the black block \"Roll\" on the test report."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "More Modules",
+        "sections": [
+          {
+            "name": "Mirrors - use of",
+            "subSections": [
+              {
+                "name": "Mirrors - use of",
+                "descriptions": [
+                  "Adjust the rear-view mirrors whilst the motorcycle is stationary only, to see the whole view of the rear.",
+                  "Look at rear-view mirrors on approach to any hazard.",
+                  "Examine rear-view mirrors every 5 - 8 seconds.",
+                  "Checking rear-view mirrors should be done in good time to determine traffic situations to the rear."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Pay attention not to look in mirrors for too long."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "References to mirrors mean both the left and right rear-view mirrors."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Clutch - use of",
+            "subSections": [
+              {
+                "name": "Clutch - use of",
+                "descriptions": [
+                  "Fully pull in the clutch lever.",
+                  "Get clutch control.",
+                  "Avoid unnecessary \"Slipping\" of clutch.",
+                  "Avoid unnecessary \"Riding\" of clutch.",
+                  "Avoid unnecessary \"Coasting\".",
+                  "Keep your hand away from the clutch lever except for the purpose of changing gear, stopping, necessary \"Slipping,\" \"Riding,\" or \"Coasting\".",
+                  "Disengage clutch completely just before the motorcycle comes to a complete stop, without labouring or stalling the engine."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "When coming to a stop, apply brakes before disengaging the clutch, in order to avoid coasting. This maneuver does not apply in stop - start traffic or when stopping on an incline."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Keep fingers away from the clutch lever whilst the motorcycle is in motion, except in stop - start traffic."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Steering",
+            "subSections": [
+              {
+                "name": "Steering",
+                "descriptions": [
+                  "Have both hands on the handlebars.",
+                  "Steer in a controlled fashion to avoid cutting corners or negotiating corners and bends too wide.",
+                  "Steer smoothly.",
+                  "Do not wander over lane markings, if possible.",
+                  "Adjust position according to moving or stationary danger/hazard.",
+                  "Counter steer when you must."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Speed control",
+            "subSections": [
+              {
+                "name": "Speed control",
+                "descriptions": [
+                  "Examine rear-view mirrors.",
+                  "Adjust speed (choose appropriate gear) as required, in accordance with traffic pattern, gradient of the road, road surface, visibility, and speed limit.",
+                  "Accelerate, if you must.",
+                  "Decelerate, if you must.",
+                  "Brake, if you must."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If the speed of the motorcycle increases significantly without application of the throttle and if continuous use of the brakes is needed, brake to the appropriate speed before a lower gear is engaged so to minimise and increase in speed.\n\nRepeat the process as necessary.\nMake sure you don't select lower gear as a replacement for braking."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gear changing - up/down",
+            "subSections": [
+              {
+                "name": "Gear changing - up",
+                "descriptions": [
+                  "Maintain the speed.",
+                  "Use left hand to cover clutch lever.",
+                  "Start pulling the clutch lever nearly to the contact point.",
+                  "Close the throttle smoothly and completely whilst pulling in the clutch lever completely.",
+                  "Go for a higher gear, and take the foot off the lever.",
+                  "Start resealing the clutch lever smoothly and slowly to the contact point.",
+                  "Open the throttle smoothly and gradually whilst releasing the clutch lever completely."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Preferably you should change gears, whilst travelling on a straight line."
+                  }
+                ]
+              },
+              {
+                "name": "Gear changing - down",
+                "descriptions": [
+                  "Look at rear-view mirrors.",
+                  "Close throttle smoothly.",
+                  "Apply brakes to an appropriate speed for circumstances.",
+                  "Pull in the clutch lever completely.",
+                  "Go for a lower gear, and take the foot off the lever.",
+                  "Start resealing the clutch lever smoothly and slowly to the contact point.",
+                  "Open the throttle smoothly and gradually whilst releasing the clutch lever completely."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Make sure you don't select lower gear as a replacement for braking."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Preferably you should change gears whilst traveling on a straight line."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If an ascending slope is being negotiated where road speed is reduced despite continuous application of the throttle, then the change to lower gear should be executed before the speed drops to a point where the use of lower gear is unnecessary and/or the engine starts laboring."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Following other vehicles",
+            "subSections": [
+              {
+                "name": "Following other vehicles",
+                "descriptions": [
+                  "Obtain and preferably, maintain a minimum of 2-seconds following distance.",
+                  "Under unfavorable conditions like rain, slippery surface, poor visibility, or when being followed closely, then the following distance shall be increased."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Stopping - in traffic",
+            "subSections": [
+              {
+                "name": "Stopping - in traffic",
+                "descriptions": [
+                  "Look at rear-view mirrors.",
+                  "Reduce speed.",
+                  "Brake timeously, smoothly, and gradually with both brakes, without locking wheels and in full control, keep both hands on the handlebars.",
+                  "Engage in appropriate gear, if necessary.",
+                  "Disengage clutch just before the motorcycle is brought to a complete stop, without laboring or stalling the engine.",
+                  "Obtain and/or keep clear space behind or next to any obstruction or road user, where applicable. (about 4-5 meters behind the vehicle in front).",
+                  "Stop in accordance with road signs, signals, rules, and markings.",
+                  "Select neutral, if applicable.",
+                  "Make sure the motorcycle is not moving by using the rear or front brake.",
+                  "Release the clutch lever, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Neutral should be selected when the motorcycle is not moving for any length of time, but this may not be necessary depending on traffic signals and stop/start progress of the traffic."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "To avoid coasting when coming to a stop, the brake pedal must be depressed. This is not needed in stop/start traffic or when stopping on an incline."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Stopping - for parking",
+            "subSections": [
+              {
+                "name": "Stopping - for parking",
+                "descriptions": [
+                  "Look at rear-view mirrors and appropriate blind spot.",
+                  "Indicate your intention.",
+                  "Check appropriate blind spot, if necessary.",
+                  "Position, if necessary.",
+                  "Look at rear-view mirrors.",
+                  "Reduce speed.",
+                  "Brake.",
+                  "Select appropriate gear, if necessary.",
+                  "Disengage clutch just before the motorcycle is brought to a complete stop, without laboring or stalling the engine.",
+                  "Obtain and/or keep clear space behind or next to any obstruction or road user, where applicable. (about 4-5 meters behind the vehicle in front).",
+                  "Stop in accordance with road signs, signals, rules, and markings.",
+                  "Cancel signal and switch off accessories, if necessary.",
+                  "Select appropriate gear/neutral, if necessary.",
+                  "Use the engine \"kill\" switch to stop the engine.",
+                  "Twist ignition key to off.",
+                  "Turn fuel tap to off, if applicable.",
+                  "Park the motorcycle on a designated spot.",
+                  "Lock the steering, if necessary."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Traffic control signals",
+            "subSections": [
+              {
+                "name": "Traffic control signals",
+                "descriptions": [
+                  "Look at rear-view mirrors and appropriate blind spot.",
+                  "Indicate your intention.",
+                  "Obey traffic control signals.",
+                  "Check rear-view, if necessary.",
+                  "Reduce speed/brake.",
+                  "Select gear, if necessary.",
+                  "Stop, if necessary.",
+                  "Engage gear, if necessary.",
+                  "Observe, if necessary.",
+                  "Move off/proceed when it's safe to do so."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Traffic signals are directions given by police or traffic officers in uniform, members of a scholar patrol, road work-men, persons leading, riding or driving bovine animals, signalmen at level crossings and drivers of emergency vehicles sounding a device or bell."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Overtaking - to the left/right of a hazard",
+            "subSections": [
+              {
+                "name": "Overtaking - to the left of a hazard",
+                "descriptions": [
+                  "Obtain a safe following/approaching distance",
+                  "Follow all road signs, signals, rules and markings.",
+                  "Look at the blind spot to the left, if applicable.",
+                  "Steer and position motorcycle to the left without moving further than you need to for full visibility, if applicable.",
+                  "Check rear-view mirrors and blind spot to the left.",
+                  "Indicate intention.",
+                  "Check rear-view mirrors, if necessary.",
+                  "Brake, if necessary.",
+                  "Engage gear, if necessary.",
+                  "Check blind spot to the left.",
+                  "Steer further to the left, if safe to give clear space between motorcycle and hazard.",
+                  "Cancel signal.",
+                  "Increase speed, if necessary.",
+                  "Check mirrors and blind spot to the right before signaling and moving back to the right."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Get enough clear space before returning."
+                  }
+                ]
+              },
+              {
+                "name": "Overtaking - to the right of a hazard",
+                "descriptions": [
+                  "Obtain a safe following/approaching distance.",
+                  "Follow all road signs, signals, rules and markings.",
+                  "Check blind spot to the right, if applicable.",
+                  "Steer and position motorcycle to the right without moving further than you need to for full visibility, if applicable.",
+                  "Look at rear-view mirrors and blind spot to the right.",
+                  "Indicate intention.",
+                  "Check rear-view mirrors, if necessary.",
+                  "Brake, if necessary.",
+                  "Change gear, if necessary.",
+                  "Check blind spot to the right.",
+                  "Steer further to the right, if safe, to give clear space between motorcycle and hazard.",
+                  "Cancel signal.",
+                  "Increase speed, if necessary.",
+                  "Check mirrors and blind spot to the left before signaling and move back to the left."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Get enough clear space before returning"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Being overtaken - on the right/left-hand side",
+            "subSections": [
+              {
+                "name": "Being overtaken - on the left-hand side",
+                "descriptions": [
+                  "Look at rear-view mirrors and the blind spot to the right.",
+                  "Steer and position the motorcycle to the far right in the lane as safe as possible.",
+                  "Do not increase your motorcycle speed when being overtaken."
+                ]
+              },
+              {
+                "name": "Being overtaken - on the right-hand side",
+                "descriptions": [
+                  "Check rear-view mirrors and the blind spot to the left.",
+                  "Steer and position motorcycle to the far left in the lane as safe as possible.",
+                  "Do not increase your motorcycle speed when being overtaken."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Light Motor Vehicle",
+    "description": "Learn how to accurately executed actions like pre-trip inspection, allay docking, parallel parking and also get tips on each module. Code B, Code 8",
+    "iconResName": "ic_launcher_foreground",
+    "testReport": {
+      "name": "Heavy motor vehicle test report code C1, C"
+    },
+    "modules": [
+      {
+        "name": "YARD TEST (Test Report)",
+        "sections": [
+          {
+            "name": "Pre-trip inspection exterior",
+            "iconsResName": "ic_lmv_1",
+            "subSections": [
+              {
+                "name": "Pre-trip inspection exterior",
+                "descriptions": [
+                  "Inspect under the vehicle for obvious spills, leaks, obstructions and so forth",
+                  "Unlock all doors.",
+                  "Check the vehicle for possible damage, ideally from top to bottom, left to right in an anti-clockwise direction.",
+                  "Inspect side mirror on the right for damage, stability and cleanliness. (if fitted).",
+                  "Inspect right-side portion of the windscreen for cleanliness and damage.",
+                  "Inspect wiper blade on the right for wear, cleanliness, stability and leave in drawn-out position, if possible.",
+                  "Inspect the front wheel tyre tread on the right: for sidewall damage, inflation, wear and damage, oil, grease leaks, valve cap and wheel nuts.",
+                  "Inspect front reflector and lenses on the right for damage, stability and cleanliness.",
+                  "Inspect the front bonnet or boot, grill and bumper for security and damage.",
+                  "Point out that fan-belt, water, oil and brake fluid should be checked.",
+                  "Inspect the registration plate on the front for stability, damage, cleanliness and validity.",
+                  "Inspect front reflector and lenses on the left as described in item 8.",
+                  "Inspect the front wheel tyre tread on the left as described in item 7.",
+                  "Inspect left-side portion of the windscreen as described in item 5.",
+                  "Inspect wiper blade on the left as described in item 6.",
+                  "Inspect validity on Roadworthiness/Certificate of Clearance disc (if applicable).",
+                  "Inspect side mirror on the left as described in item 4. (If fitted).",
+                  "Inspect operation of window winder(s) and doors on the left. (If manually operative)",
+                  "Inspect stability and damage on the seat belts.",
+                  "Inspect information plate for validity and stability damage, cleanliness. (If applicable)",
+                  "Inspect the rear wheel tyre tread on the left as described in item 7.",
+                  "Inspect rear reflector and lenses on the left as described in item 8.",
+                  "Inspect rear window for damage and cleanliness.",
+                  "Point out that wheel spanner, jack and spare wheel should be checked.",
+                  "Inspect rear of vehicle as described in item 9 and the exhaust.",
+                  "Inspect chevron for stability, damage, cleanliness and validity, if applicable.",
+                  "Inspect rear registration plate and light as described in item 11.",
+                  "Inspect rear reflector and lenses on the right as described in item 8.",
+                  "Inspect the rear wheel tyre tread on the right as described in item 7.",
+                  "Inspect fuel cap for security.",
+                  "Inspect right doors as described in item 18."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "In the case of minor defects, you may be given a chance to rectify them, however you will be given a time limit of five minutes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Pre-trip inspection interior",
+            "iconsResName": "ic_lmv_2",
+            "subSections": [
+              {
+                "name": "Pre-trip inspection interior",
+                "descriptions": [
+                  "Confirm (from driver's seat) that the parking brake is applied.",
+                  "Confirm that the gear lever is in neutral position. (In \"P\" or \"N\" for automatic transmission)",
+                  "Check for any interference or obstructions.",
+                  "Where applicable inspect warning lights and gauges.",
+                  "Look at seat adjustment for correct/comfortable driving position.",
+                  "Inspect mirrors for maximum rear view vision.",
+                  "Switch ignition key to \"ON\" position without starting the engine.",
+                  "Inspect electric windows operation, if necessary.",
+                  "Mention any changes after looking at the instruments on the instrument panel.",
+                  "Inspect operation of the indicators, rear and front lights, wipers and horn.",
+                  "Twist ignition off and return all switches to \"off\" position.",
+                  "Inspect excessive free play for the steering.",
+                  "Inspect pressure on brake and clutch pedals.",
+                  "Where necessary return wipers to normal position.",
+                  "Check that passengers are familiar with the operation of doors and the doors are properly closed.",
+                  "Ensure you have fastened your seatbelt and request passengers to fasten their seatbelts.",
+                  "Confirm that passengers are familiar with the operation of the release mechanism of seatbelts."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "The following will be checked for operation by the examiner/inspector by requesting you to operate the lights, horn, direction indicators and wipers."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "In the case of minor defects, the candidate may be given a chance to rectify them; however, you will be given a time limit of five minutes."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Point 1 and 2 must be checked in a sequence as well as 5 and 6."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Alley docking - to the left/right",
+            "iconsResName": "ic_lmv_3",
+            "subSections": [
+              {
+                "name": "Alley docking - to the left",
+                "options": [
+                  "Drive to the starting point",
+                  "Drop/Cancel signal, if necessary.",
+                  "Apply parking brake.",
+                  "Choose neutral, (or \"P\" automatic transmission) and stand by for instructions."
+                ],
+                "detailedDescriptions": [
+                  {
+                    "name": "Entering",
+                    "descriptions": [
+                      "Check blind spot and the mirror(s) on the left.",
+                      "Indicate your intention.",
+                      "Shift/Select the right gear.",
+                      "Half clutch or Obtain clutch control. (Manual transmission).",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Move off/proceed.",
+                      "Before the vehicle changes direction check the blind spot on the right.",
+                      "Without touching any obstacle steer into the demarcated area.",
+                      "Stop the vehicle inside the demarcated area.",
+                      "Apply parking brake.",
+                      "Shift gear to neutral. (or \"P\" automatic transmission).",
+                      "Cancel signal."
+                    ]
+                  },
+                  {
+                    "name": "Leaving",
+                    "descriptions": [
+                      "Inspect appropriate blind spot and mirror(s).",
+                      "Indicate your intention.",
+                      "Shift/Select the right gear.",
+                      "Half clutch or Obtain clutch control. (Manual transmission)",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Without touching any obstacle steer out of the demarcated area.",
+                      "Cancel signal."
+                    ]
+                  }
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "The stop watch will not be stopped, if the manoeuvre cannot be done on the 1st attempt and no obstacle has been touched, the vehicle will be positioned in the original starting position where a 2nd (final) attempt will be made."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Moving off after stopping in the same direction will not be regarded as another movement. Stopping is permitted at any stage during a movement, however, you must observe before moving off if stationary for longer than 5 seconds."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "While entering the demarcated area, no forward movement will be permissible."
+                  }
+                ]
+              },
+              {
+                "name": "Alley docking - to the right",
+                "options": [
+                  "Drive to the starting point",
+                  "Drop/Cancel signal, if necessary.",
+                  "Apply parking brake.",
+                  "Choose neutral (or \"P\" automatic transmission), and wait for instructions."
+                ],
+                "detailedDescriptions": [
+                  {
+                    "name": "Entering",
+                    "descriptions": [
+                      "Check blind spot and the mirror(s) on the right.",
+                      "Indicate your intention.",
+                      "Select the right gear.",
+                      "Half clutch control or Obtain clutch control. (Manual transmission).",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Move off/proceed.",
+                      "Before the vehicle changes direction check the blind spot on the left.",
+                      "Without touching any obstacle steer into the demarcated area.",
+                      "Stop the vehicle inside the demarcated area.",
+                      "Apply parking brake.",
+                      "Shift gear to neutral. (Or \"P\" automatic transmission).",
+                      "Cancel signal."
+                    ]
+                  },
+                  {
+                    "name": "Leaving",
+                    "descriptions": [
+                      "Inspect appropriate blind spot and mirror(s).",
+                      "Indicate your intention.",
+                      "Shift/Select the right gear.",
+                      "Half clutch or Obtain clutch control. (Manual transmission).",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Without touching any obstacle steer out of the demarcated area.",
+                      "Cancel signal."
+                    ]
+                  }
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "The stop watch will not be stopped, if the manoeuvre cannot be done on the 1st attempt and no obstacle has been touched, the vehicle will be positioned in the original starting position where a 2nd (final) attempt will be made."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Moving off after stopping in the same direction will not be regarded as another movement. Stopping is permitted at any stage during a movement, however, you must observe before moving off, if stationary for longer than 5 seconds."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "While entering the demarcated area, no forward movement will be permissible."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Inline start - manual transmission",
+            "iconsResName": "ic_lmv_4",
+            "subSections": [
+              {
+                "name": "Inline start - manual transmission",
+                "descriptions": [
+                  "Do not allow the vehicle to move backwards and stop where indicated by the examiner.",
+                  "Apply parking brake.",
+                  "Shift gear to neutral.",
+                  "Look at appropriate blind spot and rear-view mirror(s), if applicable.",
+                  "Signal intention, if necessary.",
+                  "Shift/Select the right gear.",
+                  "Half clutch or Obtain clutch control.",
+                  "Observe.",
+                  "Disengage parking brake.",
+                  "Without rolling the vehicle back, Move off.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should select neutral with the service brake depressed and then apply the parking brake if the vehicle is equipped with a foot-operated parking brake."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Only one attempt will be allowed."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  }
+                ]
+              },
+              {
+                "name": "Incline Start – automatic transmission",
+                "descriptions": [
+                  "Do not allow the vehicle to move backwards and stop where indicated by the examiner.",
+                  "Apply parking brake.",
+                  "Look at appropriate blind spot and rear-view mirror(s), if applicable.",
+                  "Signal intention, if necessary.",
+                  "Observe.",
+                  "Disengage parking brake.",
+                  "Without rolling the vehicle back, Move off.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Only one attempt will be allowed."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Turn in the road",
+            "iconsResName": "ic_lmv_5",
+            "subSections": [
+              {
+                "name": "Turn in the road",
+                "options": [
+                  "Drive to the starting point.",
+                  "Stop.",
+                  "Choose neutral (or \"P\" automatic transmission), apply parking brake and wait for instructions."
+                ],
+                "descriptions": [
+                  "Check blind spot and rear-view mirror(s) to the right.",
+                  "Signal intention.",
+                  "Select the right gear.",
+                  "Half clutch or Obtain clutch control. (Manual transmission)",
+                  "Observe.",
+                  "Disengage parking brake.",
+                  "Move off driving forwards and turn the steering wheel as far as possible to the right.",
+                  "Counter steer.",
+                  "Stop.",
+                  "Apply parking brake, if applicable.",
+                  "Check rear-view mirror(s) and blind spot to the left.",
+                  "Signal intention.",
+                  "Select reverse gear.",
+                  "Half clutch or Obtain clutch control. (Manual transmission).",
+                  "Observe.",
+                  "Disengage parking brake, if necessary.",
+                  "Move off in a rearward direction and turn the steering wheel to the left.",
+                  "Steer back the steering wheel or Counter steer.",
+                  "Stop.",
+                  "Apply parking brake, if necessary.",
+                  "Check blind spot to the right and rear-view mirror(s).",
+                  "Signal intention.",
+                  "Select the right gear.",
+                  "Half clutch or Obtain clutch control. (Manual transmission)",
+                  "Observe.",
+                  "Disengage parking brake, if necessary.",
+                  "Keep left when you move off driving forward.",
+                  "Cancel signal."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should complete this manoeuvre in three (3) movements, two forward and one reverse."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "A circle shall be drawn around the black block \"M.kerb/T.line\" and the test will be discontinued if the indicated boundary lines are touched with any wheel."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Moving off after stopping in the same direction will not be regarded as another movement. Stopping is permitted at any stage during a movement, however, you must observe before moving off if stationary for longer than 5 seconds."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "Only one attempt will be allowed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Parallel parking - to the left/right",
+            "iconsResName": "ic_lmv_6",
+            "subSections": [
+              {
+                "name": "Parallel parking - to the left",
+                "options": [
+                  "Drive to the starting point.",
+                  "Cancel signal, if necessary.",
+                  "Parking brakes must be applied.",
+                  "Choose neutral (or \"P\" automatic transmission), and wait for instructions from the examiner."
+                ],
+                "detailedDescriptions": [
+                  {
+                    "name": "Entering",
+                    "descriptions": [
+                      "Check the blind spot to the left and rear-view mirror(s).",
+                      "Signal intention.",
+                      "Select the correct gear.",
+                      "Half clutch or Obtain clutch control. (Manual transmission)",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Move off/proceed.",
+                      "Before the vehicle changes direction look at the blind spot to the right.",
+                      "Without mounting the kerb or touching any obstacles steer into the parking bay.",
+                      "If another movement is required to move forward Counter steer.",
+                      "The vehicle must stop within the demarcated area.",
+                      "Apply the parking brakes.",
+                      "Shift gear to neutral.",
+                      "Cancel signal, if necessary."
+                    ]
+                  },
+                  {
+                    "name": "Leaving",
+                    "descriptions": [
+                      "Look at blind spot to the right and rear-view mirror(s).",
+                      "Signal intention.",
+                      "Select the correct gear.",
+                      "Half clutch or Obtain clutch control. (Manual transmission)",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Without mounting the kerb or touching any obstacles steer out of parking bay.",
+                      "Cancel signal."
+                    ]
+                  }
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Three movements will be allowed - two movements once the vehicle is at least partially within the parking bay and one reverse movement into the parking bay."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "If your first attempt cannot be completed as described in item 11, you will be given a second chance only if no obstacle has been touched or kerb mounted, and the vehicle shall again be positioned at the starting point (The stopwatch will not be stopped)."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "You should signal when leaving the parking bay. You will have an unlimited number of movements when leaving the parking bay; you should observe every time before moving off."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "The vehicle should be fully within the demarcated parking bay. (Including attachments and mirrors in extended position)."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  },
+                  {
+                    "name": "Note F",
+                    "description": "Moving off after stopping in the same direction will not be regarded as another movement. Stopping is permitted at any stage during a movement; however, you must observe before moving off if stationary for longer than 5 seconds."
+                  }
+                ]
+              },
+              {
+                "name": "Parallel parking - to the right",
+                "options": [
+                  "Drive to the starting point.",
+                  "Cancel signal, if necessary.",
+                  "Parking brakes must be applied.",
+                  "Choose neutral (or \"P\" automatic transmission), and wait for instructions from the examiner."
+                ],
+                "detailedDescriptions": [
+                  {
+                    "name": "Entering",
+                    "descriptions": [
+                      "Check the blind spot to the right and rear-view mirror(s).",
+                      "Signal intention.",
+                      "Select the correct gear.",
+                      "Half clutch or Obtain clutch control. (Manual transmission)",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Move off/proceed.",
+                      "Before the vehicle changes direction look at the blind spot to the left.",
+                      "Without mounting the kerb or touching any obstacles steer into the parking bay.",
+                      "If another movement is required to move forward Counter steer.",
+                      "The vehicle must stop within the demarcated area.",
+                      "Apply the parking brake.",
+                      "Shift gear to neutral.",
+                      "Cancel signal, if necessary."
+                    ]
+                  },
+                  {
+                    "name": "Leaving",
+                    "descriptions": [
+                      "Look at blind spot to the left and rear-viewW mirror(s).",
+                      "Signal intention.",
+                      "Select the correct gear.",
+                      "Half clutch or Obtain clutch control. (Manual transmission).",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Without mounting the kerb or touching any obstacles steer out of parking bay.",
+                      "Cancel signal, if necessary."
+                    ],
+                    "notes": [
+                      {
+                        "name": "Note A",
+                        "description": "Three movements will be allowed - two movements once the vehicle is at least partially within the parking bay and one reverse movement into the parking bay."
+                      },
+                      {
+                        "name": "Note B",
+                        "description": "If your first attempt cannot be completed as described in item 11, you will be given a second chance only if no obstacle has been touched or kerb mounted, and the vehicle shall again be positioned at the starting point (The stopwatch will not be stopped)."
+                      },
+                      {
+                        "name": "Note C",
+                        "description": "You should signal when leaving the parking bay. You will have an unlimited number of movements when leaving the parking bay; you should observe every time before moving off."
+                      },
+                      {
+                        "name": "Note D",
+                        "description": "The vehicle should be fully within the demarcated parking bay. (Including attachments and mirrors in extended position)."
+                      },
+                      {
+                        "name": "Note E",
+                        "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                      },
+                      {
+                        "name": "Note F",
+                        "description": "Moving off after stopping in the same direction will not be regarded as another movement. Stopping is permitted at any stage during a movement; however, you must observe before moving off if stationary for longer than 5 seconds."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ROAD TEST (Test Report)",
+        "sections": [
+          {
+            "name": "Starting procedure - manual transmission",
+            "iconsResName": "ic_lmv_7",
+            "subSections": [
+              {
+                "name": "Starting procedure - manual transmission",
+                "descriptions": [
+                  "Make sure that the parking brake is applied.",
+                  "Make sure that the gear-lever is in 'neutral' position.",
+                  "Ensure all warning lights and gauges are in non-function position.",
+                  "Without starting the engine twist the ignition key to 'ON' position.",
+                  "Inspect the gauges and warning lights for malfunction.",
+                  "If applicable apply choke or guarantee choke is cancelled.",
+                  "To start the engine twist the ignition key further.",
+                  "As soon as the engine starts let go of the key.",
+                  "Inspect the gauges and warning lights for systems malfunction.",
+                  "Where necessary, break off operation of choke."
+                ]
+              },
+              {
+                "name": "Starting procedure - automatic transmission",
+                "descriptions": [
+                  "Make sure that the parking brake is applied.",
+                  "Make sure the gear-lever is in \"N\" or \"P\" position.",
+                  "Ensure all warning lights and gauges are in non-function position.",
+                  "Without starting the engine twist the ignition key to \"ON\" position.",
+                  "Inspect the gauges and warning lights for malfunction.",
+                  "If applicable apply choke or guarantee choke is cancelled.",
+                  "To start the engine twist ignition key further.",
+                  "As soon as the engine starts let go of the key.",
+                  "Inspect the gauges and warning lights for systems malfunction.",
+                  "Where necessary, break off operation of choke."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Moving off - manual transmission",
+            "subSections": [
+              {
+                "name": "Moving off - manual transmission",
+                "descriptions": [
+                  "Comply to all rules, road markings, signals and road traffic signs.",
+                  "Check appropriate blind spot and rear-view mirror(s), if necessary.",
+                  "Indicate intention, if necessary.",
+                  "Make sure before entering the intersection there is clear space.",
+                  "Make sure the intersection is clear before entering.",
+                  "Keep up a clear space behind vehicle ahead before moving off. (Approximately 4-5 metres)",
+                  "Select the correct gear.",
+                  "Half clutch or Obtain clutch control.",
+                  "Observe.",
+                  "Disengage parking brake, if necessary.",
+                  "Move off.",
+                  "Increase speed as necessary.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You can simultaneously select a gear and observe."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Points 7, 8, and 9 can be done in one flowing movement."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "Before moving off, Observation must be done, as well as during stop-start traffic."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "While moving off, you must not cause the wheels of the vehicle to spin. If you do so, you will be penalized."
+                  }
+                ]
+              },
+              {
+                "name": "Moving off - automatic transmission",
+                "descriptions": [
+                  "Comply to all rules, road markings, signals and road traffic signs.",
+                  "Check appropriate blind spot and rear-view mirror(s), if necessary.",
+                  "Indicate intention, if necessary.",
+                  "Make sure before entering the intersection there is clear space.",
+                  "Make sure the intersection is clear before entering.",
+                  "Keep up a clear space behind the vehicle ahead before moving off. (Approximately 4-5 metres).",
+                  "Select the correct gear, if applicable.",
+                  "Observe.",
+                  "Disengage parking brake, if applicable.",
+                  "Move off.",
+                  "Increase speed as necessary.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You can simultaneously select a gear and observe."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "While moving off, you must not cause the wheels of the vehicle to spin. If you do so, you will be penalized for:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Steering",
+            "subSections": [
+              {
+                "name": "Steering",
+                "descriptions": [
+                  "Position hands on the steering wheel with palms of hands and thumbs on circumference of the steering wheel and position hands on the steering wheel in a ten-to-two or quarter-to-three position.",
+                  "Always keep both of your hands on the steering wheel except for the purpose of signaling gear changing or operating controls or devices.",
+                  "Always steer in a controlled manner to avoid negotiating corners or cutting corners or bending too wide.",
+                  "Use the push-and-pull method when steering to the left or right.",
+                  "Steer effortlessly.",
+                  "Try not to straddle lane markings or wander the lane marking, if possible.",
+                  "With due regard to moving or stationary hazards adjust position in time.",
+                  "At all times, at least keep one hand on the steering wheel.",
+                  "Whilst the vehicle is stationary, never turn the steering wheel.",
+                  "If necessary, counter steer."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "During the yard test, the push-and-pull method of steering is not required."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "If you continuously make a steering method fault, such as resting your hand on the gear-lever knob, you will be penalized every 5-8 seconds for:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Clutch - use of",
+            "subSections": [
+              {
+                "name": "Clutch - use of",
+                "descriptions": [
+                  "Push down the clutch pedal.",
+                  "Half clutch or Obtain clutch control.",
+                  "Prevent needless \"Slipping\" of clutch.",
+                  "Prevent needless \"Riding\" of clutch.",
+                  "Prevent needless \"Coasting\".",
+                  "Always remove your foot from the clutch pedal completely except for the intention of justified \"Slipping\", stopping, gear changing, \"Coasting\" or \"Riding\".",
+                  "Without stalling the engine or laboring, disengage the clutch completely just before the vehicle is brought to a complete standstill."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "The brake pedal should be depressed before disengaging the clutch, in order to prevent coasting when coming to a stop. On stop-start traffic or when stopping on an incline, this is not a requirement."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Only in stop-start traffic, the foot may rest on the clutch pedal while the vehicle's engine is running; otherwise, you may not rest on the clutch pedal while the vehicle's engine is running."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gear changing up/down (manual transmission)",
+            "subSections": [
+              {
+                "name": "Gear Changing - up (manual transmission)",
+                "descriptions": [
+                  "Keep up the same speed.",
+                  "Spot left foot on clutch pedal.",
+                  "Depress clutch nearly to the contact point.",
+                  "Let go of the accelerator pedal smoothly and completely while depressing the clutch pedal completely.",
+                  "Place your right foot on the accelerator pedal.",
+                  "Select the correct gear.",
+                  "Replace your hand back on the steering wheel.",
+                  "Then you can start releasing the clutch pedal slowly and smoothly to the contact point.",
+                  "Whilst releasing the clutch pedal, completely depress the accelerator pedal smoothly and progressively.",
+                  "Completely remove your foot from the clutch pedal."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should change gears while traveling on a straight path, where possible."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Points 3, 4, 5, and 6 can be done in one flowing movement."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Points 8, 9, and 10 can be done in one flowing movement."
+                  }
+                ]
+              },
+              {
+                "name": "Gear Changing - down (manual transmission)",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Let go of the accelerator pedal smoothly.",
+                  "If necessary, brake to appropriate speed for circumstances. (Before shifting to a lower gear, braking shall be completed).",
+                  "Remove your foot from the brake pedal.",
+                  "Lay/Place your foot on the accelerator pedal.",
+                  "Completely depress the clutch pedal.",
+                  "Select the correct gear.",
+                  "Replace your hand back on the steering wheel.",
+                  "Then you can start releasing the clutch pedal slowly and smoothly to the contact point.",
+                  "Whilst releasing the clutch pedal, completely depress the accelerator pedal smoothly and progressively.",
+                  "Completely remove your foot from the clutch pedal."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "When the speed of the vehicle increases considerably without use of the accelerator and if constant use of the service brake is necessary, engage to lower gear in order to minimize an increase in speed by braking first. As necessary repeat this procedure. Never reduce the speed of the vehicle by selecting a lower gear to assist or replace braking."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You should change gears, whilst traveling on a straight path, where possible."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "On the off chance that a rising slope is being arranged where street speed diminishes in spite of persistent application of the accelerator pedal, at that point the change down to a lower gear will be completed before the speed drops to a point where the utilization of the lower gear won't fill its need or the engine starts laboring."
+                  }
+                ]
+              },
+              {
+                "name": "Gear Changing - up (automatic transmission) (manual selection)",
+                "descriptions": [
+                  "Keep up the same speed.",
+                  "Select the correct gear.",
+                  "Replace your hand back on the steering wheel.",
+                  "Increase speed."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "In order to negotiate a steep decline, a manual selection of a lower gear is required, if necessary."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You should change gears, whilst traveling on a straight path, where possible."
+                  }
+                ]
+              },
+              {
+                "name": "Gear Changing - down (automatic transmission) (manual selection)",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Let go of the accelerator pedal smoothly.",
+                  "If necessary, brake to appropriate speed for circumstances. (Before shifting to lower gear, braking shall be completed).",
+                  "Select the correct gear.",
+                  "Replace your hand back on the steering wheel."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "When the speed of the vehicle increases considerably without use of the accelerator and if constant use of the service brake is necessary, engage to lower gear in order to minimise an increase in speed by braking first. As necessary repeat this procedure. Never reduce the speed of the vehicle by selecting a lower gear to assist or replace braking."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You should change gears, whilst travelling on a straight path, where possible."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Signalling",
+            "subSections": [
+              {
+                "name": "Signalling",
+                "descriptions": [
+                  "Inspect the appropriate blind spot and rear-view mirror(s), if necessary.",
+                  "Signal in time and for sufficient duration.",
+                  "Replace your hand back on the steering wheel, as necessary.",
+                  "Cancel signal after completing the manoeuvre or when presence has been established, for example, when using the horn."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Signalling too early could create confusion for other road users, care should be taken not to signal too early."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Avoid using direction indicators or hand signals within an intersection unless needed."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "It is not necessary to cancel the brake lights signal (especially at night) after the vehicle has been brought to a complete standstill."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "If brake lights, headlights, or horn are used as a signal it is not necessary to check blind spots."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "You should not check the blind spot before braking. The rear-view mirror(s) should be checked before braking. Brake lights are considered a signal."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lane changing",
+            "subSections": [
+              {
+                "name": "Lane changing",
+                "descriptions": [
+                  "Comply to all rules, road markings, signals and road traffic signs.",
+                  "Check appropriate blind spot and rear-view mirror(s).",
+                  "Indicate intention.",
+                  "Look at the appropriate blind spot.",
+                  "If safe to do so, steer to selected lane.",
+                  "Cancel signal."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Avoid changing lanes within an intersection."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Prior to crossing multiple lane-lines the appropriate blind spot should be checked."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Overtaking to the left/right of a hazard",
+            "subModules": [
+              {
+                "name": "Overtaking - to the left of a hazard",
+                "descriptions": [
+                  "A safe following/approaching distance must be acquired.",
+                  "Comply with all rules signals, road traffic signs and road markings.",
+                  "Inspect the blind spot on the left, if necessary.",
+                  "For maximum visibility steer and position the vehicle towards the left without moving any further than necessary, if applicable.",
+                  "Inspect blind spot to the left and rear-view mirror(s).",
+                  "Indicate intention.",
+                  "Look at rear-view mirror(s), if suitable.",
+                  "Brake, if needed.",
+                  "Select the correct gear, if required.",
+                  "Inspect the blind spot to the left.",
+                  "To allow some clear space between vehicle and hazard steer further to the left, if safe.",
+                  "Cancel signal, if required.",
+                  "Increase speed, if required.",
+                  "If intending to return to the right look at your mirror(s) and blind spot to the right before signalling."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Before returning enough clear space must be acquired."
+                  }
+                ]
+              },
+              {
+                "name": "Overtaking - to the right of a hazard",
+                "descriptions": [
+                  "A safe following/approaching distance must be acquired.",
+                  "Comply with all rules signals, road traffic signs and road markings.",
+                  "Inspect the blind spot on the right, if necessary.",
+                  "For maximum visibility steer and position the vehicle towards the right without moving any further than towards the right without moving any further than necessary, if applicable.",
+                  "Inspect blind spot to the right and rear-view mirror(s).",
+                  "Indicate intention.",
+                  "Look at rear-view mirror(s), if suitable.",
+                  "Brake, if needed.",
+                  "Select the correct gear, if required.",
+                  "Inspect the blind spot to the right.",
+                  "To allow some clear space between vehicle and hazard steer further to the right, if safe.",
+                  "Cancel signal, if required.",
+                  "Increase speed, if required.",
+                  "If intending to return to the left look at your mirror(s) and blind spot to the left before signalling."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Before returning enough clear space must be acquired."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Intersection - turning left/right",
+            "subSections": [
+              {
+                "name": "Intersections - turning left",
+                "descriptions": [
+                  "Inspect blind spot to the left and rear-view mirror(s).",
+                  "Indicate intention.",
+                  "Comply with all rules signals, road traffic signs and road markings.",
+                  "Inspect the blind spot to the left, if necessary.",
+                  "Place vehicle in lane, if required.",
+                  "Look at rear-view mirror(s).",
+                  "Slow down, if required.",
+                  "Brake, if required.",
+                  "Select the correct gear, if required.",
+                  "Give way to pedestrians, if required.",
+                  "Come to a halt, if required.",
+                  "Select the correct gear, if required.",
+                  "Observe, if necessary.",
+                  "Move off/carry on, if required.",
+                  "Inspect the blind spot to the left, if necessary.",
+                  "Steer into the correct lane, Comply with all rules signals, road traffic signs and road markings.",
+                  "Increase speed as required.",
+                  "Cancel signal, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Before changing direction you must check the blind spot. if you have steered to the left before stopping, it is unnecessary to check the blind spot again after moving off. The observation for moving off will be sufficient"
+                  }
+                ]
+              },
+              {
+                "name": "Intersections - turning right",
+                "descriptions": [
+                  "Inspect blind spot to the right and rear-view mirror(s).",
+                  "Indicate intention.",
+                  "Comply with all rules signals, road traffic signs and road markings.",
+                  "Inspect the blind spot to the right, if necessary.",
+                  "Place vehicle in lane, if required.",
+                  "Look at rear-view mirror(s).",
+                  "Slow down, if required.",
+                  "Brake, if required.",
+                  "Select the correct gear, if required.",
+                  "Give way to approaching traffic and/or pedestrians, if required.",
+                  "Come to a halt, if required. (Make sure the wheels are straight where possible or applicable).",
+                  "Select the correct gear, if required.",
+                  "Observe, if necessary.",
+                  "Move off/carry on, if required.",
+                  "Inspect the blind spot to the right, if necessary.",
+                  "Steer into the correct lane, Comply with all rules signals, road traffic signs and road markings.",
+                  "Increase speed as required.",
+                  "Cancel signal, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "With due safety and consideration for approaching vehicles place the vehicle as close as possible towards centre of intersection prior to turning."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "When it is safe to do so, If the traffic signal change the vehicle waiting within such intersection shall be given the opportunity to leave."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Before changing direction you must check the blind spot. if you have steered to the left before stopping, it is unnecessary to check the blind spot again after moving off. The observation for moving off will be sufficient."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Speed control",
+            "subSections": [
+              {
+                "name": "Speed Control",
+                "descriptions": [
+                  "1. Look at rear-view mirror(s).",
+                  "2. In accordance with road surface, gradient of the road, traffic pattern, visibility and speed restriction you should adjust speed (select the correct gear) as necessary.",
+                  "3. Increase speed, if required.",
+                  "4. Decrease speed, if required.",
+                  "5. Brake, if required."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "When the speed of the vehicle increases considerably without use of the accelerator and if constant use of the service brake is necessary, engage to lower gear in order to minimise an increase in speed by braking first.\nAs necessary repeat this procedure.\nNever reduce the speed of the vehicle by selecting a lower gear to assist or replace braking"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Stopping - in traffic (manual transmission)",
+            "subSections": [
+              {
+                "name": "Stopping - in traffic (manual transmission)",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Slow down.",
+                  "In complete control, keeping both hands on the steering wheel and slow down or brake smoothly, progressively and timeously without locking wheels.",
+                  "Without stalling engine or laboring disengage clutch completely just before the vehicle is brought to a Complete standstill.",
+                  "Acquire and/or keep up a clear space alongside or behind obstruction or road user, where suitable. (Approximately 4 -5 metres behind the vehicle ahead).",
+                  "Halt/Stop in agreement with signals, rules, markings and road traffic signs.",
+                  "If needed apply parking brake.",
+                  "If needed select neutral."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If there is a possibility of rolling or when stationary for any length of time, parking brake must be applied, but may not be essential depending on the traffic signs, stop/start progress of traffic, and the gradient of the road."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "When you're stationary for any length of time, neutral must be selected, but this may not be essential depending on traffic signals and stop/start progress of traffic."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "The sequence to apply a foot-operated parking brake is to select neutral with the service brake depressed and then to apply the parking brake."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "The brake pedal should be depressed before disengaging the clutch, in order to prevent coasting when coming to a stop. On stop-start traffic or when stopping on an incline, this is not a requirement."
+                  }
+                ]
+              },
+              {
+                "name": "Stopping - in traffic (automatic transmission)",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Slow down.",
+                  "In complete control, keeping both hands on the steering wheel and slow down or brake smoothly, progressively and timeously without locking wheels.",
+                  "Acquire and/or keep up a clear space alongside or behind obstruction or road user, where suitable. (Approximately 4 - 5 metres behind the vehicle ahead).",
+                  "Halt/Stop in agreement with signals, rules, markings and road traffic signs.",
+                  "Keep up pressure on brake pedal.",
+                  "If needed apply parking brake."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If there is a possibility of rolling or when stationary for any length of time, parking brake must be applied, but may not be essential depending on the time of traffic signs, stop/start progress of traffic, and the gradient of the road."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "The sequence to apply a foot-operated parking brake is to select neutral with the service brake depressed and then to apply the parking brake."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Freeways entering and exiting",
+            "subSections": [
+              {
+                "name": "Freeways - entering",
+                "descriptions": [
+                  "Choose appropriate lane of the on-ramp.",
+                  "Inspect the correct blind spot and rear-view mirror(s).",
+                  "Indicate intention, if necessary.",
+                  "Increase speed, if needed.",
+                  "Look at rear-view mirror(s), if applicable.",
+                  "Slow down, if needed.",
+                  "Brake, if needed.",
+                  "Give way in accordance with traffic pattern, markings, rules of the road, signals and road traffic signs.",
+                  "Come to a stop, if needed.",
+                  "Select the correct gear, if needed.",
+                  "If necessary observe.",
+                  "If required move off/proceed when safe to do so.",
+                  "Look at the necessary blind spots.",
+                  "Obtain sufficient clear space and merge with traffic.",
+                  "Cancel signal, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should drive in the middle of the edge lines of the on-ramp."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Never overtake on a single lane on-ramp."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Upon entering a freeway, a left and right blind spot check must be done."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "For a safe gap, additional blind spot checks may be required."
+                  }
+                ]
+              },
+              {
+                "name": "Freeways - exiting",
+                "descriptions": [
+                  "Comply with all rules signals, road traffic signs road markings.",
+                  "Inspect the correct blind spot and rear-view mirror(s).",
+                  "Indicate intention, if necessary.",
+                  "Look at the blind spots to the left and right.",
+                  "If achievable maintain speed and enter off-ramp.",
+                  "Cancel signal, if necessary.",
+                  "Inspect rear-view mirror(s).",
+                  "Slow down, if required."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should drive in the middle of the edge lines of the on-ramp."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Never overtake on a single lane on-ramp."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Emergency stop",
+            "subSections": [
+              {
+                "name": "Emergency Stop",
+                "descriptions": [
+                  "Upon instruction to stop apply service brake.",
+                  "Within the shortest possible distance you should bring the vehicle to a stop in a controlled manner."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If your emergency stop was carried out satisfactorily the first time you will not be requested to repeat again."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "If the wheel should lock you should release pressure on the brake pedal as necessary."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "More Modules",
+        "sections": [
+          {
+            "name": "Mirrors - use of",
+            "subSections": [
+              {
+                "name": "Mirrors - use of",
+                "descriptions": [
+                  "While the vehicle is stationary adjust rear-view mirror(s) for maximum rear-view vision, if needed.",
+                  "On approach to any hazard inspect rear-view mirror(s).",
+                  "Every 5-8 seconds always check rear-view mirror(s).",
+                  "Inspecting/Checking your rear-view mirror(s) should be of sufficient duration to conclude traffic situations to the rear."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Responsibility should be taken to never look in mirror(s) for too long a period."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Exterior rear-view mirrors shall be checked in a circumstance of an enclosed cabin both."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Signalling - horn",
+            "subSections": [
+              {
+                "name": "Signalling - horn",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Signal only when required, only for acceptable duration and in useful time.",
+                  "Replace your hand back to the steering wheel, as necessary."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Following other vehicles",
+            "subSections": [
+              {
+                "name": "Following other vehicles",
+                "descriptions": [
+                  "Maintain a minimum 2-second following distance where possible.",
+                  "When being followed too closely or under unfavorable conditions such as poor visibility, slippery surface, rain, the following distance shall be increased."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You will be penalised every 5-8 seconds if you fail to maintain the minimum following distance of two (2) seconds under"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Being overtaken - on the left/right-hand side",
+            "subSections": [
+              {
+                "name": "Being overtaken - on the left-hand side",
+                "descriptions": [
+                  "Look at blind spot to the right and rear-view mirror(s).",
+                  "Position vehicle by steering in the centre of traffic lane or as far right as is safe.",
+                  "Whilst being overtaken do not accelerate."
+                ]
+              },
+              {
+                "name": "Being overtaken - on the right-hand side",
+                "descriptions": [
+                  "Look at blind spot to the left and rear-view mirror(s).",
+                  "Position vehicle by steering in the centre of traffic lane or as far left as is safe.",
+                  "Whilst being overtaken do not accelerate."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "A circle shall be drawn around the black block \"VIOLATION OF TRAFFIC LAW\" and test discontinued, if you cause the vehicle to increase speed, whilst being overtaken on the right-hand side, on a roadway with two- way traffic."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Traffic control signals",
+            "subSections": [
+              {
+                "name": "Traffic control signals",
+                "descriptions": [
+                  "If useful, inspect appropriate blind spot and rear view mirror(s).",
+                  "Indicate intention, if required.",
+                  "Comply with traffic control signal.",
+                  "Look at rear view mirror(s), if needed.",
+                  "Slow down or brake, if needed.",
+                  "Select the correct gear, if needed.",
+                  "Stop, if needed.",
+                  "Select the correct gear, if needed.",
+                  "Observe, if needed.",
+                  "If safe to do so move off/proceed."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Directions given by traffic officers or police, riding or driving bovine animals, signal-men at level crossings , drivers of emergency vehicles sounding a device or bell, members of a scholar patrol, road work-men and persons leading will be traffic control signals."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Motor Vehicle",
+    "description": "Learn how to accurately execute actions like pre-strip inspection, allay docking, speed management and also get tips on each module. Codes C1, C, EC1 and EC, Code 10",
+    "iconResName": "ic_launcher_foreground",
+    "testReport": {
+      "name": "Heavy motor vehicle test report code C1, C"
+    },
+    "modules": [
+      {
+        "name": "YARD TEST (Test Report)",
+        "sections": [
+          {
+            "name": "Pre-trip inspection - exterior",
+            "iconsResName": "ic_hmv_1",
+            "subSections": [
+              {
+                "name": "Pre-trip inspection - exterior",
+                "descriptions": [
+                  "Look under the vehicle for obvious spills, leaks, obstructions and so forth.",
+                  "Unlock all the doors",
+                  "Check the vehicle for possible damage, if possible from top to bottom, left to right in an anticlockwise direction.",
+                  "Inspect the right-hand rear-view mirror for damage, stability and cleanliness.",
+                  "Inspect the right-hand part of the windscreen for damage and cleanliness.",
+                  "Inspect wiper blade on the right for wear, cleanliness, stability and leave in drawn-out position, if possible.",
+                  "Inspect the front wheel tyre tread on the right: for sidewall damage, inflation, wear and damage, oil, grease leaks, valve cap and wheel nuts.",
+                  "Check if the right front side lenses and reflectors are clean, steady and not damaged.",
+                  "Look if the front of the vehicle is not damaged, if the bonnet, grill and bumper are secured.",
+                  "State that fan-belt, water, oil and brake fluid should be checked.",
+                  "Check if the front registration plate is clean, steady, valid and not damaged.",
+                  "Inspect front reflector and lenses on the left as explained in point",
+                  "Inspect the front wheel tyre tread on the left as explained in point 7.",
+                  "Inspect left-side portion of the windscreen as explained in point 5.",
+                  "Inspect wiper blade on the left as explained point 6.",
+                  "Inspect validity on Roadworthiness/ Certificate of Clearance disc (if applicable).",
+                  "Inspect side mirror on the left as explained in point 4.",
+                  "Check if the left-hand doors and window winders (if manually operative) are in working order.",
+                  "Check if the seatbelts are stable and not damaged.",
+                  "Inspect information plate for validity and stability, damage, cleanliness. (lf applicable).",
+                  "Inspect the rear wheel tyre tread on the left as explained in point7",
+                  "Check if the left rear of cab and windows are clean, steady, valid and not damaged. (if applicable).",
+                  "If applicable check tilt cap locking device.",
+                  "Check if the service lines and couplings are stable and not damaged, in case it is an articulated vehicle.",
+                  "Look for air leaks, if necessary.",
+                  "Inspect if the batteries and holder are stable not damaged.",
+                  "Inspect if the air tanks are stable and not damage, and if applicable test water in tanks.",
+                  "Inspect if the certificate of clearance and registration plate for the trailer is valid, in case of an articulated vehicle.",
+                  "Inspect if the left front reflector is stable, clean and not damaged, in case of a trailer.",
+                  "Inspect the left rear wheels. Tread for wear or damage, inflation, dust cap, side walls, oil and grease leaks, wheel-nuts and objects between double wheels, in case it is a truck-tractor.",
+                  "State that the wheel spanner, jack and spare wheel should be checked.",
+                  "Inspect rear reflector and lenses on the left, in case of a truck-tractor as explained in point 8.",
+                  "Inspect if the chevron is clean, stable and not damaged, in case of a truck-tractor.",
+                  "Inspect operation of window or drop sides and door on the left are clean, stable and not damaged.",
+                  "Inspect the left reflectors as explained in point 8.",
+                  "Inspect the left support leg for stability in the case of a trailer.",
+                  "Inspect the information plate in case of a trailer as explained in point 20.",
+                  "Inspect the spare wheels tyre for damage, tread wear, stability, dust cap, side walls and inflation.",
+                  "Make sure the park brake is off on the trailer. (if applicable).",
+                  "Inspect left rear wheels as explained in point 7.",
+                  "Inspect rear reflector and lenses on the left as explained in point 8.",
+                  "Inspect operation of the rear doors, windows and drop sides as explained in point 34.",
+                  "Inspect rear chevron as explained in point 33.",
+                  "Inspect the lights and rear registration plate as explained point 11.",
+                  "Inspect the rear bumper for security and damage.",
+                  "Inspect rear reflector and lenses on the right as explained in point 8.",
+                  "Inspect the rear wheel on the right as explained in point 7.",
+                  "Inspect the support leg on the right, in the case of a semi-trailer as explained in point 36.",
+                  "Inspect operation of the rear doors, windows and drop sides on the right as explained point 34.",
+                  "Inspect the rear light and registration plate, in the case of a truck-tractor as explained in point 11",
+                  "Inspect the reflectors and rear lenses on the right, in the case of a truck tractor as explained in point 8.",
+                  "Inspect the fifth wheel coupling and safety lock pin, in the case of an articulated unit.",
+                  "Inspect the rear wheels on the right, In the case of a truck tractor as explained in point 7.",
+                  "Inspect the exhaust and the rear of the vehicle for damaged and stability.",
+                  "Inspect if the fuel tank and cap are stable.",
+                  "Inspect the rear of cab and windows on the right as explained point 5.",
+                  "Inspect the door(s) on the right as explained point 18.",
+                  "Inspect the front wheel on the right as explained point 7."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "In the case of minor defects, you may be given a chance to rectify them; however the stopwatch will not be stopped."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Pre-trip inspection - interior",
+            "iconsResName": "ic_hmv_2",
+            "subSections": [
+              {
+                "name": "Pre-trip inspection - interior",
+                "descriptions": [
+                  "Make sure the parking brake is applied. (From the driver's seat)",
+                  "Make sure that the gear lever is in neutral position. (In \"P\" or \"N\" for automatic transmission).",
+                  "Check for any interference or obstructions.",
+                  "Where applicable inspect warning lights and gauges.",
+                  "Ensure that the seat is adjusted appropriately for correct driving position.",
+                  "Adjust mirrors so that you will be able to see the whole view of the rear.",
+                  "Twist ignition key to \"ON\" position without starting the engine.",
+                  "Inspect if the electric windows are in good working condition, if necessary.",
+                  "On the instrument panel, check all instruments and mention any changes.",
+                  "Inspect operation of the indicators, rear and front lights, wipers, and horn are in good working condition.",
+                  "Turn the ignition off and put all switches to \"off\" position.",
+                  "Inspect the steering for excessive free play.",
+                  "Inspect pressure on brake and clutch pedals.",
+                  "Put the wipers to their normal position, where applicable.",
+                  "Check if all the doors are properly closed and that all passengers know how to effectively operate the doors.",
+                  "Put on your seatbelt and ensure that your passengers also fasten their seatbelts.",
+                  "Make sure that the passengers know how to operate the release mechanism of the seatbelt."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "The examiner will ask you to operate the lights, direction, horn and wipers to see if they are in good working order."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "The examiner may allow slight mistakes to be rectified but no extra time will be given."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Point 1 and 2, 5 and 6 should be checked in sequence."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Alley docking - to the left/right",
+            "iconsResName": "ic_hmv_3",
+            "subSections": [
+              {
+                "name": "Alley docking - to the right",
+                "options": [
+                  "Drive to the starting point",
+                  "Cancel signal if necessary",
+                  "Apply parking brake",
+                  "Choose neutral (P for automatic transmission) and stand by for instructions."
+                ],
+                "detailedDescriptions": [
+                  {
+                    "name": "Entering",
+                    "descriptions": [
+                      "Check blind spot and rear view mirror(s) on the right.",
+                      "Indicate your intention.",
+                      "Change gear.",
+                      "Half clutch or gain clutch control.",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Drive off/Move off.",
+                      "Before the vehicle changes direction, check blind spot to the left.",
+                      "Without touching any obstacle, steer into the demarcated area.",
+                      "Stop vehicle inside the demarcated area.",
+                      "Apply parking brake.",
+                      "Shift gear to neutral (or \"P\" for automatic transmission).",
+                      "Cancel signal."
+                    ]
+                  },
+                  {
+                    "name": "Leaving",
+                    "descriptions": [
+                      "Inspect appropriate blind spot and mirror(s).",
+                      "Indicate your intention.",
+                      "Change gear.",
+                      "Half clutch or gain clutch control.",
+                      "Observe.",
+                      "Disengage parking brake.",
+                      "Without touching any obstacle, steer out of the demarcated area.",
+                      "Cancel signal."
+                    ]
+                  }
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "The stop watch will not be stopped, if the manoeuvre cannot be done on the 1st attempt and no obstacle has been touched, the vehicle will be positioned in the original starting position where a 2nd (final) attempt will be made."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "No forward movement for a rigid vehicle will be allowed during the attempt but stopping at any point is allowed."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Only one forward movement will be allowed during each attempt in the case of an articulated vehicle."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "If the vehicle rolls, the test will be discontinued, a circle will be drawn around the black block \"Roll\" on the test report."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "Moving off after stopping in the same direction will not be regarded as another movement. Stopping is permitted at any stage during a movement; however, you must observe before moving off, if stationary for longer than 5 seconds."
+                  },
+                  {
+                    "name": "Note F",
+                    "description": "Before the vehicle changes direction while reversing, you are expected to check the opposite blind spot."
+                  },
+                  {
+                    "name": "Note G",
+                    "description": "The 3rd set of obstacles must be passed by the rear end of the vehicle at least in all cases."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Reverse in straight line",
+            "iconsResName": "ic_hmv_4",
+            "subSections": [
+              {
+                "name": "Reverse in straight line",
+                "options": [
+                  "Drive vehicle to the starting point.",
+                  "Apply parking brake.",
+                  "Choose neutral. (\"P\" for automatic transmission)"
+                ],
+                "descriptions": [
+                  "Shift gear to reverse (R).",
+                  "Half clutch or gain clutch control.",
+                  "Observe.",
+                  "Disengage park brake.",
+                  "Move off.",
+                  "Without touching any side boundary lines, maintain vehicle in straight line as pointed out.",
+                  "Stop where directed.",
+                  "Make use of the parking brake.",
+                  "Choose neutral, (or \"P\" for automatic transmission).",
+                  "If manual transmission, free clutch pedal."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You will be given only one attempt."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "If the vehicle rolls, the test will be discontinued, a circle will be drawn around the black block \"Roll\" on the test report."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the vehicle stops for whatever reason after moving off before this manoeuvre is completed, a circle shall be drawn around a black block \"No.att\" and the test will be discontinued."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "The rear wheels of the vehicle should stop inside the 5 m stopping zone or beyond."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "A circle shall be drawn around a black block, and the test will be discontinued. If the vehicle coast during this manoeuvre, it will be considered an \"Uncontrolled action\"."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Left turn",
+            "iconsResName": "ic_hmv_5",
+            "subSections": [
+              {
+                "name": "Left turn",
+                "descriptions": [
+                  "Check blind spot and rear-view mirror(s) to the left.",
+                  "Indicate your intention.",
+                  "Look at the blind spot on the left.",
+                  "Place the vehicle in appropriate lane while steering.",
+                  "Look at rear-view mirrors.",
+                  "Reduce speed.",
+                  "Select the correct gear.",
+                  "Inspect the blind spot to the left.",
+                  "Steer into the correct lane.",
+                  "Look at rear-view mirrors whilst turning to make sure safe follow through of the vehicle round the bend.",
+                  "Increase speed smoothly.",
+                  "Cancel signal.",
+                  "Look at rear-view mirrors."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You will be given only one attempt."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "A circle shall be drawn around a black block \"No.att\" and the test will be discontinued if the vehicle stops for whatever reason after moving off before this manoeuvre is completed."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Vehicle C1 should not touch the boundary lines or centre line and should keep left of such line; otherwise, they shall be marked as follows:\nLEFT TURN\nMount kerb/T. line, the test will be discontinued."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "The move will be finished when the steering axle of the drawing vehicle is on the left side of the road, adjacent to the 45° line, where it meets the broken centre line."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Incline start - (Manual transmission and automatic)",
+            "iconsResName": "ic_hmv_6",
+            "subSections": [
+              {
+                "name": "Incline start (manual transmission)",
+                "descriptions": [
+                  "Without allowing the vehicle to roll backwards, stop where instructed by the examiner.",
+                  "Make use of the parking brake.",
+                  "Shift gear to neutral.",
+                  "Look at appropriate blind spot and rear-view mirror(s), if applicable.",
+                  "Indicate your intention, if necessary.",
+                  "Shift/Select the right gear.",
+                  "Half clutch or gain clutch control.",
+                  "Observe.",
+                  "Disengage parking brake.",
+                  "Without rolling back, drive off.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should select neutral with the service brake depressed and then apply the parking brake if the vehicle is equipped with a foot-operated parking brake."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You will be penalised if you spin the wheels when driving off for:\nINCLINE START\n(1) Move."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "You will be given only one attempt."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  }
+                ]
+              },
+              {
+                "name": "Incline start (automatic transmission)",
+                "descriptions": [
+                  "Without allowing the vehicle to roll backwards, stop where instructed by the examiner.",
+                  "Make use of parking brake.",
+                  "Look at appropriate blind spot and rear-view mirror(s), if applicable.",
+                  "Indicate your intention, if necessary.",
+                  "Observe.",
+                  "Disengage parking brake.",
+                  "Without rolling back, drive off.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You will be penalised if you spin the wheels when driving off for:\nINCLINE START\n(1) Move."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You will be given only one attempt."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ROAD TEST (Test Report)",
+        "sections": [
+          {
+            "name": "Starting procedure - manual transmission",
+            "iconsResName": "ic_hmv_7",
+            "subSections": [
+              {
+                "name": "Starting procedure - manual transmission",
+                "descriptions": [
+                  "Make sure that the parking brake is applied.",
+                  "Make sure that the gear-lever is in neutral position.",
+                  "Ensure all warning lights and gauges are in non-function position.",
+                  "Without starting the engine twist the ignition key to \"ON\" position.",
+                  "Check if the dashboard instruments are in working order.",
+                  "If applicable apply choke or guarantee choke is cancelled.",
+                  "Put engine control switch to \"on\" (Diesel vehicles only).",
+                  "Make use of pre-heater if needed (Diesel vehicles only).",
+                  "To start the engine twist ignition key further.",
+                  "Remove your hand on the key as soon as engine starts.",
+                  "Inspect the gauges and warning lights for systems malfunction.",
+                  "Build up air pressure by letting the engine idle until appropriate instruments indicate that air pressure is correct.",
+                  "Stop the operation of choke, where applicable."
+                ]
+              },
+              {
+                "name": "Starting procedure - automatic transmission",
+                "descriptions": [
+                  "Make sure that the parking brake is applied.",
+                  "Make sure the gear-lever is in \"N\" or \"P\" position.",
+                  "Ensure all warning lights and gauges are in non-function position.",
+                  "Without starting the engine twist the ignition key to \"ON\" position.",
+                  "Inspect the gauges and warning lights for malfunction.",
+                  "If applicable apply choke or guarantee choke is cancelled.",
+                  "Put engine control switch to \"on\" (Diesel vehicles only).",
+                  "Make use of pre-heater if needed (Diesel vehicles only).",
+                  "To start the engine twist ignition key further.",
+                  "As soon as the engine starts let go of the key.",
+                  "Inspect the gauges and warning lights for systems malfunction.",
+                  "Build-up air pressure by letting the engine idle until appropriate instruments indicate that air pressure is correct.",
+                  "Stop the operation of choke, where applicable."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Moving off - manual transmission",
+            "subSections": [
+              {
+                "name": "Moving off/proceed (manual transmission)",
+                "descriptions": [
+                  "Comply to all rules, road markings, signals, and road traffic signs.",
+                  "Check appropriate blind spot and rear-view mirror(s), if necessary.",
+                  "Indicate intention, if necessary.",
+                  "Make sure before entering the intersection there is clear space.",
+                  "Make sure the intersection is clear before entering.",
+                  "Keep up a clear space behind the vehicle ahead before moving off. (Roughly 4 - 5 metres).",
+                  "Select the correct gear.",
+                  "Half clutch or obtain clutch control.",
+                  "Observe.",
+                  "Disengage parking brake, if necessary.",
+                  "Drive off.",
+                  "Increase speed as necessary.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If the vehicle rolls the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You can simultaneously select a gear and observe."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Point 7, 8, and 9 may be done in one flowing movement."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "Before moving off, observation must be done, as well as during stop-start traffic."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "When moving off, you shouldn't cause the wheels of the vehicle to spin. If you do so, you will be penalised."
+                  }
+                ]
+              },
+              {
+                "name": "Moving off/proceed (automatic transmission)",
+                "descriptions": [
+                  "Comply to all rules, road markings, signals and road traffic signs.",
+                  "Check appropriate blind spot and rear-view mirror(s), if necessary.",
+                  "Indicate intention, if necessary.",
+                  "Make sure before entering the intersection there is clear space.",
+                  "Make sure the intersection is clear before entering.",
+                  "Keep up a clear space behind vehicle ahead before moving off. (Approximately 4 - 5 metres).",
+                  "Select the correct gear, if applicable.",
+                  "Observe.",
+                  "Disengage parking brake, if applicable.",
+                  "Move off.",
+                  "Increase speed as necessary.",
+                  "Cancel signal, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If the vehicle rolls, the test will be discontinued. A circle will be drawn around the black block \"Roll\"."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You can simultaneously select a gear and observe."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "While moving off, you must not cause the wheels of the vehicle to spin. If you do so, you will be penalised for:\nMOVING OFF\n(1) Move ..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Steering",
+            "subSections": [
+              {
+                "name": "Steering",
+                "descriptions": [
+                  "Position hands on the steering wheel with palms of hands and thumbs on circumference of the steering wheel and position hands on the steering wheel in a ten-to-two or quarter-to-three position.",
+                  "Always keep both of your hands on the steering wheel except for the purpose of signalling gear changing or operating controls or devices.",
+                  "Always steer in a controlled manner to avoid negotiating corners or cutting corners or bend too wide.",
+                  "Use the pull-and-push method steer to turn to the left or right.",
+                  "Steer effortlessly.",
+                  "Don't wander or straddle lane markings, if possible.",
+                  "With due regard to moving or stationary hazards adjust position in time.",
+                  "Always keep at least one hand on the steering wheel.",
+                  "Whilst the vehicle is stationary never turn the steering wheel.",
+                  "Counter steer when you have to."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You are not required to use the push-and-pull method of steering during the yard test."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "If you continuously make a steering method fault, such as resting your hand on the gear-lever knob, you will be penalised every 5 - 8 seconds for:\nSTEERING\n(1) Method ..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Clutch - use of",
+            "subSections": [
+              {
+                "name": "Clutch - use of",
+                "descriptions": [
+                  "Apply pressure on the clutch pedal.",
+                  "Half clutch or Gain clutch control.",
+                  "Prevent inexcusable \"Slipping\" of clutch.",
+                  "Prevent inexcusable \"Riding\" of clutch.",
+                  "Prevent inexcusable \"Coasting\".",
+                  "Always remove your foot from the clutch pedal completely except for the intention of justified \"Slipping\", stopping, gear changing, \"Coasting\" or \"Riding\".",
+                  "Without stalling the engine or laboring, disengage the clutch completely just before the vehicle is brought to a complete standstill.",
+                  "Double de-clutch, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "The brake pedal should be depressed before disengaging the clutch, in order to prevent coasting when coming to a stop. On stop-start traffic or when stopping on an incline, this is not a requirement."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Only in stop-start traffic, the foot may rest on the clutch pedal whilst the vehicle's engine is running. Otherwise, you may not rest on the clutch pedal whilst the vehicle's engine."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gear changing up/down (manual transmission)",
+            "subSections": [
+              {
+                "name": "Gear changing - up (manual transmission)",
+                "descriptions": [
+                  "Keep up the same speed.",
+                  "Put your left foot on the clutch pedal.",
+                  "Depress the clutch nearly to the contact point.",
+                  "Let go of the accelerator pedal smoothly and completely while pressing down the clutch pedal completely.",
+                  "Place your right foot on the accelerator pedal.",
+                  "Select the correct gear.",
+                  "Replace your hand back on the steering wheel.",
+                  "Then you can start releasing the clutch pedal slowly and smoothly to the contact point.",
+                  "While releasing the clutch pedal completely, depress the accelerator pedal smoothly and progressively.",
+                  "Completely remove your foot from the clutch pedal."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should change gears whilst traveling on a straight course."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Points 3, 4, 5, and 6 may be done in one flowing movement."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Points 8, 9, and 10 may be done in one flowing movement."
+                  }
+                ]
+              },
+              {
+                "name": "Gear changing - down (manual transmission)",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Let go of the accelerator pedal smoothly.",
+                  "If necessary, brake to appropriate speed for circumstances. (Before shifting to lower gear, braking shall be completed).",
+                  "Take off your right foot from the brake pedal.",
+                  "Put your right foot on the accelerator pedal.",
+                  "Completely depress the clutch pedal.",
+                  "Select the correct gear.",
+                  "Put your hand back to the appropriate position on the steering wheel.",
+                  "Then you can start releasing the clutch pedal slowly and smoothly to the contact point.",
+                  "Press down the accelerator pedal smoothly and progressively while releasing the clutch pedal completely.",
+                  "Take your foot off from the clutch pedal."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "When the speed of the vehicle increases considerably without the use of the accelerator and if constant use of the service brake is necessary, engage a lower gear to minimize an increase in speed by braking first. If you fail to select a lower gear with a 2nd attempt, it will be regarded as coasting. Make sure you don't select a lower gear as a replacement for braking."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Where possible, you should change gears whilst traveling on a straight course."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "A suitable gear should be engaged before descending a steep gradient."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "On the off chance that a rising slope is being arranged where the road speed diminishes in spite of the continuous application of the accelerator pedal, then the change down to a lower gear will be completed before the speed drops to a point where the utilization of the lower gear won't fulfill its need or the engine starts laboring."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "Use the engine/exhaust brake in accordance with the gradient of the road or traffic pattern."
+                  }
+                ]
+              },
+              {
+                "name": "Gear changing - up (automatic transmission)",
+                "descriptions": [
+                  "Keep up the same speed.",
+                  "Select the correct gear.",
+                  "Put your hand back to the appropriate position on the steering wheel.",
+                  "Increase your speed."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "In order to negotiate a steep decline, a manual selection of a lower gear is required, if necessary."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Where possible, you should change gears whilst traveling on a straight course."
+                  }
+                ]
+              },
+              {
+                "name": "Gear changing - down (automatic transmission) (manual selection)",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Leave the accelerator pedal smoothly.",
+                  "Reduce the speed if necessary to appropriate speed for circumstances (braking shall be completed before changing down).",
+                  "Change gear.",
+                  "Put your hand back to the appropriate position on the steering wheel."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "When the speed of the vehicle increases considerably without use of the accelerator and if constant use of the service brake is necessary, engage to lower gear in order to minimise an increase in speed by braking first. As necessary repeat this procedure. Make sure you don't select lower gear as a replacement for braking."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Where possible, you should change gears whilst travelling on a straight course."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "A suitable gear should be engaged before descending a steep gradient."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "Use the engine/exhaust brake in accordance with the gradient of the road or traffic pattern."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Signalling",
+            "subSections": [
+              {
+                "name": "Signalling",
+                "descriptions": [
+                  "Inspect the appropriate blind spot and rear-view mirror(s), if necessary.",
+                  "Indicate your intention in good time and for sufficient duration.",
+                  "Replace your hand back to the steering wheel, as necessary.",
+                  "Cancel signal after completing the manoeuvre or when presence has been established, for example, when using the horn."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Signalling too early could create confusion for other road users, care should be taken not to signal too early."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Avoid using direction indicators or hand signals within an intersection unless needed."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "It is not necessary to cancel the brake lights signal (especially at night) after the vehicle has been brought to a complete standstill."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "If brake lights, headlights, or horn are used as a signal it is not necessary to check blind spots."
+                  },
+                  {
+                    "name": "Note E",
+                    "description": "You should not check the blind spot before braking. The rear-view mirror(s) should be checked before braking. Brake lights are considered a signal."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lane changing",
+            "subSections": [
+              {
+                "name": "Lane changing",
+                "descriptions": [
+                  "Comply to all rules, road markings, signals and road traffic signs.",
+                  "Check appropriate blind spot and rear-view mirror(s).",
+                  "Indicate your intention.",
+                  "Look at the appropriate blind spot.",
+                  "If safe to do so steer to selected lane.",
+                  "Cancel signal."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Avoid changing lanes within an intersection."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Prior to crossing multiple lane-lines the appropriate blind spot should be checked."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Overtaking - to the left/right of a hazard",
+            "subSections": [
+              {
+                "name": "Overtaking - to the left of a hazard",
+                "descriptions": [
+                  "A safe following/approaching distance must be acquired.",
+                  "Comply with all rules signals, road traffic signs and road markings.",
+                  "Look at the appropriate blind spot, if applicable.",
+                  "For maximum visibility steer and position the vehicle towards the left without moving any further than necessary, if applicable.",
+                  "Inspect blind spot to the left and rear-view mirror(s).",
+                  "Indicate your intention.",
+                  "Look at rear-view mirror(s), if suitable.",
+                  "Brake, if needed.",
+                  "Select the correct gear, if required.",
+                  "Inspect the blind spot.",
+                  "To allow some clear space between vehicle and hazard steer further to the left, if safe.",
+                  "Cancel signal, if required.",
+                  "Increase your speed, if required.",
+                  "If intending to return to the right look at your mirror(s) and blind spot to the right before signalling."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Before returning enough clear space must be acquired."
+                  }
+                ]
+              },
+              {
+                "name": "Overtaking - to the right of a hazard",
+                "descriptions": [
+                  "A safe following/approaching distance must be acquired.",
+                  "Comply with all rules, signals, road traffic signs, and road markings.",
+                  "Look at the appropriate blind spot, if necessary.",
+                  "For maximum visibility steer and position the vehicle towards the right without moving any further than necessary, if applicable.",
+                  "Inspect blind spot to the right and rear-view mirror(s).",
+                  "Indicate your intention.",
+                  "Look at blind spot and rear-view mirrors.",
+                  "Reduce speed, if needed.",
+                  "Select the correct gear, if needed.",
+                  "Look at blind spot.",
+                  "To allow some clear space between vehicle and hazard steer further to the right, if safe.",
+                  "Cancel signal.",
+                  "Increase your speed, if needed.",
+                  "If intending to return to the left look at your mirror(s) and blind spot to the left before signalling."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Before returning enough clear space must be acquired."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Intersection - turning left/right",
+            "subSections": [
+              {
+                "name": "Intersections - turning left",
+                "descriptions": [
+                  "Inspect blind spot to the left and rear-view mirror(s).",
+                  "Indicate your intention.",
+                  "Comply with all rules, signals, road traffic signs, and road markings.",
+                  "Inspect the blind spot to the left, if necessary.",
+                  "Place vehicle in lane, if required.",
+                  "Look at mirrors.",
+                  "Reduce speed if required.",
+                  "Brake if needed.",
+                  "Select the correct gear, if required.",
+                  "Give way to pedestrians if required.",
+                  "Come to a halt, if required.",
+                  "Select the correct gear, if required.",
+                  "Observe if necessary.",
+                  "Drive off or proceed, if required.",
+                  "Inspect the blind spot to the left, if necessary.",
+                  "Steer into the correct lane, Comply with all rules signals, road traffic signs and road markings.",
+                  "Look at rear view mirrors whilst turning to guarantee safe follow through of vehicle.",
+                  "Increase speed as required.",
+                  "Cancel signal, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Before changing direction you must check the blind spot. if you have steered to the left before stopping, it is unnecessary to check the blind spot again after moving off. The observation for moving off will be sufficient."
+                  }
+                ]
+              },
+              {
+                "name": "Intersections - turning right",
+                "descriptions": [
+                  "Inspect blind spot to the right and rear-view mirror(s).",
+                  "Indicate your intention.",
+                  "Comply with all rules, signals, road traffic signs, and road markings.",
+                  "Inspect the blind spot to the right, if necessary.",
+                  "Place vehicle in lane, if required.",
+                  "Look at mirrors.",
+                  "Reduce speed if necessary.",
+                  "Brake if required.",
+                  "Select the correct gear, if required.",
+                  "Give way to approaching traffic and/or pedestrians, if required.",
+                  "Stop, if required.",
+                  "Select the correct gear, if required.",
+                  "Observe, if necessary.",
+                  "Drive off/proceed, if required.",
+                  "Inspect the blind spot to the left, if necessary.",
+                  "Steer into the correct lane, Comply with all rules signals, road traffic signs, and road markings.",
+                  "Look at rear view mirrors whilst turning to guarantee safe follow through of vehicle round.",
+                  "Increase speed as required.",
+                  "Cancel signal, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "With due safety and consideration for approaching vehicles place the vehicle as close as possible towards centre of intersection prior to turning."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "When it is safe to do so, If the traffic signal change the vehicle waiting within such intersection shall be given the opportunity to leave."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Before changing direction you must check the blind spot. If you have steered to the left before stopping, it is unnecessary to check the blind spot again after moving off. The observation for moving off will be sufficient."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Speed control",
+            "subSections": [
+              {
+                "name": "Speed control",
+                "descriptions": [
+                  "Inspect rear view mirrors.",
+                  "In accordance with road surface, gradient of the road, traffic pattern, visibility and speed restriction you should adjust speed (select the correct gear) as necessary.",
+                  "Increase speed, if required.",
+                  "Decrease speed, if required.",
+                  "Use the engine or exhaust brake if required.",
+                  "Brake, if necessary."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "When the speed of the vehicle increases considerably without use of the accelerator and if constant use of the service brake is necessary, engage to lower gear in order to minimise an increase in speed by braking first. As necessary repeat this procedure. Never reduce the speed of the vehicle by selecting a lower gear to assist or replace braking."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "You will be penalised every 5 - 8 second if during the road test you drive too slowly for:\nSPEED CONTROL\n(5) Slow……………………….."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Use the engine exhaust brake in accordance with gradient of the road or traffic pattern."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Stopping - in traffic (manual transmission)",
+            "subSections": [
+              {
+                "name": "Stopping - in traffic (manual transmission)",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Reduce your speed.",
+                  "In complete control, keeping both hands on the steering wheel and slow down or brake smoothly, progressively and timeously without locking wheels.",
+                  "Shift to a lower gear, if required.",
+                  "Without stalling engine or laboring disengage clutch completely just before the vehicle is brought to a complete standstill.",
+                  "Acquire and/or keep up a clear space alongside or behind obstruction or road user, where suitable. (Approximately 4 - 5 meters behind the vehicle ahead).",
+                  "Halt/Stop in agreement with signals, rules, markings, and road traffic signs.",
+                  "If needed apply parking brake.",
+                  "Before the service brake is completely released make sure the parking brake is effective.",
+                  "If needed select neutral."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If the is a possibility of rolling or when stationary for any length of time parking brake must be applied, but may not be essential depending at the time of traffic signs, stop/start progress of traffic and the gradient of the road."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Apply neutral gear when the vehicle will be stationary for long period of time but this may not be necessary depending upon traffic signs, stop/start progress of traffic."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "The sequence to apply a foot-operated parking brake is to select neutral with the service brake depressed and then to apply the parking brake."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "The brake pedal should be depressed before disengaging the clutch, in order to prevent coasting when coming to a stop. On a stop-start traffic or when stopping on an incline this is not requirement."
+                  }
+                ]
+              },
+              {
+                "name": "Stopping - in traffic (automatic transmission)",
+                "descriptions": [
+                  "Inspect rear-view mirrors.",
+                  "Decrease your speed.",
+                  "In complete control, keeping both hands on the steering wheel and slow down or brake smoothly, progressively and timeously without locking wheels.",
+                  "Stop in compliance with signals, road traffic signs, markings and rules.",
+                  "Acquire and/or keep up a clear space alongside or behind obstruction or road user, where suitable (Approximately 4 - 5 metres behind the vehicle ahead).",
+                  "Keep up pressure on brake pedal.",
+                  "If needed apply parking brake."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If there is a possibility of rolling or when stationary for any length of time, parking brake must be applied, but may not be essential depending on the time of traffic signs, stop/start progress of traffic and the gradient of the road."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "The sequence to apply a foot-operated parking brake is to select neutral with the service brake depressed and then to apply the parking brake."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Freeways entering and exiting",
+            "subSections": [
+              {
+                "name": "Freeways - entering",
+                "descriptions": [
+                  "Choose appropriate lane of the on-ramp.",
+                  "Inspect the correct blind spot and rear-view mirror(s).",
+                  "Indicate your intention, if necessary.",
+                  "Increase your speed, if needed.",
+                  "Inspect rear-view mirrors, if necessary.",
+                  "Reduce your speed, if needed.",
+                  "Brake, if needed.",
+                  "Give way in accordance with traffic pattern, markings, rules of the road, signals and road traffic signs.",
+                  "Stop, if needed.",
+                  "Select the correct gear, if necessary.",
+                  "If necessary observe.",
+                  "If required move off/proceed when safe to do so.",
+                  "Look at the necessary blind spot(s).",
+                  "Obtain sufficient clear space and merge with traffic.",
+                  "Cancel signal, if applicable."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should drive in the middle of the edge lines of the on-ramp."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Never overtake on a single lane on-ramp."
+                  },
+                  {
+                    "name": "Note C",
+                    "description": "Upon entering a freeway, a left and right blind spot check must be done."
+                  },
+                  {
+                    "name": "Note D",
+                    "description": "For a safe gap, additional blind spot checks may be required."
+                  }
+                ]
+              },
+              {
+                "name": "Freeways - exiting",
+                "descriptions": [
+                  "Comply with all rules signals, road traffic signs and road markings.",
+                  "Look at rear-view mirrors.",
+                  "Inspect blind spot to the left.",
+                  "Indicate your intention.",
+                  "Look at blind spots to the left and right.",
+                  "If achievable maintain speed and enter off-ramp.",
+                  "Cancel signal, if applicable.",
+                  "Inspect rear-view mirrors.",
+                  "Slow down if required."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You should drive in the middle of the edge lines of the on-ramp."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Never overtake on a single lane on-ramp."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mirrors - use of",
+            "subSections": [
+              {
+                "name": "Mirrors - use of",
+                "descriptions": [
+                  "While the vehicle is stationary adjust rear-view mirror(s) for maximum rear-view vision, if needed.",
+                  "On approach to any hazard inspect rear-view mirror(s).",
+                  "Every 5-8 seconds always check rear-view mirror(s).",
+                  "Checking of rear-view mirrors should be of enough time to gauge traffic situations to the rear.",
+                  "Look at mirror in the direction of turn to make sure the vehicle follows the correct course."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Responsibility should be taken to never look in mirror(s) for too long a period."
+                  },
+                  {
+                    "name": "Note B",
+                    "description": "Exterior rear-view mirrors shall be checked in a circumstance of an enclosed cabin both."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Signaling - horn",
+            "subSections": [
+              {
+                "name": "Signaling - horn",
+                "descriptions": [
+                  "Inspect rear-view mirror(s).",
+                  "Signal only when required, only for acceptable duration and in useful time.",
+                  "Put your hand back to appropriate position on steering wheel."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "If possible do not use air horn in built-up areas"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Following other vehicles",
+            "subSections": [
+              {
+                "name": "Following other vehicles",
+                "descriptions": [
+                  "Maintain a minimum 3-second following distance where possible.",
+                  "When being followed too closely or under unfavorable conditions such as poor visibility, slippery surface, rain, the following distance shall be increased."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "You will be penalised every 5 -8 seconds if you fail to maintain the minimum following distance of two (2) seconds under:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Being overtaken - on the left/right-hand side",
+            "subSections": [
+              {
+                "name": "Being overtaken on the left hand side",
+                "descriptions": [
+                  "Look at blind spot to the right and rear-view mirror(s).",
+                  "Position vehicle by steering in the centre of traffic lane or as far right as is safe.",
+                  "Whilst being overtaken do not accelerate."
+                ]
+              },
+              {
+                "name": "Being overtaken on the right hand side",
+                "descriptions": [
+                  "Look at blind spot to the left and rear-view mirror(s).",
+                  "Position vehicle by steering in the centre of traffic lane or as far left as is safe.",
+                  "Whilst being overtaken do not accelerate."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Traffic control signals",
+            "subSections": [
+              {
+                "name": "Traffic control signals",
+                "descriptions": [
+                  "If useful, inspect appropriate blind spot and rear view mirror(s).",
+                  "Indicate your intention if required.",
+                  "Comply with traffic control signal.",
+                  "Look at rear view mirror(s), if needed.",
+                  "Slow down or brake, if needed.",
+                  "Select the correct gear, if needed.",
+                  "Stop if necessary.",
+                  "Select the correct gear, if needed.",
+                  "Observe if necessary.",
+                  "If safe to do so move off/proceed."
+                ],
+                "notes": [
+                  {
+                    "name": "Note A",
+                    "description": "Directions given by traffic officers or police, riding or driving bovine animals, signal-men at level crossings, drivers of emergency vehicles sounding a device or bell, members of a scholar patrol, road work-men and persons leading will be traffic control signals."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

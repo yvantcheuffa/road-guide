@@ -2,8 +2,11 @@
 <resources>
     <color name="black">@android:color/black</color>
     <color name="white">@android:color/white</color>
-    <color name="colorPrimary">#FF2E7D32</color>
-    <color name="colorPrimaryVariant">#FF1B5E20</color>
-    <color name="colorSecondary">#FFFF9800</color>
-    <color name="colorSecondaryVariant">#FFFF5722</color>
+    <color name="white_">@android:color/white</color>
+    <color name="color_primary">#ff0ca900</color>
+    <color name="color_primary_variant">@color/color_primary</color>
+    <color name="color_secondary">#FFFF9800</color>
+    <color name="color_secondary_variant">#FFFF5722</color>
+    <color name="light_gray">#fff3f3f3</color>
+    <color name="facebook_blue">#ff3d5a98</color>
 </resources>

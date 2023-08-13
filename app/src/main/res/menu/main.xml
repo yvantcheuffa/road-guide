@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/choose_license_type"
+        android:contentDescription="@string/choose_license_type"
+        android:title="@string/choose_license_type"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/more_apps"
+        android:contentDescription="@string/more_apps"
+        android:title="@string/more_apps"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rate_app"
+        android:contentDescription="@string/rate_app"
+        android:title="@string/rate_app"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/faq"
+        android:contentDescription="@string/faq_short"
+        android:title="@string/faq_short"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/share_via"
+        android:contentDescription="@string/share_via"
+        android:title="@string/share_via"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about_us"
+        android:contentDescription="@string/about_us"
+        android:title="@string/about_us"
+        app:showAsAction="never" />
+</menu>
