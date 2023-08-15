@@ -5,6 +5,7 @@
     <dimen name="hairline_height">1dp</dimen>
     <dimen name="margin_default">16dp</dimen>
     <dimen name="text_size_default">16sp</dimen>
+    <dimen name="margin_medium">24dp</dimen>
     <dimen name="margin_large">32dp</dimen>
     <dimen name="margin_extra_large">64dp</dimen>
     <dimen name="text_size_medium">18sp</dimen>

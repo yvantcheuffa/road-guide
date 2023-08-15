@@ -1,5 +1,6 @@
 [
   {
+    "title": "Motorcycle Modules",
     "name": "Motorcycle",
     "description": "Learn how to accurately execute actions like pre-trip inspection, lane change and also get tips on each module. Codes A1 and A",
     "iconResName": "ic_launcher_foreground",
@@ -12,7 +13,7 @@
         "sections": [
           {
             "name": "Pre-trip inspection - around the motorcycle",
-            "iconsResName": "ic_motorcycle_1",
+            "iconResName": "ic_motorcycle_1",
             "subSections": [
               {
                 "name": "Pre-trip inspection",
@@ -61,7 +62,7 @@
           },
           {
             "name": "Pre-trip inspection - on motorcycle",
-            "iconsResName": "ic_motorcycle_2",
+            "iconResName": "ic_motorcycle_2",
             "subSections": [
               {
                 "name": "Pre-trip inspection - on motorcycle",
@@ -187,7 +188,7 @@
           },
           {
             "name": "Speed management",
-            "iconsResName": "ic_motorcycle_3",
+            "iconResName": "ic_motorcycle_3",
             "subSections": [
               {
                 "name": "Speed management",
@@ -266,7 +267,7 @@
           },
           {
             "name": "Turning (Left)",
-            "iconsResName": "ic_motorcycle_4",
+            "iconResName": "ic_motorcycle_4",
             "subSections": [
               {
                 "name": "Intersections - turning left",
@@ -310,7 +311,7 @@
           },
           {
             "name": "Lane changing",
-            "iconsResName": "ic_motorcycle_6",
+            "iconResName": "ic_motorcycle_6",
             "subSections": [
               {
                 "name": "Lane changing",
@@ -353,7 +354,7 @@
           },
           {
             "name": "Incline start",
-            "iconsResName": "ic_motorcycle_5",
+            "iconResName": "ic_motorcycle_5",
             "subSections": [
               {
                 "name": "Incline start",
@@ -393,7 +394,7 @@
         "sections": [
           {
             "name": "Turning speed judgement",
-            "iconsResName": "ic_motorcycle_7",
+            "iconResName": "ic_motorcycle_7",
             "subSections": [
               {
                 "name": "Incline start",
@@ -420,7 +421,7 @@
           },
           {
             "name": "Emergency stop",
-            "iconsResName": "ic_motorcycle_8",
+            "iconResName": "ic_motorcycle_8",
             "subSections": [
               {
                 "name": "Emergency stop",
@@ -461,7 +462,7 @@
           },
           {
             "name": "Emergency swerve",
-            "iconsResName": "ic_motorcycle_9",
+            "iconResName": "ic_motorcycle_9",
             "subSections": [
               {
                 "name": "Emergency swerve",
@@ -811,6 +812,7 @@
     ]
   },
   {
+    "title": "Light Vehicle Modules",
     "name": "Light Motor Vehicle",
     "description": "Learn how to accurately executed actions like pre-trip inspection, allay docking, parallel parking and also get tips on each module. Code B, Code 8",
     "iconResName": "ic_launcher_foreground",
@@ -823,7 +825,7 @@
         "sections": [
           {
             "name": "Pre-trip inspection exterior",
-            "iconsResName": "ic_lmv_1",
+            "iconResName": "ic_lmv_1",
             "subSections": [
               {
                 "name": "Pre-trip inspection exterior",
@@ -871,7 +873,7 @@
           },
           {
             "name": "Pre-trip inspection interior",
-            "iconsResName": "ic_lmv_2",
+            "iconResName": "ic_lmv_2",
             "subSections": [
               {
                 "name": "Pre-trip inspection interior",
@@ -913,7 +915,7 @@
           },
           {
             "name": "Alley docking - to the left/right",
-            "iconsResName": "ic_lmv_3",
+            "iconResName": "ic_lmv_3",
             "subSections": [
               {
                 "name": "Alley docking - to the left",
@@ -1039,7 +1041,7 @@
           },
           {
             "name": "Inline start - manual transmission",
-            "iconsResName": "ic_lmv_4",
+            "iconResName": "ic_lmv_4",
             "subSections": [
               {
                 "name": "Inline start - manual transmission",
@@ -1098,7 +1100,7 @@
           },
           {
             "name": "Turn in the road",
-            "iconsResName": "ic_lmv_5",
+            "iconResName": "ic_lmv_5",
             "subSections": [
               {
                 "name": "Turn in the road",
@@ -1164,7 +1166,7 @@
           },
           {
             "name": "Parallel parking - to the left/right",
-            "iconsResName": "ic_lmv_6",
+            "iconResName": "ic_lmv_6",
             "subSections": [
               {
                 "name": "Parallel parking - to the left",
@@ -1313,7 +1315,7 @@
         "sections": [
           {
             "name": "Starting procedure - manual transmission",
-            "iconsResName": "ic_lmv_7",
+            "iconResName": "ic_lmv_7",
             "subSections": [
               {
                 "name": "Starting procedure - manual transmission",
@@ -2056,6 +2058,7 @@
     ]
   },
   {
+    "title": "Heavy Vehicle Modules",
     "name": "Heavy Motor Vehicle",
     "description": "Learn how to accurately execute actions like pre-strip inspection, allay docking, speed management and also get tips on each module. Codes C1, C, EC1 and EC, Code 10",
     "iconResName": "ic_launcher_foreground",
@@ -2068,7 +2071,7 @@
         "sections": [
           {
             "name": "Pre-trip inspection - exterior",
-            "iconsResName": "ic_hmv_1",
+            "iconResName": "ic_hmv_1",
             "subSections": [
               {
                 "name": "Pre-trip inspection - exterior",
@@ -2143,7 +2146,7 @@
           },
           {
             "name": "Pre-trip inspection - interior",
-            "iconsResName": "ic_hmv_2",
+            "iconResName": "ic_hmv_2",
             "subSections": [
               {
                 "name": "Pre-trip inspection - interior",
@@ -2185,7 +2188,7 @@
           },
           {
             "name": "Alley docking - to the left/right",
-            "iconsResName": "ic_hmv_3",
+            "iconResName": "ic_hmv_3",
             "subSections": [
               {
                 "name": "Alley docking - to the right",
@@ -2263,7 +2266,7 @@
           },
           {
             "name": "Reverse in straight line",
-            "iconsResName": "ic_hmv_4",
+            "iconResName": "ic_hmv_4",
             "subSections": [
               {
                 "name": "Reverse in straight line",
@@ -2311,7 +2314,7 @@
           },
           {
             "name": "Left turn",
-            "iconsResName": "ic_hmv_5",
+            "iconResName": "ic_hmv_5",
             "subSections": [
               {
                 "name": "Left turn",
@@ -2353,7 +2356,7 @@
           },
           {
             "name": "Incline start - (Manual transmission and automatic)",
-            "iconsResName": "ic_hmv_6",
+            "iconResName": "ic_hmv_6",
             "subSections": [
               {
                 "name": "Incline start (manual transmission)",
@@ -2425,7 +2428,7 @@
         "sections": [
           {
             "name": "Starting procedure - manual transmission",
-            "iconsResName": "ic_hmv_7",
+            "iconResName": "ic_hmv_7",
             "subSections": [
               {
                 "name": "Starting procedure - manual transmission",
@@ -3064,7 +3067,12 @@
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "name": "More Modules",
+        "sections": [
           {
             "name": "Mirrors - use of",
             "subSections": [

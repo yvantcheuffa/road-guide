@@ -1,4 +1,4 @@
-package com.southafrica.roadguide.ui.driverfaq
+package com.southafrica.roadguide.ui.driver.faq
 
 import android.content.Intent
 import android.os.Bundle
@@ -10,8 +10,8 @@ import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import com.southafrica.roadguide.R
 import com.southafrica.roadguide.databinding.ActivityDriverFaqBinding
-import com.southafrica.roadguide.databinding.ItemFaqAnswerBinding
 import com.southafrica.roadguide.databinding.ItemFaqBinding
+import com.southafrica.roadguide.databinding.ItemTextviewBinding
 import com.southafrica.roadguide.model.Faq
 import com.southafrica.roadguide.ui.driver.DriverActivity
 import dagger.hilt.android.AndroidEntryPoint
@@ -36,6 +36,7 @@ class DriverFaqActivity : AppCompatActivity() {
     private fun setupViews() {
         binding.btnMenu.setOnClickListener {
             startActivity(Intent(this, DriverActivity::class.java))
+            finish()
         }
     }
 
@@ -59,7 +60,7 @@ class DriverFaqActivity : AppCompatActivity() {
             faqBinding.question.text = getString(R.string.faq_question, index + 1, faq.question)
 
             for (answer in faq.answers) {
-                val answerBinding = ItemFaqAnswerBinding.inflate(
+                val answerBinding = ItemTextviewBinding.inflate(
                     layoutInflater,
                     faqBinding.answersContainer,
                     false

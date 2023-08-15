@@ -1,10 +1,11 @@
-package com.southafrica.roadguide.ui.driverfaq
+package com.southafrica.roadguide.ui.driver.faq
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.southafrica.roadguide.StateData
 import com.southafrica.roadguide.domain.GetDriverFaqsUseCase
 import com.southafrica.roadguide.model.Faq
+import com.southafrica.roadguide.ui.FaqUiState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -17,7 +18,7 @@ class DriverFaqViewModel @Inject constructor(
     getDriverFaqsUseCase: GetDriverFaqsUseCase,
 ) : ViewModel() {
 
-    private var _uiState = MutableStateFlow(DriverFaqUiState())
+    private var _uiState = MutableStateFlow(FaqUiState())
     val uiState = _uiState.asStateFlow()
 
     init {

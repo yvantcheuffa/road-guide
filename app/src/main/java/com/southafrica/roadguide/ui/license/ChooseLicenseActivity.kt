@@ -4,8 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.southafrica.roadguide.databinding.ActivityChooseLicenseBinding
-import com.southafrica.roadguide.ui.driverfaq.DriverFaqActivity
-import com.southafrica.roadguide.ui.learner.LearnerFaqActivity
+import com.southafrica.roadguide.ui.driver.faq.DriverFaqActivity
+import com.southafrica.roadguide.ui.learner.faq.LearnerFaqActivity
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

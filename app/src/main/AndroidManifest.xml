@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
+        android:name=".App"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -10,14 +11,19 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:name=".App"
         android:theme="@style/Theme.RoadGuide"
         tools:targetApi="31">
         <activity
-            android:name=".ui.learner.LearnerFaqActivity"
+            android:name=".ui.driver.section.ModuleSectionActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.driverfaq.DriverFaqActivity"
+            android:name=".ui.driver.module.ModuleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.learner.faq.LearnerFaqActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.driver.faq.DriverFaqActivity"
             android:exported="false" />
         <activity
             android:name=".ui.learner.LearnerActivity"
@@ -36,10 +42,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:theme="@style/ChooseLicenceTheme"
             android:name=".ui.license.ChooseLicenseActivity"
             android:exported="true"
-            android:launchMode="singleTask" />
+            android:launchMode="singleTask"
+            android:theme="@style/ChooseLicenceTheme" />
     </application>
 
 </manifest>

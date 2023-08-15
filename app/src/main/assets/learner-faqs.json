@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Why you need a learners license",
+    "answers": [
+      "A learner’s license is a permit that proves that you have a basic knowledge of a motor vehicle and the rules of the road.",
+      "If you have a learner’s license you are only allowed to drive a vehicle when you are supervised and accompanied by a licensed driver."
+    ]
+  },
+  {
+    "question": "How long is a learner’s license valid for in South Africa.",
+    "answers": [
+      "A learner’s license is valid for 24 months and cannot be extended."
+    ]
+  },
+  {
+    "question": "How many categories are available for a learner’s license and the required age to apply?",
+    "answers": [
+      "Code 1: Motorcycle with or without a sidecar, quadrucycle and tricycle. You must be 16 years or older for a motorcycle with engine capacity of 125cc or less and 18 years or older for a motorcycle with an engine capacity of 125 or more.",
+      "Code 2:  Motor vehicles (minibus, good vehicle) with a gross mass of 3500kg or less and you must be 17 years or older to apply for it.",
+      "Code 3: Motor vehicles with a gross mass of 3500 kg or greater and must be 18 years or older to apply for it."
+    ]
+  },
+  {
+    "question": "How can I apply?",
+    "answers": [
+      "Apply online for your learner’s license. Link: https://online.natis.gov.za/#/",
+      "If you could not apply online, find the nearest driving licensing test center (DLTC) to book a test and confirm your test date."
+    ]
+  },
+  {
+    "question": "What are the required documents for a learner’s license application?",
+    "answers": [
+      "Identity document (ID)",
+      "Two identical black-white or color photos (confirm with the DLTC how many photos are required)",
+      "Booking fee",
+      "Proof of postal and residential address. (If the utility bill is not in your name the owner of the bill should make an affidavit declaring that you live at the address and attach the utility bill to the affidavit.",
+      "If you live in an informal settlement a letter from the ward councilor confirming your postal and residential address is required."
+    ]
+  },
+  {
+    "question": "Which form am I required to fill for a learner’s license?",
+    "answers": [
+      "You will complete the learner’s license (LL1) form which is available at the DLTC.",
+      "If you are 65 years old or greater you should also complete a medical certificate from (MC) which will be available too at the DLTC."
+    ]
+  },
+  {
+    "question": "Other requirements that are required from you at the DLTC.",
+    "answers": [
+      "You will be required to do an eye test at the DLTC or have a qualified optometrist to test your eyes and submit the test at the testing center."
+    ]
+  },
+  {
+    "question": "What must I study for a learner’s license test?",
+    "answers": [
+      "Rules of the Road",
+      "Vehicle controls/ motorcycle controls",
+      "Road signs and Road markings"
+    ]
+  },
+  {
+    "question": "Which documents or material is required before the test",
+    "answers": [
+      "Booking receipt",
+      "ID Document",
+      "Pen and pencil",
+      "When collecting your license card, you will need to produce your ID document.",
+      "Licenses not collected within 120 days are destroyed."
+    ]
+  },
+  {
+    "question": "How long does it take to get my learner’s license?",
+    "answers": [
+      "The learner’s license is issued the same day if you have passed and paid the relevant issuing fee"
+    ]
+  }
+]
