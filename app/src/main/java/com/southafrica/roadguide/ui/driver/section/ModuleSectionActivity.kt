@@ -1,12 +1,11 @@
 package com.southafrica.roadguide.ui.driver.section
 
 import android.os.Bundle
-import android.text.SpannableString
-import android.text.style.UnderlineSpan
 import android.view.MenuItem
 import android.view.View.GONE
 import androidx.appcompat.app.AppCompatActivity
 import com.southafrica.roadguide.R
+import com.southafrica.roadguide.Utils.getUnderlinedText
 import com.southafrica.roadguide.databinding.ActivityModuleSectionBinding
 import com.southafrica.roadguide.databinding.ItemDetailedDescriptionBinding
 import com.southafrica.roadguide.databinding.ItemNoteBinding
@@ -40,9 +39,7 @@ class ModuleSectionActivity : AppCompatActivity() {
                 resources.getIdentifier(moduleSection.iconResName, "drawable", packageName)
             binding.icon.setImageResource(iconResId)
         } ?: run { binding.icon.visibility = GONE }
-        val content = SpannableString(moduleSectionTitle)
-        content.setSpan(UnderlineSpan(), 0, content.length, 0)
-        binding.title.text = content
+        binding.title.text = getUnderlinedText(moduleSectionTitle)
         displayModuleSection()
     }
 

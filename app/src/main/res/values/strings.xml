@@ -8,6 +8,7 @@
     <string name="error_loading_driver_faqs">An error occurred while loading driver FAQs</string>
     <string name="error_loading_learner_faqs">An error occurred while loading learner FAQs</string>
     <string name="error_loading_drivers_licenses">An error occurred while loading learner FAQs</string>
+    <string name="error_loading_vehicle_controls">An error occurred while loading vehicle controls</string>
     <string name="faq_question">%1$d. %2$s</string>
     <string name="faq_answer">• %1$s</string>
     <string name="option">• %1$s</string>
@@ -39,4 +40,26 @@
     <string name="k53_signs_controls">K53 Signs and Controls</string>
     <string name="k53_signs_controls_description">K53 Signs and Controls is the most popular FREE Signs and Controls app in South Africa.</string>
     <string name="signs_controls"><![CDATA[Signs & Controls]]></string>
+    <string name="facebook_page_id"><![CDATA[fb://page/<id_here>]]></string>
+    <string name="road_signs">Road signs</string>
+    <string name="road_signs_title">Road Signs</string>
+    <string name="controls">Controls</string>
+    <string name="road_rules">Rules of the road</string>
+    <string name="road_signs_intro">Learn every road sign you can find on the road, know its name, areas where the road sign can be found, purpose and actions you should take.</string>
+    <string name="road_rules_intro">Learn the rules that apply when crossing or entering a road or traffic lane. Know the general rules of a driver/rider, pedestrians right away and much more.</string>
+    <string name="controls_intro">Learn the name and the description of the controls, which are found in the light motor vehicle, heavy motor vehicle and metorcycle.</string>
+    <string name="road_signs_description">Learn different types of road signs like warning, guidance, regulatory and temporary signs.</string>
+    <string name="road_signs_types">Types of road signs</string>
+    <string name="regulatory_signs_title">Regulatory signs</string>
+    <string name="regulatory_signs_description">Regulatory signs are used to regulate the actions of road users.</string>
+    <string name="warning_signs_title">Warning signs</string>
+    <string name="warning_signs_description">Warning signs are used to alert drivers to dangerous situations on or bordering the roadway.</string>
+    <string name="guidance_signs_title">Guidance signs</string>
+    <string name="guidance_signs_description">Guidance signs are provided to help navigate our increasingly complex and developing road network.</string>
+    <string name="temporary_signs_title">Temporary signs</string>
+    <string name="temporary_signs_description">Nearly all road signs can be used in either a permanent or temporary form. Temporary signs are identical to the permanent signs except for one major detail - they have a yellow background color.</string>
+    <string name="road_markings_signs_title">Road markings</string>
+    <string name="road_markings_signs_description">Road markings, painted on the roads surface in white, red, or yellow, like road signs must be obeyed. Disobeying of road markings could also result in serious collisions endangering road users.</string>
+    <string name="controls_description">Learn which controls to use in order to move from point A to B, controls for parking, controls for turning a corner, and many more.</string>
+    <string name="vehicle_types">Type of vehicle</string>
 </resources>

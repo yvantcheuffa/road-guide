@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
+import com.southafrica.roadguide.Utils
 import com.southafrica.roadguide.databinding.FragmentTestBinding
 import dagger.hilt.android.AndroidEntryPoint
 
@@ -25,5 +26,20 @@ class TestFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
+        setupListeners()
+    }
+
+    private fun setupListeners() {
+        with(binding) {
+            btnJoinUs.setOnClickListener {
+                startActivity(Utils.getJoinOnFacebookIntent(requireContext()))
+            }
+            btnBookTest.setOnClickListener { }
+            btnControls.setOnClickListener { }
+            btnK53Test.setOnClickListener { }
+            btnSigns.setOnClickListener { }
+            btnRoadRules.setOnClickListener { }
+        }
     }
 }

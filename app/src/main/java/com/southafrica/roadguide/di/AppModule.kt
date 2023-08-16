@@ -34,5 +34,9 @@ abstract class AppModule {
         @Provides
         @Named("driversLicenses")
         fun provideDriversLicensesFilename() = "drivers-licenses.json"
+
+        @Provides
+        @Named("vehicleControls")
+        fun provideVehicleControlsFilename() = "vehicle-controls.json"
     }
 }

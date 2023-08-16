@@ -1,0 +1,51 @@
+[
+  {
+    "iconResName": "ic_motorcycle",
+    "imageResName": "ic_controls_motorcycle",
+    "name": "Motorcycle Controls",
+    "descriptions": [
+      "Gear lever: Select gear combination with clutch lever",
+      "Clutch lever: Select gear (in combination with gear lever)",
+      "Side-view mirrors: See behind the vehicle",
+      "Front wheel brakes: Brake using the front wheel. This is the most powerful brake and provides at least 3/4 of your braking power. If the front brake locks you must release it immediately.",
+      "Accelerator: Accelerate the motor cycle / go faster.",
+      "Indicator switch: Indicates movement to left or right",
+      "Rear wheel foot brake: Brake using the rear wheel. This is the less powerful brake and should be used in combination with the front wheel brake to slow down the motor cycle.",
+      "Handle bars: Steer the motor cycle to the left or to the right"
+    ]
+  },
+  {
+    "iconResName": "ic_lmv",
+    "imageResName": "ic_controls_lmv",
+    "name": "Light motor vehicle",
+    "descriptions": [
+      "Interior rear-view mirrors: Used to see behind the vehicle",
+      "Wipers: Used to clean the front glass for water",
+      "Exterior side-view mirrors: Use to see behind the vehicle and to its side",
+      "Steering wheel: Steers the vehicle left right or straight",
+      "Indicator lever: Used to signal left or right",
+      "Gear lever: Used to select gear (in combination with clutch)",
+      "Parking brake: Used to hold the vehicle stationary",
+      "Clutch pedal: Used to select gear (in combination with gear lever)",
+      "Foot brake: Used to bring the vehicle to a complete standstill",
+      "Accelerator pedal: Used to accelerate the car / go faster"
+    ]
+  },
+  {
+    "iconResName": "ic_hmv",
+    "imageResName": "ic_controls_hmv",
+    "name": "Heavy motor vehicle",
+    "descriptions": [
+      "Interior rear-view mirrors: Used to see behind the vehicle",
+      "Wipers: Used to clean the front glass for water",
+      "Exterior side-view mirrors: Use to see behind the vehicle and to its side",
+      "Steering wheel: Steers the vehicle left right or straight",
+      "Indicator lever: Used to signal left or right",
+      "Gear lever: Used to select gear (in combination with clutch)",
+      "Parking brake: Used to secure the car when stationary",
+      "Clutch pedal: Used to select gear (in combination with gear lever)",
+      "Foot brake: Used to bring the vehicle to a complete standstill",
+      "Accelerator pedal: Used to accelerate the car / go faster"
+    ]
+  }
+]

@@ -2,7 +2,6 @@ package com.southafrica.roadguide.ui.driver.license
 
 import android.app.ProgressDialog
 import android.content.Intent
-import android.net.Uri
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -14,6 +13,7 @@ import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import com.southafrica.roadguide.R
+import com.southafrica.roadguide.Utils.getJoinOnFacebookIntent
 import com.southafrica.roadguide.databinding.FragmentDriverLicenseBinding
 import com.southafrica.roadguide.model.DriverLicense
 import com.southafrica.roadguide.ui.driver.module.ModuleActivity
@@ -78,13 +78,7 @@ class DriverLicenseFragment : Fragment(), DriverLicenseAdapter.OnDriverLicenceCl
         mProgressDialog.setTitle(getString(R.string.loading_licenses))
         mProgressDialog.setMessage(getString(R.string.waiting_message))
         binding.btnJoinUs.setOnClickListener {
-            val intent = try {
-                requireContext().packageManager.getPackageInfo("com.facebook.katana", 0)
-                Intent(Intent.ACTION_VIEW, Uri.parse("fb://page/<id_here>"))
-            } catch (e: Exception) {
-                Intent(Intent.ACTION_VIEW, Uri.parse("https://www.facebook.com/<user_name_here>"))
-            }
-            startActivity(intent)
+            startActivity(getJoinOnFacebookIntent(requireContext()))
         }
     }
 

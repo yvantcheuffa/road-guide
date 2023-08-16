@@ -2,10 +2,9 @@ package com.southafrica.roadguide.ui.driver.module
 
 import android.content.Intent
 import android.os.Bundle
-import android.text.SpannableString
-import android.text.style.UnderlineSpan
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
+import com.southafrica.roadguide.Utils.getUnderlinedText
 import com.southafrica.roadguide.databinding.ActivityModuleBinding
 import com.southafrica.roadguide.databinding.ItemLicenseModuleBinding
 import com.southafrica.roadguide.databinding.ItemModuleSectionBinding
@@ -36,11 +35,9 @@ class ModuleActivity : AppCompatActivity() {
         with(binding) {
             val iconResId =
                 resources.getIdentifier(driverLicense.iconResName, "drawable", packageName)
-            val content = SpannableString("${driverLicense.name} Modules")
-            content.setSpan(UnderlineSpan(), 0, content.length, 0)
             icon.setImageResource(iconResId)
             name.text = driverLicense.name
-            title.text = content
+            title.text = getUnderlinedText("${driverLicense.name} Modules")
             description.text = driverLicense.description
 
             displayModules(driverLicense.modules)
@@ -52,9 +49,7 @@ class ModuleActivity : AppCompatActivity() {
         for (licenseModule in modules) {
             val licenseModuleBinding =
                 ItemLicenseModuleBinding.inflate(layoutInflater, binding.modulesContainer, false)
-            val content = SpannableString(licenseModule.name)
-            content.setSpan(UnderlineSpan(), 0, content.length, 0)
-            licenseModuleBinding.name.text = content
+            licenseModuleBinding.name.text = getUnderlinedText(licenseModule.name)
 
             for ((licenseModuleIndex, moduleSection) in licenseModule.sections.withIndex()) {
                 val moduleSectionBinding = ItemModuleSectionBinding.inflate(
