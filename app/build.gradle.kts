@@ -4,7 +4,6 @@ plugins {
     kotlin("kapt")
     id("kotlin-parcelize")
     id("dagger.hilt.android.plugin")
-    id("com.diffplug.spotless")
 }
 
 android {

@@ -9,28 +9,5 @@ buildscript {
         classpath(Build.androidBuildTools)
         classpath(Build.kotlinGradlePlugin)
         classpath(Build.hiltAndroidGradlePlugin)
-        classpath(Build.spotlessGradlePlugin)
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.0")
-    }
-}
-
-allprojects {
-    apply<com.diffplug.gradle.spotless.SpotlessPlugin>()
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
-
-configure<com.diffplug.gradle.spotless.SpotlessExtension> {
-    ratchetFrom = "origin/main"
-    kotlin {
-        target("**/*.kt")
-        targetExclude("**/build/**/*.kt", "**/buildSrc/**")
-        ktlint("0.48.2")
-    }
-    format("kts") {
-        target("**/*.kts")
-        targetExclude("**/build/**/*.kts")
     }
 }
