@@ -1,0 +1,2075 @@
+[
+  {
+    "id": "book_test_a",
+    "books": [
+      {
+        "id": "book_test_a_motorcycle",
+        "iconResName": "ic_motorcycle",
+        "quizzes": [
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_1",
+            "answerIndex": 2,
+            "question": "The most important RULE OF THE ROAD in South Africa is?",
+            "answers": [
+              "Always be courteous and considerate towards fellow road users",
+              "Do not exceed the speed limit",
+              "Keep to the left side of the road as far as is safe"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_2",
+            "answerIndex": 2,
+            "question": "Sign L9 warns you about…..ahead",
+            "answers": [
+              "A first-aid post",
+              "A railway crossing",
+              "The road that crosses this road"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_3",
+            "answerIndex": 1,
+            "question": "Under what circumstances, if any, are you allowed to drive your motor vehicle on the right hand-side of a public road with traffic moving in both directions?",
+            "answers": [
+              "When you switch the emergency lights of your vehicle on.",
+              "When a traffic officer orders you to do so",
+              "Under no circumstance"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_4",
+            "answerIndex": 0,
+            "question": "Sign CC9 is found….",
+            "answers": [
+              "At a traffic circle where right of way is applicable",
+              "In dangerous places where roadwork is being done",
+              "On the approach to a sharp curve to the right"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_5",
+            "answerIndex": 2,
+            "question": "You may not have a driver’s license if….(i) You already have a license that authorizes the driving of the same vehicle class. (ii) You are declared unfit to obtain a driving license for a certain period and that period still prevails. (iii) Your license was suspended temporarily and the suspension has not expired.",
+            "answers": [
+              "(i) only is correct",
+              "(ii) and (iii) only are correct",
+              "(i),(ii) and (iii) are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_6",
+            "answerIndex": 0,
+            "question": "What does the warning sign L10 show you?",
+            "answers": [
+              "A priority crossroad ahead and other vehicles from the side must stop or yield at the intersection",
+              "A railway line intersects with the road that you are traveling on",
+              "A 4-way-stop will be found ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_7",
+            "answerIndex": 2,
+            "question": "A vehicle of which the brakes are not working as well as normal, must be towed …",
+            "answers": [
+              "With a rope",
+              "With a tow-bar",
+              "On a trailer"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_8",
+            "answerIndex": 0,
+            "question": "Sign B6 shows you that you…",
+            "answers": [
+              "Must only drive straight on",
+              "Will get a freeway ahead",
+              "Will get a one way road ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_9",
+            "answerIndex": 0,
+            "question": "A safe following distance is, when the vehicle in front of you suddenly stops, you could….",
+            "answers": [
+              "Stop without swerving",
+              "Swerve and stop next to it",
+              "Swerve and pass"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_10",
+            "answerIndex": 2,
+            "question": "Sign E1…..",
+            "answers": [
+              "Shows you that there is a hospital ahead where you must not make noise",
+              "Shows you that you may not pick up people",
+              "Prohibits you from using your hooter"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_11",
+            "answerIndex": 0,
+            "question": "Unless otherwise shown by a sign, the general speed limit in a town or city is….km/h",
+            "answers": [
+              "60",
+              "80",
+              "100"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_12",
+            "answerIndex": 2,
+            "question": "Sign P2 shows you that…",
+            "answers": [
+              "It is special lane for cyclists",
+              "No cyclists are allowed there",
+              "You should be on the lookout for cyclists"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_13",
+            "answerIndex": 2,
+            "question": "The furthest that your vehicle’s dim lights may shine in front of you, is ….m",
+            "answers": [
+              "45",
+              "100",
+              "150"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_14",
+            "answerIndex": 2,
+            "question": "What does sign E4 show you? (i) You may not turn left ahead. (ii) You may not turn left there. (iii) There is one-way to the right ahead",
+            "answers": [
+              "(i) only is correct",
+              "(ii) and (iii) only are correct",
+              "(i) and (iii) only are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_15",
+            "answerIndex": 1,
+            "question": "You may not….",
+            "answers": [
+              "Have passengers in the vehicle if you have a learner’s licence.",
+              "Leave your vehicle unattended while engine is running",
+              "Drive in reverse for more than 100m"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_16",
+            "answerIndex": 0,
+            "question": "Road marking Z5 warns you that…",
+            "answers": [
+              "There is a level crossing with one railway line ahead",
+              "Road cross ahead",
+              "The freeway ends ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_17",
+            "answerIndex": 1,
+            "question": "The last action that you must take before moving to another lane is to….",
+            "answers": [
+              "Switch on your indicator",
+              "Check the blind spot",
+              "Look in the rear view mirror"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_18",
+            "answerIndex": 1,
+            "question": "Sign R1 shows you that the road…",
+            "answers": [
+              "Winds",
+              "Is winding ahead",
+              "Is slippery"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_19",
+            "answerIndex": 1,
+            "question": "If you want to change lanes you must….",
+            "answers": [
+              "Switch on your indicator and change lanes",
+              "Give the necessary signal and after looking for other traffic, change lanes",
+              "Apply the brakes lightly and then change lanes"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_20",
+            "answerIndex": 2,
+            "question": "What does sign A3 show you?",
+            "answers": [
+              "It is the same yield sign and you can proceed without stopping",
+              "Make sure that it is safe, wait until all traffic has departed and then drive on",
+              "Stop and drive when it is safe to do so in the sequence that the vehicles stopped at their stop line."
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_21",
+            "answerIndex": 0,
+            "question": "You may pass another vehicle on its left-hand side if it….(i) Indicates that it is going to turn right. (ii) Drives on the right-hand side of the road with a shoulder where you can pass. (iii) Drives in town on the right-hand lane with two lanes in the same direction",
+            "answers": [
+              "(i) and (iii) only are correct",
+              "All of the above are correct",
+              "(i) only is correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_22",
+            "answerIndex": 1,
+            "question": "Sign U4 shows you that the road….",
+            "answers": [
+              "Winds for 12km",
+              "Winds 12km from there",
+              "Is slippery for 12km"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_23",
+            "answerIndex": 1,
+            "question": "You are not allowed to stop….",
+            "answers": [
+              "Opposite a vehicle, where the roadway is 10 m wide",
+              "Where you are allowed also not to park",
+              "5m from the bridge"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_24",
+            "answerIndex": 2,
+            "question": "Sign E3 shows that…..",
+            "answers": [
+              "There is a road with two lanes ahead",
+              "You are not allowed to drive there without permission",
+              "A freeway starts"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_25",
+            "answerIndex": 0,
+            "question": "You may on public road….",
+            "answers": [
+              "Pass another vehicle turning right, on the left-hand side without driving on the shoulder of the road",
+              "Pass another vehicle at any place on the left-hand side if it is turning right",
+              "Pass any vehicle on the right-hand side"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_26",
+            "answerIndex": 2,
+            "question": "What does sign S1 tell you when it flashes?",
+            "answers": [
+              "There is a police roadblock ahead",
+              "There is danger on the road ahead",
+              "There is a robot ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_27",
+            "answerIndex": 0,
+            "question": "At an intersection ….",
+            "answers": [
+              "Pedestrians, who are already crossing the road when the red man signal starts showing, have the right way",
+              "You can pass another vehicle waiting to turn right on its left side by going off the road",
+              "You can stop in it to off load passengers"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_28",
+            "answerIndex": 1,
+            "question": "What does sign B1 show you?",
+            "answers": [
+              "The sign is applicable for 50m",
+              "You may not drive faster than 50 km/h",
+              "You may not drive slower than 50km/h"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_29",
+            "answerIndex": 0,
+            "question": "The fastest speed at which you may tow  a vehicle with a rope is….km/h",
+            "answers": [
+              "60",
+              "45",
+              "30"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_30",
+            "answerIndex": 1,
+            "question": "Sign J8 shows you the …..",
+            "answers": [
+              "Maximum speed allowed at night",
+              "Recommended speed when your lights are on",
+              "Distance to the next town"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_31",
+            "answerIndex": 1,
+            "question": "You may cross or enter a public road….",
+            "answers": [
+              "If the road is clear of traffic for a long distance and can be done without obstructing traffic",
+              "If the road is clear of traffic for a long distance and can be done without obstructing traffic.",
+              "In any manner as long as you use your indicator in time"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_32",
+            "answerIndex": 2,
+            "question": "Sign E9 shows you that….",
+            "answers": [
+              "Only motorcars may pass each other",
+              "No motor vehicle may overtake any vehicle for the next 500m",
+              "There is a bridge ahead where only one vehicle at a time can cross"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_33",
+            "answerIndex": 2,
+            "question": "Your vehicles headlights must be switched on…(i) at any time of the day when you cannot see pedestrians and vehicles from 150m in front of you. (ii) from sunset to sunrise (iii) When it rains and you cannot see vehicles from 100m in front of you.",
+            "answers": [
+              "(ii) only is correct",
+              "(i) and (ii) only are correct",
+              "All of the above are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_34",
+            "answerIndex": 0,
+            "question": "Sign D4 warns you about…",
+            "answers": [
+              "Crossroads ahead with another road",
+              "A tunnel ahead",
+              "The fact that two roads are merging into one road"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_35",
+            "answerIndex": 1,
+            "question": "You may not allow a person or an animal to be towed by your vehicle, unless…",
+            "answers": [
+              "They are at least 10 years old",
+              "The person is in a sidecar or is sitting in the vehicle with a seatbelt fastened",
+              "It is a bicycle"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_36",
+            "answerIndex": 0,
+            "question": "Stop in respect of a traffic officer or a road traffic sign is mandatory. What does this mean?",
+            "answers": [
+              "Stop, but you may proceed when it is safe",
+              "Stop, but you may proceed when you know that the traffic officer has given permission",
+              "Stop and proceed only when the green traffic light is shown"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_37",
+            "answerIndex": 2,
+            "question": "When you see a stop sign with a white hand inside a red circle, what must you do?",
+            "answers": [
+              "Stop and proceed when it is safe",
+              "Stop and wait for the green light",
+              "Stop and proceed only when the traffic light is green"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_38",
+            "answerIndex": 1,
+            "question": "Stop in respect of a traffic officer or a road traffic sign is mandatory. What does this mean?",
+            "answers": [
+              "Stop and wait for the green light",
+              "Stop and proceed only when the traffic light is green",
+              "Stop, but you may proceed when it is safe"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_39",
+            "answerIndex": 2,
+            "question": "The vehicle's ______________ must always be switched on when driving. (i) headlights (ii) rear lights (iii) number plate lights",
+            "answers": [
+              "(i) and (ii) only are correct",
+              "(iii) only is correct",
+              "All of the above are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_40",
+            "answerIndex": 0,
+            "question": "What does sign R8 show you?",
+            "answers": [
+              "A place where the road divides in two directions",
+              "There are two roads that merge ahead",
+              "The road is slippery"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_41",
+            "answerIndex": 1,
+            "question": "When your vehicle is stationary, at night on a public road, it must be visible for…",
+            "answers": [
+              "At least 50m",
+              "At least 150m",
+              "At least 200m"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_42",
+            "answerIndex": 0,
+            "question": "When may you switch on the vehicle's bright lights? (i) When driving in a town at night. (ii) When you follow another vehicle. (iii) When the road is well lit.",
+            "answers": [
+              "(ii) and (iii) only are correct",
+              "(i) and (ii) only are correct",
+              "(iii) only is correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_43",
+            "answerIndex": 1,
+            "question": "You may stop your vehicle on a public road, unless you have a valid reason to do so. What is not a valid reason? (i) To answer your cell phone. (ii) To stop at a place where a sign indicates that you may stop. (iii) To obey a road traffic sign or an instruction given by a traffic officer.",
+            "answers": [
+              "(i) and (iii) only are correct",
+              "(ii) and (iii) only are correct",
+              "(i) only is correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_44",
+            "answerIndex": 0,
+            "question": "On a public road with one lane in each direction, you may overtake another vehicle…",
+            "answers": [
+              "On the left-hand side and the right-hand side",
+              "On the left-hand side only",
+              "On the right-hand side only"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_45",
+            "answerIndex": 2,
+            "question": "To overtake another vehicle on the left-hand side on a public road, you must (i) Make sure that it is safe to do so. (ii) Give a left-turn signal. (iii) Move as closely as possible to the left-hand edge of the roadway. (iv) Signal the driver of the vehicle that you are overtaking that you intend passing. (v) Do not drive off the roadway.",
+            "answers": [
+              "(i), (iii), and (iv) only are correct",
+              "(i), (iv), and (v) only are correct",
+              "(i), (ii), (iii), (iv), and (v) are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_46",
+            "answerIndex": 0,
+            "question": "If you drive faster than the speed limit, you may be charged with an offence. The maximum speed limit on a public road is…",
+            "answers": [
+              "Depends on the type of road and the vehicle",
+              "60 km/h",
+              "100 km/h"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_47",
+            "answerIndex": 0,
+            "question": "On a public road with two lanes, you may overtake another vehicle on the right-hand side when…",
+            "answers": [
+              "The vehicle in front of you indicates that it will make a right turn and it is safe to do so",
+              "The vehicle in front of you is driving slower than the maximum speed limit",
+              "The vehicle in front of you is driving slower than the general flow of traffic"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_48",
+            "answerIndex": 1,
+            "question": "You are only allowed to stop alongside another vehicle on a public road, if…",
+            "answers": [
+              "There is a solid white line to the left of your lane",
+              "There is an unbroken yellow line to the left of your lane",
+              "There is a broken yellow line to the left of your lane"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_49",
+            "answerIndex": 0,
+            "question": "You may not exceed the maximum speed limit allowed, unless…",
+            "answers": [
+              "It is safe to do so and there is no other vehicle in sight",
+              "You are in a hurry",
+              "You are overtaking another vehicle"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_50",
+            "answerIndex": 1,
+            "question": "What does sign W9 tell you?",
+            "answers": [
+              "There is a road with a bend to the left ahead",
+              "The road has a right curve ahead",
+              "The road ahead is curving to the right"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_51",
+            "answerIndex": 1,
+            "question": "You may overtake a vehicle on the left-hand side, if that vehicle…",
+            "answers": [
+              "Is signalling that it will turn to the left",
+              "Is turning right and is driving in the right-hand lane of a public road with two lanes in each direction",
+              "Is driving in a line of traffic that is moving more slowly than the general flow of traffic"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_52",
+            "answerIndex": 0,
+            "question": "The maximum speed limit on a public road is indicated by…",
+            "answers": [
+              "Road signs",
+              "The make of your vehicle",
+              "The color of your vehicle"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_53",
+            "answerIndex": 1,
+            "question": "You are not allowed to drive on the shoulder of a public road unless…",
+            "answers": [
+              "You want to turn left at the next intersection",
+              "You want to turn right at the next intersection",
+              "There is an unbroken yellow line to the right of your lane"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_54",
+            "answerIndex": 2,
+            "question": "The maximum speed limit allowed on a freeway is…",
+            "answers": [
+              "60 km/h",
+              "80 km/h",
+              "120 km/h"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_55",
+            "answerIndex": 0,
+            "question": "You may not overtake a vehicle if the vehicle is…",
+            "answers": [
+              "About to turn left and there is an unbroken yellow line to the left of your lane",
+              "Travelling slower than the general flow of traffic",
+              "About to turn right and there is an unbroken yellow line to the left of your lane"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_56",
+            "answerIndex": 1,
+            "question": "At an intersection where there are no road signs or road markings, you must give way to…",
+            "answers": [
+              "The vehicle approaching from the left",
+              "The vehicle already on the intersection",
+              "The vehicle approaching from the right"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_57",
+            "answerIndex": 0,
+            "question": "You may not drive a motor vehicle on a public road, unless…",
+            "answers": [
+              "You hold a valid driving license of the appropriate class for that vehicle",
+              "You have a learner's license",
+              "You are over 18 years old"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_58",
+            "answerIndex": 2,
+            "question": "The minimum depth of the tread pattern of a vehicle's tire must be at least…",
+            "answers": [
+              "2.5 mm",
+              "1.0 mm",
+              "1.6 mm"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_59",
+            "answerIndex": 1,
+            "question": "You may not park a vehicle on a public road, unless…",
+            "answers": [
+              "You switch on the hazard lights of the vehicle",
+              "You are at least 1 meter away from the vehicle",
+              "You can see the vehicle from a distance of at least 25 meters"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_60",
+            "answerIndex": 0,
+            "question": "What does sign L7 tell you?",
+            "answers": [
+              "A level crossing ahead",
+              "A stop sign ahead",
+              "You must stop there"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_61",
+            "answerIndex": 1,
+            "question": "You may not drive a motor vehicle on a public road if there is not an unbroken yellow line painted at least…",
+            "answers": [
+              "2 meters from the vehicle",
+              "1.5 meters from the vehicle",
+              "1 meter from the vehicle"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_62",
+            "answerIndex": 0,
+            "question": "You may not drive a vehicle on a public road, if the vehicle is wider than…",
+            "answers": [
+              "2.6 meters",
+              "3.0 meters",
+              "3.5 meters"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_63",
+            "answerIndex": 1,
+            "question": "The backrest of a motorcycle must be…",
+            "answers": [
+              "10 cm high",
+              "20 cm high",
+              "30 cm high"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_64",
+            "answerIndex": 0,
+            "question": "The road marking, a white line that is 150 mm wide painted across the roadway, means that you are approaching…",
+            "answers": [
+              "An intersection with a blind rise or dip",
+              "A yield sign",
+              "A stop sign"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_65",
+            "answerIndex": 1,
+            "question": "A motorcycle's rear view mirror must have a reflective surface with an area of at least…",
+            "answers": [
+              "20 square cm",
+              "35 square cm",
+              "50 square cm"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_66",
+            "answerIndex": 2,
+            "question": "Sign T1 tells you that…",
+            "answers": [
+              "There is a steep slope ahead",
+              "The road is winding",
+              "A tourist attraction is ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_67",
+            "answerIndex": 1,
+            "question": "If you want to drive a motor vehicle on a public road, you must carry your driving license and produce it when asked to do so by a traffic officer or a police officer. What is the penalty if you cannot produce your driving license when asked to do so?",
+            "answers": [
+              "Your license will be confiscated",
+              "You will be fined",
+              "You will be arrested"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_motorcycle_test_68",
+            "answerIndex": 0,
+            "question": "Before you leave a parking place parallel to the edge of the road, you must make sure that it is safe to do so and that you are not getting in the way of other road users. What must you do?",
+            "answers": [
+              "Signal the driver behind you to stop",
+              "Sound the horn",
+              "Drive onto the shoulder of the road"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "book_test_a_lmv",
+        "iconResName": "ic_lmv",
+        "quizzes": [
+          {
+            "imageResName": "ic_book_test_a_lmv_test_1",
+            "answerIndex": 2,
+            "question": "The most important RULE OF THE ROAD in South Africa is?",
+            "answers": [
+              "Always be courteous and considerate towards fellow road users",
+              "Do not exceed the speed limit",
+              "Keep to the left side of the road as far as is safe"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_2",
+            "answerIndex": 2,
+            "question": "Sign L9 warns you about…..ahead",
+            "answers": [
+              "A first-aid post",
+              "A railway crossing",
+              "The road that crosses this road"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_3",
+            "answerIndex": 1,
+            "question": "Under what circumstances, if any, are you allowed to drive your motor vehicle on the right hand-side of a public road with traffic moving in both directions?",
+            "answers": [
+              "When you switch the emergency lights of your vehicle on.",
+              "When a traffic officer orders you to do so",
+              "Under no circumstance"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_4",
+            "answerIndex": 0,
+            "question": "Sign CC9 is found….",
+            "answers": [
+              "At a traffic circle where right of way is applicable",
+              "In dangerous places where roadwork is being done",
+              "On the approach to a sharp curve to the right"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_5",
+            "answerIndex": 2,
+            "question": "You may not have a driver’s license if….",
+            "answers": [
+              "(i) You already have a license that authorizes the driving of the same vehicle class. (ii) You are declared unfit to obtain a driving license for a certain period and that period still prevails. (iii) Your license was suspended temporarily and the suspension has not expired.",
+              "(i) only is correct",
+              "(ii) and (iii) only are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_6",
+            "answerIndex": 0,
+            "question": "What does the warning sign L10 show you?",
+            "answers": [
+              "A priority crossroad ahead and other vehicles from the side must stop or yield at the intersection",
+              "A railway line intersects with the road that you are traveling on",
+              "A 4-way-stop will be found ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_7",
+            "answerIndex": 1,
+            "question": "A vehicle of which the brakes are not working as well as normal, must be towed …",
+            "answers": [
+              "With a rope",
+              "With a tow-bar",
+              "On a trailer"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_8",
+            "answerIndex": 0,
+            "question": "Sign B6 shows you that you…",
+            "answers": [
+              "Must only drive straight on",
+              "Will get a freeway ahead",
+              "Will get a one way road ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_9",
+            "answerIndex": 0,
+            "question": "A safe following distance is, when the vehicle in front of you suddenly stops, you could….",
+            "answers": [
+              "Stop without swerving",
+              "Swerve and stop next to it",
+              "Swerve and pass"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_10",
+            "answerIndex": 2,
+            "question": "Sign E1…..",
+            "answers": [
+              "Shows you that there is a hospital ahead where you must not make noise",
+              "Shows you that you may not pick up people",
+              "Prohibits you from using your hooter"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_11",
+            "answerIndex": 0,
+            "question": "Unless otherwise shown by a sign, the general speed limit in a town or city is….km/h",
+            "answers": [
+              "60",
+              "80",
+              "100"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_12",
+            "answerIndex": 2,
+            "question": "Sign P2 shows you that…",
+            "answers": [
+              "It is a special lane for cyclists",
+              "No cyclists are allowed there",
+              "You should be on the lookout for cyclists"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_13",
+            "answerIndex": 2,
+            "question": "The furthest that your vehicle’s dim lights may shine in front of you, is ….m",
+            "answers": [
+              "45",
+              "100",
+              "150"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_14",
+            "answerIndex": 1,
+            "question": "What does sign E4 show you? (i) You may not turn left ahead. (ii) You may not turn left there. (iii) There is one-way to the right ahead",
+            "answers": [
+              "(i) only is correct",
+              "(ii) and (iii) only are correct",
+              "(i) and (iii) only are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_15",
+            "answerIndex": 0,
+            "question": "You may not….",
+            "answers": [
+              "Have passengers in the vehicle if you have a learner’s licence.",
+              "Leave your vehicle unattended while the engine is running",
+              "Drive in reverse for more than 100m"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_16",
+            "answerIndex": 0,
+            "question": "Road marking Z5 warns you that…",
+            "answers": [
+              "There is a level crossing with one railway line ahead",
+              "Road cross ahead",
+              "The freeway ends ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_17",
+            "answerIndex": 1,
+            "question": "The last action that you must take before moving to another lane is to….",
+            "answers": [
+              "Switch on your indicator",
+              "Check the blind spot",
+              "Look in the rear-view mirror"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_18",
+            "answerIndex": 1,
+            "question": "Sign R1 shows you that the road…",
+            "answers": [
+              "Winds",
+              "Is winding ahead",
+              "Is slippery"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_19",
+            "answerIndex": 1,
+            "question": "If you want to change lanes you must….",
+            "answers": [
+              "Switch on your indicator and change lanes",
+              "Give the necessary signal and after looking for other traffic, change lanes",
+              "Apply the brakes lightly and then change lanes"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_20",
+            "answerIndex": 1,
+            "question": "What does sign A3 show you?",
+            "answers": [
+              "It is the same yield sign and you can proceed without stopping",
+              "Make sure that it is safe, wait until all traffic has departed and then drive on",
+              "Stop and drive when it is safe to do so in the sequence that the vehicles stopped at their stop line."
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_21",
+            "answerIndex": 2,
+            "question": "You may pass another vehicle on its left-hand side if it….(i) Indicates that it is going to turn right. (ii) Drives on the right-hand side of the road with a shoulder where you can pass. (iii) Drives in town on the right-hand lane with two lanes in the same direction",
+            "answers": [
+              "(i) and (iii) only are correct",
+              "All of the above are correct",
+              "(i) only is correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_22",
+            "answerIndex": 1,
+            "question": "Sign U4 shows you that the road….",
+            "answers": [
+              "Winds for 12km",
+              "Winds 12km from there",
+              "Is slippery for 12km"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_23",
+            "answerIndex": 1,
+            "question": "You are not allowed to stop….",
+            "answers": [
+              "Opposite a vehicle, where the roadway is 10 m wide",
+              "Where you are allowed also not to park",
+              "5m from the bridge"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_24",
+            "answerIndex": 2,
+            "question": "Sign E3 shows that…..",
+            "answers": [
+              "There is a road with two lanes ahead",
+              "You are not allowed to drive there without permission",
+              "A freeway starts"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_25",
+            "answerIndex": 0,
+            "question": "You may on public road….",
+            "answers": [
+              "Pass another vehicle turning right, on the left-hand side without driving on the shoulder of the road",
+              "Pass another vehicle at any place on the left-hand side if it is turning right",
+              "Pass any vehicle on the right-hand side"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_26",
+            "answerIndex": 1,
+            "question": "What does sign S1 tell you when it flashes?",
+            "answers": [
+              "There is a police roadblock ahead",
+              "There is danger on the road ahead",
+              "There is a robot ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_27",
+            "answerIndex": 0,
+            "question": "At an intersection ….",
+            "answers": [
+              "Pedestrians, who are already crossing the road when the red man signal starts showing, have the right way",
+              "You can pass another vehicle waiting to turn right on its left side by going off the road",
+              "You can stop in it to offload passengers"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_28",
+            "answerIndex": 2,
+            "question": "What does sign B1 show you?",
+            "answers": [
+              "The sign is applicable for 50m",
+              "You may not drive faster than 50 km/h",
+              "You may not drive slower than 50km/h"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_29",
+            "answerIndex": 0,
+            "question": "The fastest speed at which you may tow a vehicle with a rope is….km/h",
+            "answers": [
+              "60",
+              "45",
+              "30"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_30",
+            "answerIndex": 1,
+            "question": "Sign J8 shows you the …..",
+            "answers": [
+              "Maximum speed allowed at night",
+              "Recommended speed when your lights are on",
+              "Distance to the next town"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_31",
+            "answerIndex": 1,
+            "question": "You may cross or enter a public road….",
+            "answers": [
+              "If the road is clear of traffic for a long distance and can be done without obstructing traffic",
+              "If the road is clear of traffic for a long distance and can be done without obstructing traffic.",
+              "In any manner as long as you use your indicator in time"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_32",
+            "answerIndex": 2,
+            "question": "Sign E9 shows you that….",
+            "answers": [
+              "Only motorcars may pass each other",
+              "No motor vehicle may overtake any vehicle for the next 500m",
+              "There is a bridge ahead where only one vehicle at a time can cross"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_33",
+            "answerIndex": 2,
+            "question": "Your vehicles headlights must be switched on…(i) at any time of the day when you cannot see pedestrians and vehicles from 150m in front of you. (ii) from sunset to sunrise (iii) When it rains and you cannot see vehicles from 100m in front of you.",
+            "answers": [
+              "(ii) only is correct",
+              "(i) and (ii) only are correct",
+              "All of the above are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_34",
+            "answerIndex": 1,
+            "question": "Road marking GM1 in the sketch booklet. Sketch 9….",
+            "answers": [
+              "Shows the lanes for the road users",
+              "Divides the road into two sections",
+              "Is only found in a parking area"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_35",
+            "answerIndex": 1,
+            "question": "Road marking RTM1 in the sketch booklet. Sketch 4, shows you that you….",
+            "answers": [
+              "If you are driving car A, you must stop before this lane",
+              "If you are driving car A, you should reduce speed and drive on if it is safe",
+              "If you are driving car B, you can pass car A if there are no other vehicles in the intersection"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_36",
+            "answerIndex": 1,
+            "question": "What is the difference between road marking AA6 and road marking Y3?",
+            "answers": [
+              "There is no difference between the two and both of them show that you may not overtake other vehicles",
+              "Both of them show that you may not overtake other vehicles but you will find AA6 on all roads and Y3 on freeways only",
+              "AA6 shows you that you may not overtake other vehicles, while Y3 as well shows you that you may not drive over it to turn into a yard or anything else."
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_37",
+            "answerIndex": 0,
+            "question": "When are you allowed to drive in the section left of the yellow line, RM4.1 in the sketch booklet. Sketch 8 or 10. (i) any time when you want to allow another vehicle to pass you. (ii) when on a freeway with two lanes in both directions, you want to drive slower than 120 km/h (iii) when you have a flat tyre and you want to park there to change it.",
+            "answers": [
+              "(i),(iii) and (iv) only are correct",
+              "(ii) and (iv) only are correct",
+              "All of the above are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_38",
+            "answerIndex": 1,
+            "question": "All road signs with a yellow background e.g. R10 are….signs",
+            "answers": [
+              "Warning",
+              "Temporary",
+              "Tourism"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_39",
+            "answerIndex": 1,
+            "question": "When may you not pass another vehicle? When you…(i) are nearing the top of a hill. (ii) are nearing a curve. (iii) can only see 100m in front of you because of smoke over the road",
+            "answers": [
+              "(i) only is correct",
+              "All of the above are correct",
+              "(i) and (ii) only are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_40",
+            "answerIndex": 0,
+            "question": "Marking BB3 shows that only …. May park there",
+            "answers": [
+              "Buses",
+              "Business vehicles",
+              "Minibuses"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_41",
+            "answerIndex": 2,
+            "question": "You may not drive into an intersection when….",
+            "answers": [
+              "The robot (traffic signal) is yellow and you are already in the intersection",
+              "The vehicle in front of you wants to turn right and the road is wide enough to pass on the left-hand side",
+              "There is not enough space in the intersection to turn right without blocking other traffic"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_42",
+            "answerIndex": 1,
+            "question": "When the robot is red and the green arrow flashes to the right as indicated in X5, it shows you that….",
+            "answers": [
+              "Only pedestrians may cross now",
+              "If you want to turn right, you may go",
+              "All traffic may turn right"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_43",
+            "answerIndex": 1,
+            "question": "When you are involved in an accident you…. (i) Must immediately stop your vehicle. (ii) Must check if anyone is injured (iii) may use a little bit of alcohol for the shock",
+            "answers": [
+              "(i) and (ii) only are correct",
+              "(ii) only is correct",
+              "All of the above are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_44",
+            "answerIndex": 1,
+            "question": "If you come to a robot and a red light flashes, you must….",
+            "answers": [
+              "Stop and wait for the light to turn green before you go",
+              "Stop and go only if it is safe to do so",
+              "Look out for a roadblock as the light warns you of a traffic stop"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_45",
+            "answerIndex": 2,
+            "question": "The legal speed which you may drive ….",
+            "answers": [
+              "Is always 120km/h outside towns/ cities",
+              "Can be determined by yourself if you look at the number of lanes the road has",
+              "Is shown to you by signs next to the road"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_46",
+            "answerIndex": 1,
+            "question": "Sign A8 shows you that ….",
+            "answers": [
+              "The road ends",
+              "You are not allowed to enter there",
+              "The entry is for ambulances only"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_47",
+            "answerIndex": 0,
+            "question": "When do you have the right of way? (i) when you are within a traffic circle (ii) when you have stopped first at four-way stop (iii) when you want to turn right at an intersection that has two-way traffic.",
+            "answers": [
+              "(i) and (ii) only are correct",
+              "All of the above are correct",
+              "(i) only is correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_48",
+            "answerIndex": 2,
+            "question": "When sign X8 is illuminated it shows you that….",
+            "answers": [
+              "There is no throughway there",
+              "There is an unguarded railway crossing ahead",
+              "It is a lane only for traffic coming from the front"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_49",
+            "answerIndex": 1,
+            "question": "What must you do when you hear a siren or see red flashing lights from an ambulance or fire engine?",
+            "answers": [
+              "Flash your headlights to warn other traffic",
+              "Give right of way to the emergency vehicle",
+              "Sound the hooter to warn all nearby road users"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_50",
+            "answerIndex": 0,
+            "question": "Road marking AA4 shows you that…",
+            "answers": [
+              "You are not allowed to pass another vehicle there",
+              "A No overtaking line is going to begin which prohibits you from crossing",
+              "The lane splits into more lanes in the direction of the arrow"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_51",
+            "answerIndex": 2,
+            "question": "If you want to turn left with your vehicle you must….",
+            "answers": [
+              "Slow down completely, stop and then turn",
+              "First move to the right to make space to turn left easily",
+              "Give the necessary signal in good time"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_52",
+            "answerIndex": 2,
+            "question": "Sign L4 prohibits you from….",
+            "answers": [
+              "Using that section of the road during certain hours",
+              "Parking there between 09:00 and 16:00",
+              "Stopping there at certain hours"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_53",
+            "answerIndex": 0,
+            "question": "Which is ALLOWED when towing another vehicle? (i) A motor car may tow another motor car with a rope and drive 40km/h. (ii) You may tow another vehicle with a tow-bar. (iii) A tractor may tow a trailer with 10 passengers on it and drive 30km/h",
+            "answers": [
+              "All of the above are correct",
+              "(ii) and (iii) only are correct",
+              "(i) only is correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_54",
+            "answerIndex": 0,
+            "question": "Sign F5 shows you that….",
+            "answers": [
+              "No taxis may drive there",
+              "NO motor cars may drive there",
+              "You may not park your motor car there"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_55",
+            "answerIndex": 0,
+            "question": "What is true with regard to seat belts? (i) if your vehicle has seatbelts in the rear, they must be worn by passengers in the rear. (ii) You need to wear a seatbelt when reversing. (iii) Children under 14 years do not need to wear a seatbelt. (iv) If the front seat has a seatbelt, your only passenger may not sit at the back where there is no seatbelt.",
+            "answers": [
+              "All of the above are correct",
+              "(i), (ii), and (iv) only are correct",
+              "Only (i) and (iv)"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_56",
+            "answerIndex": 2,
+            "question": "Sign K3 shows you that you….",
+            "answers": [
+              "May not drive there between 06:00 and 09:00",
+              "May not park there for more than 3 hours",
+              "Are only allowed to drive there between 06:00 and 09:00"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_57",
+            "answerIndex": 2,
+            "question": "If you only have a learner’s license for a light motor vehicle ….(i) There must be someone with you in the vehicle with the same driving license. (ii) You are not allowed to drive on a freeway. (iii) No passengers are allowed with you in the vehicle",
+            "answers": [
+              "All of the above are correct",
+              "Only (i) and (iii) are correct",
+              "Only (i) is correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_58",
+            "answerIndex": 2,
+            "question": "Sign C3 shows you that….",
+            "answers": [
+              "The area is for taxis only",
+              "You can drive there if you wish",
+              "You must drive there"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_59",
+            "answerIndex": 1,
+            "question": "The tread pattern of your vehicle’s tyres may not be less than….mm",
+            "answers": [
+              "0.75",
+              "1",
+              "1.5"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_60",
+            "answerIndex": 1,
+            "question": "Sign G9 shows you that…",
+            "answers": [
+              "You must use that part of the road",
+              "You can use that part of the road if you wish",
+              "There is parking for motorcars there"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_61",
+            "answerIndex": 2,
+            "question": "When brakes are applied, the distance it takes to stop your vehicle is (i) longer if it is heavily loaded (ii) longer on a wet surface than on a dry surface (iii) longer if driving at a higher speed",
+            "answers": [
+              "(i)",
+              "(ii) and (iii)",
+              "(i), (ii) and (iii)"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_62",
+            "answerIndex": 1,
+            "question": "Which control helps the driver when engaging or disengaging a gear?",
+            "answers": [
+              "10",
+              "8",
+              "9"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_63",
+            "answerIndex": 2,
+            "question": "Which control is used to increase or decrease the speed of the vehicle?",
+            "answers": [
+              "1",
+              "9",
+              "10"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_64",
+            "answerIndex": 0,
+            "question": "The …. Warns other road users of your intentions to steer to the right or left, or to turn to the right or left",
+            "answers": [
+              "5",
+              "7",
+              "11"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_65",
+            "answerIndex": 1,
+            "question": "Which control is used to alert other road users so you can avoid an accident",
+            "answers": [
+              "3",
+              "11",
+              "8"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_66",
+            "answerIndex": 2,
+            "question": "Which control is used to avoid stalling before a complete standstill",
+            "answers": [
+              "5",
+              "10",
+              "8"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_67",
+            "answerIndex": 0,
+            "question": "Which control is used to clean your vehicle’s windscreen?",
+            "answers": [
+              "2",
+              "3",
+              "6"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_lmv_test_68",
+            "answerIndex": 1,
+            "question": "To turn a sharp curve on the road, you must use….",
+            "answers": [
+              "1, 3, 5 and 7",
+              "1, 3, 4, 5, 6, 8, 9 and 10 only",
+              "2, 6, 8 and 9"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "book_test_a_hmv",
+        "iconResName": "ic_hmv",
+        "quizzes": [
+          {
+            "imageResName": "ic_book_test_a_hmv_test_1",
+            "answerIndex": 2,
+            "question": "The most important RULE OF THE ROAD in South Africa is?",
+            "answers": [
+              "Always be courteous and considerate towards fellow road users",
+              "Do not exceed the speed limit",
+              "Keep to the left side of the road as far as is safe"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_2",
+            "answerIndex": 2,
+            "question": "Sign L9 warns you about…..ahead",
+            "answers": [
+              "A first-aid post",
+              "A railway crossing",
+              "The road that crosses this road"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_3",
+            "answerIndex": 1,
+            "question": "Under what circumstances, if any, are you allowed to drive your motor vehicle on the right hand-side of a public road with traffic moving in both directions?",
+            "answers": [
+              "When you switch the emergency lights of your vehicle on.",
+              "When a traffic officer orders you to do so",
+              "Under no circumstance"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_4",
+            "answerIndex": 0,
+            "question": "Sign CC9 is found….",
+            "answers": [
+              "At a traffic circle where right of way is applicable",
+              "In dangerous places where roadwork is being done",
+              "On the approach to a sharp curve to the right"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_5",
+            "answerIndex": 2,
+            "question": "You may not have a driver’s license if….(i) You already have a license that authorizes the driving of the same vehicle class. (ii) You are declared unfit to obtain a driving license for a certain period and that period still prevails. (iii) Your license was suspended temporarily and the suspension has not expired.",
+            "answers": [
+              "(i) only is correct",
+              "(ii) and (iii) only are correct",
+              "(i),(ii) and (iii) are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_6",
+            "answerIndex": 0,
+            "question": "What does the warning sign L10 show you?",
+            "answers": [
+              "A priority crossroad ahead and other vehicles from the side must stop or yield at the intersection",
+              "A railway line intersects with the road that you are traveling on",
+              "A 4-way-stop will be found ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_7",
+            "answerIndex": 1,
+            "question": "A vehicle of which the brakes are not working as well as normal, must be towed …",
+            "answers": [
+              "With a rope",
+              "With a tow-bar",
+              "On a trailer"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_8",
+            "answerIndex": 0,
+            "question": "Sign B6 shows you that you…",
+            "answers": [
+              "Must only drive straight on",
+              "Will get a freeway ahead",
+              "Will get a one way road ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_9",
+            "answerIndex": 0,
+            "question": "A safe following distance is, when the vehicle infront of you suddenly stops, you could….",
+            "answers": [
+              "Stop without swerving",
+              "Swerve and stop next to it",
+              "Swerve and pass"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_10",
+            "answerIndex": 2,
+            "question": "Sign E1…..",
+            "answers": [
+              "Shows you that there is a hospital ahead where you must not make noise",
+              "Shows you that you may not pick up people",
+              "Prohibits you from using your hooter"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_11",
+            "answerIndex": 0,
+            "question": "Unless otherwise shown by a sign, the general speed limit in a town or city is….km/h",
+            "answers": [
+              "60",
+              "80",
+              "100"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_12",
+            "answerIndex": 2,
+            "question": "Sign P2 shows you that…",
+            "answers": [
+              "It is special lane for cyclists",
+              "No cyclists are allowed there",
+              "You should be on the lookout for cyclists"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_13",
+            "answerIndex": 2,
+            "question": "The furthest that your vehicle’s dim lights may shine in front of you, is ….m",
+            "answers": [
+              "45",
+              "100",
+              "150"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_14",
+            "answerIndex": 1,
+            "question": "What does sign E4 show you? (i) You may not turn left ahead. (ii) You may not turn left there. (iii) There is one-way to the right ahead",
+            "answers": [
+              "(i) only is correct",
+              "(ii) and (iii) only are correct",
+              "(i) and (iii) only are correct"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_15",
+            "answerIndex": 1,
+            "question": "You may not…. Have passengers in the vehicle if you have a learner’s licence. Leave your vehicle unattended while engine is running Drive in reverse for more than 100m",
+            "answers": [
+              "Have passengers in the vehicle if you have a learner’s licence.",
+              "Leave your vehicle unattended while engine is running",
+              "Drive in reverse for more than 100m"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_16",
+            "answerIndex": 1,
+            "question": "Road marking Z5 warns you that…",
+            "answers": [
+              "There is a level crossing with one railway line ahead",
+              "Road cross ahead",
+              "The freeway ends ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_17",
+            "answerIndex": 1,
+            "question": "The last action that you must take before moving to another lane is to….",
+            "answers": [
+              "Switch on your indicator",
+              "Check the blind spot",
+              "Look in the rear-view mirror"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_18",
+            "answerIndex": 1,
+            "question": "Sign R1 shows you that the road…",
+            "answers": [
+              "Winds",
+              "Is winding ahead",
+              "Is slippery"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_19",
+            "answerIndex": 1,
+            "question": "If you want to change lanes you must….",
+            "answers": [
+              "Switch on your indicator and change lanes",
+              "Give the necessary signal and after looking for other traffic, change lanes",
+              "Apply the brakes lightly and then change lanes"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_20",
+            "answerIndex": 2,
+            "question": "What does sign A3 show you?",
+            "answers": [
+              "It is the same yield sign and you can proceed without stopping",
+              "Make sure that it is safe, wait until all traffic has departed and then drive on",
+              "Stop and drive when it is safe to do so in the sequence that the vehicles stopped at their stop line."
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_21",
+            "answerIndex": 0,
+            "question": "You may pass another vehicle on its left-hand side if it….",
+            "answers": [
+              "Indicates that it is going to turn right.",
+              "Drives on the right-hand side of the road with a shoulder where you can pass.",
+              "Drives in town on the right-hand lane with two lanes in the same direction"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_22",
+            "answerIndex": 0,
+            "question": "Sign U4 shows you that the road….",
+            "answers": [
+              "Winds for 12km",
+              "Winds 12km from there",
+              "Is slippery for 12km"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_23",
+            "answerIndex": 1,
+            "question": "You are not allowed to stop….",
+            "answers": [
+              "Opposite a vehicle, where the roadway is 10 m wide",
+              "Where you are allowed also not to park",
+              "5m from the bridge"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_24",
+            "answerIndex": 2,
+            "question": "Sign E3 shows that…..",
+            "answers": [
+              "There is a road with two lanes ahead",
+              "You are not allowed to drive there without permission",
+              "A freeway starts"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_25",
+            "answerIndex": 0,
+            "question": "You may on a public road….",
+            "answers": [
+              "Pass another vehicle turning right, on the left-hand side without driving on the shoulder of the road",
+              "Pass another vehicle at any place on the left-hand side if it is turning right",
+              "Pass any vehicle on the right-hand side"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_26",
+            "answerIndex": 1,
+            "question": "What does sign S1 tell you when it flashes?",
+            "answers": [
+              "There is a police roadblock ahead",
+              "There is danger on the road ahead",
+              "There is a robot ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_27",
+            "answerIndex": 0,
+            "question": "At an intersection ….",
+            "answers": [
+              "Pedestrians, who are already crossing the road when the red man signal starts showing, have the right of way",
+              "You can pass another vehicle waiting to turn right on its left side by going off the road",
+              "You can stop in it to offload passengers"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_28",
+            "answerIndex": 1,
+            "question": "What does sign B1 show you?",
+            "answers": [
+              "The sign is applicable for 50m",
+              "You may not drive faster than 50 km/h",
+              "You may not drive slower than 50 km/h"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_29",
+            "answerIndex": 1,
+            "question": "The fastest speed at which you may tow a vehicle with a rope is….km/h",
+            "answers": [
+              "60",
+              "45",
+              "30"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_30",
+            "answerIndex": 1,
+            "question": "Sign J8 shows you the …..",
+            "answers": [
+              "Maximum speed allowed at night",
+              "Recommended speed when your lights are on",
+              "Distance to the next town"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_31",
+            "answerIndex": 1,
+            "question": "You may cross or enter a public road….",
+            "answers": [
+              "If the road is clear of traffic for a long distance and can be done without obstructing traffic",
+              "If the road is clear of traffic for a long distance and can be done without obstructing traffic.",
+              "In any manner as long as you use your indicator in time"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_32",
+            "answerIndex": 2,
+            "question": "Sign E9 shows you that….",
+            "answers": [
+              "Only motorcars may pass each other",
+              "No motor vehicle may overtake any vehicle for the next 500m",
+              "There is a bridge ahead where only one vehicle at a time can cross"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_33",
+            "answerIndex": 2,
+            "question": "Road marking GM1 warns you that…",
+            "answers": [
+              "There is a level crossing with one railway line ahead",
+              "Road cross ahead",
+              "The freeway ends ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_34",
+            "answerIndex": 1,
+            "question": "The last action that you must take before moving to another lane is to….",
+            "answers": [
+              "Switch on your indicator",
+              "Check the blind spot",
+              "Look in the rear-view mirror"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_35",
+            "answerIndex": 1,
+            "question": "Sign R1 shows you that the road…",
+            "answers": [
+              "Winds",
+              "Is winding ahead",
+              "Is slippery"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_36",
+            "answerIndex": 1,
+            "question": "If you want to change lanes you must….",
+            "answers": [
+              "Switch on your indicator and change lanes",
+              "Give the necessary signal and after looking for other traffic, change lanes",
+              "Apply the brakes lightly and then change lanes"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_37",
+            "answerIndex": 2,
+            "question": "What does sign A3 show you?",
+            "answers": [
+              "It is the same yield sign and you can proceed without stopping",
+              "Make sure that it is safe, wait until all traffic has departed and then drive on",
+              "Stop and drive when it is safe to do so in the sequence that the vehicles stopped at their stop line."
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_38",
+            "answerIndex": 0,
+            "question": "You may pass another vehicle on its left-hand side if it….",
+            "answers": [
+              "Indicates that it is going to turn right.",
+              "Drives on the right-hand side of the road with a shoulder where you can pass.",
+              "Drives in town on the right-hand lane with two lanes in the same direction"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_39",
+            "answerIndex": 0,
+            "question": "Sign U4 shows you that the road….",
+            "answers": [
+              "Winds for 12km",
+              "Winds 12km from there",
+              "Is slippery for 12km"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_40",
+            "answerIndex": 1,
+            "question": "You are not allowed to stop….",
+            "answers": [
+              "Opposite a vehicle, where the roadway is 10 m wide",
+              "Where you are allowed also not to park",
+              "5m from the bridge"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_41",
+            "answerIndex": 2,
+            "question": "Sign E3 shows that…..",
+            "answers": [
+              "There is a road with two lanes ahead",
+              "You are not allowed to drive there without permission",
+              "A freeway starts"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_42",
+            "answerIndex": 0,
+            "question": "You may on a public road….",
+            "answers": [
+              "Pass another vehicle turning right, on the left-hand side without driving on the shoulder of the road",
+              "Pass another vehicle at any place on the left-hand side if it is turning right",
+              "Pass any vehicle on the right-hand side"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_43",
+            "answerIndex": 1,
+            "question": "What does sign S1 tell you when it flashes?",
+            "answers": [
+              "There is a police roadblock ahead",
+              "There is danger on the road ahead",
+              "There is a robot ahead"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_44",
+            "answerIndex": 0,
+            "question": "At an intersection ….",
+            "answers": [
+              "Pedestrians, who are already crossing the road when the red man signal starts showing, have the right of way",
+              "You can pass another vehicle waiting to turn right on its left side by going off the road",
+              "You can stop in it to offload passengers"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_45",
+            "answerIndex": 1,
+            "question": "What does sign B1 show you?",
+            "answers": [
+              "The sign is applicable for 50m",
+              "You may not drive faster than 50 km/h",
+              "You may not drive slower than 50 km/h"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_46",
+            "answerIndex": 2,
+            "question": "The fastest speed at which you may tow a vehicle with a rope is….km/h",
+            "answers": [
+              "60",
+              "45",
+              "30"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_47",
+            "answerIndex": 1,
+            "question": "Sign J8 shows you the …..",
+            "answers": [
+              "Maximum speed allowed at night",
+              "Recommended speed when your lights are on",
+              "Distance to the next town"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_48",
+            "answerIndex": 1,
+            "question": "You may cross or enter a public road….",
+            "answers": [
+              "If the road is clear of traffic for a long distance and can be done without obstructing traffic",
+              "If the road is clear of traffic for a long distance and can be done without obstructing traffic.",
+              "In any manner as long as you use your indicator in time"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_49",
+            "answerIndex": 1,
+            "question": "What must you do when you hear a siren or see red flashing lights from an ambulance or fire engine?",
+            "answers": [
+              "Flash your headlights to warn other traffic",
+              "Give right of way to the emergency vehicle",
+              "Sound the hooter to warn all nearby road users"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_50",
+            "answerIndex": 1,
+            "question": "Road marking AA4 shows you that…",
+            "answers": [
+              "You are not allowed to pass another vehicle there",
+              "A No overtaking line is going to begin which prohibits you from crossing",
+              "The lane splits into more lanes in the direction of the arrow"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_51",
+            "answerIndex": 2,
+            "question": "If you want to turn left with your vehicle you must….",
+            "answers": [
+              "Slow down completely, stop and then turn",
+              "First move to the right to make space to turn left easily",
+              "Give the necessary signal in good time"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_52",
+            "answerIndex": 2,
+            "question": "Sign L4 prohibits you from….",
+            "answers": [
+              "Using that section of the road during certain hours",
+              "Parking there between 09:00 and 16:00",
+              "Stopping there at certain hours"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_53",
+            "answerIndex": 2,
+            "question": "You may transport goods on your vehicle if….",
+            "answers": [
+              "They protrude 2.0 m at the rear",
+              "They protrude 450 mm in front",
+              "The width of the goods is 2.4 m wide"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_54",
+            "answerIndex": 1,
+            "question": "Sign B2 shows you that if your vehicle has GVM of….",
+            "answers": [
+              "8t, you must drive there at all times",
+              "10t or more, you must drive there at all times",
+              "10t, you must drive there whenever you want to"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_55",
+            "answerIndex": 2,
+            "question": "You may carry passengers in a vehicle that is being towed…",
+            "answers": [
+              "If you only travel at 35 km/h.",
+              "If the vehicle that is being towed is a semi-trailer.",
+              "Only if the vehicle that tows something is a tractor."
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_56",
+            "answerIndex": 2,
+            "question": "Sign K2 shows that….",
+            "answers": [
+              "All heavy vehicles may drive here during the times showed on the sign",
+              "Tankers should use the road during the times showed on the sign",
+              "Vehicles carrying hazardous products may only use the road during the times showed on the sign"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_57",
+            "answerIndex": 2,
+            "question": "You may reverse your vehicle for further than….",
+            "answers": [
+              "500m",
+              "100m",
+              "As it is safe to do so"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_58",
+            "answerIndex": 0,
+            "question": "Sign D10 shows you that…",
+            "answers": [
+              "Vehicles longer than 15m may not drive past this sign",
+              "The road is only 15m wide past this sign",
+              "No vehicles with trailers may drive past this sign"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_59",
+            "answerIndex": 1,
+            "question": "If you only have a learner's license for a heavy motor vehicle…",
+            "answers": [
+              "There must be someone with you in the vehicle with the same driving license.",
+              "You are not allowed to drive on a freeway.",
+              "No passengers are allowed with you in the vehicle"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_60",
+            "answerIndex": 2,
+            "question": "Sign W6 shows you that….",
+            "answers": [
+              "The road forks ahead on a steep decline and you should slow down",
+              "Your brakes will be checked at a stop sign ahead where you must stop",
+              "There is an arrestor bed ahead to be used when your brakes fail"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_61",
+            "answerIndex": 0,
+            "question": "Which control should assist the driver change the gears",
+            "answers": [
+              "8",
+              "9",
+              "10"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_62",
+            "answerIndex": 1,
+            "question": "Which control helps to change the direction of the vehicle",
+            "answers": [
+              "5",
+              "4",
+              "2"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_63",
+            "answerIndex": 2,
+            "question": "Which control is used to ensure that your parked vehicle does not move?",
+            "answers": [
+              "1",
+              "9",
+              "7"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_64",
+            "answerIndex": 0,
+            "question": "Use…. To keep your vehicle stationary after parking",
+            "answers": [
+              "7",
+              "5",
+              "2"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_65",
+            "answerIndex": 2,
+            "question": "Which control is used to stop your vehicle?",
+            "answers": [
+              "8",
+              "9",
+              "3"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_66",
+            "answerIndex": 2,
+            "question": "The…. Control increases the vehicle speed",
+            "answers": [
+              "3",
+              "1",
+              "10"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_67",
+            "answerIndex": 1,
+            "question": "The …. Warns other road users of your intention to steer to the right, left or to turn to the right or left",
+            "answers": [
+              "5",
+              "7",
+              "11"
+            ]
+          },
+          {
+            "imageResName": "ic_book_test_a_hmv_test_68",
+            "answerIndex": 0,
+            "question": "Which control is used when driving in rainy weather?",
+            "answers": [
+              "6",
+              "2",
+              "4"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "book_test_b",
+    "books": [
+      {
+        "id": "book_test_b_motorcycle",
+        "iconResName": "ic_motorcycle",
+        "quizzes": []
+      }
+    ]
+  }
+]

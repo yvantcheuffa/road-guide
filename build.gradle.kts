@@ -11,3 +11,10 @@ buildscript {
         classpath(Build.hiltAndroidGradlePlugin)
     }
 }
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}

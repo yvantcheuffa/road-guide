@@ -17,7 +17,7 @@
   {
     "iconResName": "ic_lmv",
     "imageResName": "ic_controls_lmv",
-    "name": "Light motor vehicle",
+    "name": "Light motor vehicle Controls",
     "descriptions": [
       "Interior rear-view mirrors: Used to see behind the vehicle",
       "Wipers: Used to clean the front glass for water",
@@ -34,7 +34,7 @@
   {
     "iconResName": "ic_hmv",
     "imageResName": "ic_controls_hmv",
-    "name": "Heavy motor vehicle",
+    "name": "Heavy motor vehicle Controls",
     "descriptions": [
       "Interior rear-view mirrors: Used to see behind the vehicle",
       "Wipers: Used to clean the front glass for water",

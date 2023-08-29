@@ -1,6 +1,7 @@
 package com.southafrica.roadguide.ui.learner.learn.signs
 
 import android.os.Bundle
+import android.view.MenuItem
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 import androidx.appcompat.app.AppCompatActivity
@@ -61,6 +62,11 @@ class RoadSignActivity : AppCompatActivity() {
                 imageResId = R.drawable.ic_sign_road_markings
             )
         )
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        if (item.itemId == android.R.id.home) finish()
+        return super.onOptionsItemSelected(item)
     }
 }
 

@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "road_sign_test_1",
+    "name": "Test 1",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_sign_test1_1",
+        "answerIndex": 0,
+        "question": "This road sign forbids you from doing what on a public road.",
+        "answers": [
+          "A. To park your vehicle in that area",
+          "B. To drive slow for the next 100m",
+          "C. To park your vehicle at the nearest park"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_2",
+        "answerIndex": 1,
+        "question": "What will you come by ahead of this warning sign.",
+        "answers": [
+          "A. A hospital",
+          "B. A crossroad",
+          "C. A sharp curve"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_3",
+        "answerIndex": 1,
+        "question": "This road sign prohibits you from doing what on a public road.",
+        "answers": [
+          "A. To use your hooter at other road users",
+          "B. To use your hooter and make sure the noise level of your vehicle is very low",
+          "C. To play loud music from your stereo"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_4",
+        "answerIndex": 2,
+        "question": "This road sign reminds you of a",
+        "answers": [
+          "A. Town ahead",
+          "B. Right turn ahead",
+          "C. T-junction ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_5",
+        "answerIndex": 2,
+        "question": "This road sign disallows you from",
+        "answers": [
+          "A. Driving for 6 hours without stopping",
+          "B. Using hand signals for other road users",
+          "C. Picking up passengers/hitchhikers for the next 50Om"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_6",
+        "answerIndex": 0,
+        "question": "This road sign warns you of what?",
+        "answers": [
+          "A. A dual roadway ending",
+          "B. A Dual roadway beginning",
+          "C. Road widening"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_7",
+        "answerIndex": 0,
+        "question": "What does this road sign forbid you from doing?",
+        "answers": [
+          "A. Entering a certain road or section of a road without special authorisation",
+          "B. Driving your vehicle on the two solid line",
+          "C. Overtaking another vehicle"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_8",
+        "answerIndex": 1,
+        "question": "This road sign warns you of a...",
+        "answers": [
+          "A. Primary school ahead",
+          "B. Traffic signals ahead",
+          "C. Pedestrian crossing ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_9",
+        "answerIndex": 1,
+        "question": "What does this road sign prevent you from doing?",
+        "answers": [
+          "A. Using hand signals",
+          "B. Turning left at an intersection",
+          "C. Driving on the left lane of the road"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_10",
+        "answerIndex": 0,
+        "question": "What will you come by ahead of this warning sign",
+        "answers": [
+          "A. A yield sign",
+          "B. A traffic circle",
+          "C. A stop sign"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_11",
+        "answerIndex": 0,
+        "question": "This road sign warns you of what?",
+        "answers": [
+          "A. A demarcated pedestrian crossing ahead",
+          "B. A primary school",
+          "C. Pedestrians walking ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_12",
+        "answerIndex": 2,
+        "question": "Which vehicle type is allowed on this part of the road?",
+        "answers": [
+          "A. Only mini buses may drive there",
+          "B. Only buses may drive there",
+          "C. Only tour buses may drive there"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_13",
+        "answerIndex": 1,
+        "question": "This road sign warns you of a",
+        "answers": [
+          "A. Dead end ahead",
+          "B. Gravel road beginning ahead",
+          "C. T-junction ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_14",
+        "answerIndex": 0,
+        "question": "Which vehicle type is allowed on this part of the road",
+        "answers": [
+          "A. Construction vehicles",
+          "B. Buses",
+          "C. Delivery vehicles"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_15",
+        "answerIndex": 2,
+        "question": "What does this road sign warns you about?",
+        "answers": [
+          "A. The road ahead is closed",
+          "B. There is a gate on this road ahead",
+          "C. The road narrows when crossing the bridge"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_16",
+        "answerIndex": 1,
+        "question": "What does this road sign command?",
+        "answers": [
+          "A. Only buses are allowed here",
+          "B. B. Only abnormal vehicles are allowed here",
+          "C. Only vehicle carrying dangerous substances are allowed here"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_17",
+        "answerIndex": 0,
+        "question": "This road sign warns you of what?",
+        "answers": [
+          "A. A one vehicle width structure ahead",
+          "B. Only taxis may drive there",
+          "C. A bus reservation only ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_18",
+        "answerIndex": 2,
+        "question": "This road sign commands that only.... may use this part of the road",
+        "answers": [
+          "A. Motor cars",
+          "B. Animal drawn vehicles",
+          "C. Rickshaws"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_19",
+        "answerIndex": 1,
+        "question": "This road sign warns you of what?",
+        "answers": [
+          "A. Two way road ahead",
+          "B. Road narrows from both sides ahead",
+          "C. Pedestrian crossing ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_20",
+        "answerIndex": 0,
+        "question": "What should be your reaction when you approach this road sign?",
+        "answers": [
+          "A. Switch headlamps on",
+          "B. Turn up the volume of your stereo",
+          "C. Drive at high speed"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_21",
+        "answerIndex": 1,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. A tunnel ahead",
+          "B. A pay toll",
+          "C. A trucks toll ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_22",
+        "answerIndex": 0,
+        "question": "How should vehicle drivers react to this road marking? () Do not drive on this part of the road. (ii) You can park to change your tyre.(ii) You may stop for a break.",
+        "answers": [
+          "A. (),(ii) and (i) are correct",
+          "B. () and (ii) are correct",
+          "C. () only is correct"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_23",
+        "answerIndex": 2,
+        "question": "What should you do when you come across this road sign?",
+        "answers": [
+          "A. Drive around in circles without stopping",
+          "B. U-turn",
+          "C. Drive in a clockwise direction at the junction if it is safe to do SO"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_24",
+        "answerIndex": 1,
+        "question": "This road marking informs drivers that.",
+        "answers": [
+          "A. Parking is prohibited in this area",
+          "B. You may park your vehicle here",
+          "C. Mall parking lot available"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_25",
+        "answerIndex": 0,
+        "question": "This road sign commands what?",
+        "answers": [
+          "A. Only taxis may drive there",
+          "B. Only motor cars may drive there",
+          "C. Only mini buses may drive there"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_26",
+        "answerIndex": 2,
+        "question": "When approaching one of this road marking's a driver should",
+        "answers": [
+          "A. Only stop when directed to do so by a traffic officer",
+          "B. Drive for 60Okm without stopping",
+          "C. Only proceed in the direction indicated by the arrow in your lane"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_27",
+        "answerIndex": 1,
+        "question": "This road sign commands that only.... may use this part of the road.",
+        "answers": [
+          "A. Motor cars",
+          "B. Animal-drawn vehicles",
+          "C. Rickshaws"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_28",
+        "answerIndex": 0,
+        "question": "What should be your reaction when you come across this road marking at a parking bay. () Park your vehicle at any spot you like. (ii) Parking available only for an ambulance. (ii) For emergency you may park on the SOS sign",
+        "answers": [
+          "A. (i) only is correct",
+          "B. (iii) only is correct",
+          "C. () and (ii) are correct"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_29",
+        "answerIndex": 2,
+        "question": "This road sign commands that may use this part of the only road.",
+        "answers": [
+          "A. Vehicles with a (GVM) less or  equal's the mass indicated on the sign",
+          "B. Vehicles with a (GVM) less than the mass indicated on the sign",
+          "C. Vehicles with a (GVM) exceeding the mass indicated on the sign"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_30",
+        "answerIndex": 1,
+        "question": "This road marking warns road users that",
+        "answers": [
+          "A. This part of the road may not be used by buses",
+          "B. This part of the road is for buses only",
+          "C. This part of the road may be used by pedestrians as a bus stop"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "road_sign_test_2",
+    "name": "Test 2",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_sign_test2_1",
+        "answerIndex": 0,
+        "question": "What does this road sign inform road users about?",
+        "answers": [
+          "A. The road ahead is uneven",
+          "B. There are humps ahead",
+          "C. There is a river nearby"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_2",
+        "answerIndex": 1,
+        "question": "What will you come by ahead of this warning sign",
+        "answers": [
+          "A. A priority crossroad and you do not have a right of way",
+          "B. A priority crossroad and you have right of way",
+          "C. A crossroad"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_3",
+        "answerIndex": 1,
+        "question": "This warning sign notifies you to be on the lookout for",
+        "answers": [
+          "A. Potholes",
+          "B. Speed humps",
+          "C. Rocks on the road"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_4",
+        "answerIndex": 2,
+        "question": "What does this road sign inform road users of?",
+        "answers": [
+          "A. There is a secondary crossroad ahead and you have right of way",
+          "B. There is a crossroad ahead",
+          "C. There is a secondary crossroad ahead and you do not have a right of way, you have to yield to cross-traffic"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test1_5",
+        "answerIndex": 2,
+        "question": "This road sign warns you of what?",
+        "answers": [
+          "A. Drifting allowed on the road ahead",
+          "B. Fuel dumped on the road ahead",
+          "C. Slippery road ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_6",
+        "answerIndex": 0,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. Skew T-junction ahead.",
+          "B. T-junction ahead",
+          "C. Side road junction ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_7",
+        "answerIndex": 0,
+        "question": "This road sign warns you to be on the lookout for what?",
+        "answers": [
+          "A. A temporary construction or maintenance work ahead",
+          "B. Pedestrians ahead",
+          "c. Road block ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_8",
+        "answerIndex": 1,
+        "question": "What does this road sign warns you of?",
+        "answers": [
+          "A. Traffic may be approaching you from the right hand side",
+          "B. Traffic may be approaching you from the left hand side",
+          "C. Traffic may be approaching you from the left and right hand side"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_9",
+        "answerIndex": 1,
+        "question": "This road sign reminds you of what?",
+        "answers": [
+          "A. Police flashing lights ahead",
+          "B. Emergency flashing lights ahead",
+          "C. Traffic signals ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_10",
+        "answerIndex": 2,
+        "question": "Where can you discover this road sign?",
+        "answers": [
+          "A. In areas where the is tourist attractions",
+          "B. On any road",
+          "C. Where two roads join your road within a short distance"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_11",
+        "answerIndex": 2,
+        "question": "What will you come by ahead of this warning sign",
+        "answers": [
+          "A. An Ocean",
+          "B. A parking lot for surfers",
+          "C. A jetty edge or river bank"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_12",
+        "answerIndex": 0,
+        "question": "What does this road sign warns you of?",
+        "answers": [
+          "A. Traffic could merge from the left at sharp angle",
+          "B. Traffic could merge from the right at sharp angle.",
+          "C. Traffic could merge from the right and left at sharp angles."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_13",
+        "answerIndex": 0,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. A yield sign ahead.",
+          "B. A Stop sign ahead.",
+          "C. A speed hump ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_14",
+        "answerIndex": 1,
+        "question": "This road sign warns you of what?",
+        "answers": [
+          "A. A T-junction ahead.",
+          "B. A Y-junction ahead.",
+          "C. A two way street ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_15",
+        "answerIndex": 1,
+        "question": "Where can you find this road sign?",
+        "answers": [
+          "A. Near a shopping centre.",
+          "B. Located on any road but especially in rural areas near schools.",
+          "C. Near a police station."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_16",
+        "answerIndex": 2,
+        "question": "What does this road sign command?",
+        "answers": [
+          "A. Only mini buses may drive there.",
+          "B. Only motor cars may drive there.",
+          "C. Only taxis may drive there"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_17",
+        "answerIndex": 2,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. A stop and go ahead.",
+          "B. The road is under Construction.",
+          "C. A scholar patrol operating ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_18",
+        "answerIndex": 0,
+        "question": "This road sign commands that only .... may use this part of the road",
+        "answers": [
+          "A. Midi buses.",
+          "B. Abnormal vehicles.",
+          "C. Delivery vehicles"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_19",
+        "answerIndex": 0,
+        "question": "What does this road sign inform road users about?",
+        "answers": [
+          "A. There may be free ranging animals such as cattle's on the road.",
+          "B. Cattle farm ahead.",
+          "C. Wild Animals ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_20",
+        "answerIndex": 1,
+        "question": "Which vehicle type is allowed on this part of the road?",
+        "answers": [
+          "A. Only midi buses may drive there.",
+          "B. Only buses may drive there.",
+          "C. Only tour buses may drive there."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_21",
+        "answerIndex": 2,
+        "question": "These road markings instruct drivers about what?",
+        "answers": [
+          "A. Car racing is allowed.",
+          "B. You may cross to the right hand side of these lines",
+          "C. You may not cross to the right hand side of these lines except to drive around a stationary vehicle or stationary obstruction in the road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_22",
+        "answerIndex": 2,
+        "question": "This road sign forbids which vehicle to pass beyond it",
+        "answers": [
+          "A. Buses.",
+          "B. Motorcycle.",
+          "C. Taxis."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_23",
+        "answerIndex": 1,
+        "question": "What should you do when you come across this road marking at an intersection?",
+        "answers": [
+          "A. Give way to any one who crosseS your path of travel.",
+          "B. Stop your vehicle behind the stop line.",
+          "C. Only stop for unloading goods"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_24",
+        "answerIndex": 1,
+        "question": "This road sign forbit",
+        "answers": [
+          "A. Minibus from proceeding beyond.",
+          "B. Motorcars from proceeding beyond.",
+          "C. Vehicles transporting children from proceeding beyond."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_25",
+        "answerIndex": 2,
+        "question": "At an intersection when you see this road marking, you need to...",
+        "answers": [
+          "A. Look out for pedestrians.",
+          "B. Proceed without stopping",
+          "C. Give way to any one who crosses your path of travel."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_26",
+        "answerIndex": 1,
+        "question": "What does this road sign prohibit?",
+        "answers": [
+          "A. Rickshaw.",
+          "B. Hawkers.",
+          "C. animal-drawn vehicle."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_27",
+        "answerIndex": 2,
+        "question": "At an intersection when you see thisbroad marking, you need to...",
+        "answers": [
+          "A. Look out for pedestrians.",
+          "B. Give way to any one who crosses your path of travel",
+          "C. Look out for any pedestrians crossing or wanting to cross the road and give them priority by slowing down or stopping."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_28",
+        "answerIndex": 2,
+        "question": "What does this road sign prevent you from doing?",
+        "answers": [
+          "A. Passing beyond this sign if you are driving an abnormal vehicle.",
+          "B. Passing beyond this sign if you are driving an agricultural vehicle.",
+          "C. Passing beyond this sign if you are driving a construction vehicle."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_29",
+        "answerIndex": 0,
+        "question": "What should be your reaction when you approach this road marking at an intersection?",
+        "answers": [
+          "A. Look out for any pedestrians crossing or wanting to cross the road and give them priority by slowing down or stopping",
+          "B. Give way to any one who crosses your path of travel or who wants to cross your path",
+          "C. Stop with the front of your vehicle behind the stop sign"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test2_30",
+        "answerIndex": 0,
+        "question": "What does this road sign forbid?",
+        "answers": [
+          "A. Rickshaws",
+          "B. Animal drawn vehicle",
+          "C. Horse riders"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "road_sign_test_3",
+    "name": "Test 3",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_sign_test3_1",
+        "answerIndex": 0,
+        "question": "What are you expected to do when you approach this road sign?",
+        "answers": [
+          "A. Look out for other vehicles and yield to vehicles already in the circle or that cross the circle before you. Stop if necessary.",
+          "B. Drive around the circle without stopping.",
+          "C. Minimise your speed and proceed"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_2",
+        "answerIndex": 2,
+        "question": "What does this road sign forbid?",
+        "answers": [
+          "A. Left turn.",
+          "B. Right turn.",
+          "C. U-turn"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_3",
+        "answerIndex": 0,
+        "question": "What should you do when you come across this road sign",
+        "answers": [
+          "A. Follow the traffic sign when you want to join the more important route and look out for the next trailblazer",
+          "B. To exit the freeway follow this road sign direction",
+          "C. Follow this road sign direction if you want to enter the freeway"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_4",
+        "answerIndex": 0,
+        "question": "This road sign reminds you to be on the lookout for.",
+        "answers": [
+          "A. Children who could be crossing the road unexpectedly or even be playing on the road.",
+          "B. Pedestrians ahead.",
+          "C. Traffic control ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_5",
+        "answerIndex": 0,
+        "question": "What is the purpose of this road sign?",
+        "answers": [
+          "A. Indicates an exit about 300m ahead",
+          "B. Indicates an exit about 200m ahead",
+          "C. Indicates an exit about 100m ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_6",
+        "answerIndex": 0,
+        "question": "This road sign warns you of what",
+        "answers": [
+          "A. The single carriageway is ending ahead.",
+          "B. End of dual roadway ahead",
+          "C. Sharp junction ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_7",
+        "answerIndex": 1,
+        "question": "This road sign informs drivers that .",
+        "answers": [
+          "A. The road ahead ends.",
+          "B. The road to the right ends.",
+          "C. The road to the left ends."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_8",
+        "answerIndex": 1,
+        "question": "What does this road sign command?",
+        "answers": [
+          "A. A portion of the road is set aside for use by taxis only.",
+          "B. A portion of the road is set aside for use by minibuses only",
+          "C. A portion of the road is set aside for use by midi buses only."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_9",
+        "answerIndex": 1,
+        "question": "What does this control sign indicate?",
+        "answers": [
+          "A. Only buses and taxis may go past this sign.",
+          "B. No entry beyond this sign.",
+          "C. Only pedestrians are allowed to go past this sign."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_10",
+        "answerIndex": 0,
+        "question": "How should a driver react to this road sign?",
+        "answers": [
+          "A. Do not stop unless to obey a traffic light or to avoid a collision or a traffic officer.",
+          "B. No shopping malls in that area.",
+          "C. Do not allow your passenger to sleep while you are driving."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_11",
+        "answerIndex": 1,
+        "question": "What does this road sign inform road users about?",
+        "answers": [
+          "A. A bus terminus.",
+          "B. Points out the direction of a transport terminus from a route.",
+          "C. That you are leaving the ship terminus"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_12",
+        "answerIndex": 1,
+        "question": "Where can you locate this road sign?",
+        "answers": [
+          "A. Near a beach area.",
+          "B. In roads where there are more pedestrians than normally can be expected.",
+          "C. Near a Clinic."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_13",
+        "answerIndex": 2,
+        "question": "What does this information sign inform you about?",
+        "answers": [
+          "A. That you do not have the right of way at the intersection ahead.",
+          "B. To inform you of a right of way ahead.",
+          "C. That you have the right of way at the intersection ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_14",
+        "answerIndex": 2,
+        "question": "These road markings inform you that...",
+        "answers": [
+          "A. There may be low-flying aircraft ahead.",
+          "B. No disabled person's vehicle allowed here.",
+          "C. This area is reserved for cyclists only or disable person's vehicle only or a road that leads to an airport."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_15",
+        "answerIndex": 2,
+        "question": "This road sign reminds drivers that.",
+        "answers": [
+          "A. The road ends 5 km ahead.",
+          "B. Police officers are ahead",
+          "C. There's a one way road ahead going left."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_16",
+        "answerIndex": 1,
+        "question": "What does this road sign inform road users of?",
+        "answers": [
+          "A. Elderly people are not allowed there.",
+          "B. Pedestrians are not allowed from proceeding past this sign.",
+          "C. Joggers are not allowed there."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_17",
+        "answerIndex": 2,
+        "question": "What does this road sign inform road users of?",
+        "answers": [
+          "A. To turn left to enter the freeway",
+          "B. It indicates early on that there is an entrance to the freeway on a certain destinations ahead.",
+          "C. It indicates early on that there is an exit from the freeway on a certain destinations ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_18",
+        "answerIndex": 2,
+        "question": "This road sign notifies you of what?",
+        "answers": [
+          "A. A motor gate ahead.",
+          "B. Motorcycle riders ahead",
+          "C. Pedal cyclists ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_19",
+        "answerIndex": 0,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. Informs you of the existence of an information office or notice board.",
+          "B. Informs you of a parking lot around the area.",
+          "C. Informs you of an SOS around the area."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_20",
+        "answerIndex": 0,
+        "question": "What action should you take when you come across these word markings?",
+        "answers": [
+          "A. Read the message on the road and then concentrate on the possible danger indicated by the message.",
+          "B. The is parking available in the schoolyard.",
+          "C. Only school children are allowed in this area."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_21",
+        "answerIndex": 1,
+        "question": "This road sign informs you of what ?",
+        "answers": [
+          "A. Informs you of the existence of a park terminus that has a bus",
+          "B. Informs you that there is a transport modal transfer point or terminus nearby.",
+          "C. Informs you of the existence of a ride terminus that has a taxi"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_22",
+        "answerIndex": 0,
+        "question": "What does this road sign warn road users of?",
+        "answers": [
+          "A. There may be wild animals on the road or crossing the road.",
+          "B. There may be free ranging animals such as cattle's on the road.",
+          "C. Cattle farm ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_23",
+        "answerIndex": 0,
+        "question": "The purpose of this road sign is to warn drivers to",
+        "answers": [
+          "A. Give priority to pedestrians crossing or wanting to cross the road.",
+          "B. Keep an eye for joggers in the area.",
+          "C. Give priority to school children crossing or wanting to cross the road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_24",
+        "answerIndex": 1,
+        "question": "What does this road sign forbid?",
+        "answers": [
+          "A. Pedestrians from using the carriagevway, lane or path where they can cause a danger to themselves and to other road users.",
+          "B. Cyclists from using the carriagevway, lane or path where they can cause a danger to themselves and to other road Users.",
+          "C. Motorcycles from using the carriagevway, lane or path where they can cause a danger to themselves and to other road Users."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_25",
+        "answerIndex": 0,
+        "question": "What does this road sign advice road users of?",
+        "answers": [
+          "A. It indicates exactly where the exit will be.",
+          "B. It indicates exactly where the entrance will be to this route.",
+          "C. Route exit ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_26",
+        "answerIndex": 1,
+        "question": "Where can you discover this road sign?",
+        "answers": [
+          "A. At any road",
+          "B. At a railway crossing or roadway ahead.",
+          "C. On rural roads."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_27",
+        "answerIndex": 1,
+        "question": "What does this road mark prevent you from doing?",
+        "answers": [
+          "A. Turning left at the intersection.",
+          "B. No overtaking.",
+          "C. Stopping on the public road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_28",
+        "answerIndex": 1,
+        "question": "What are you expected to do when you approach this road sign?",
+        "answers": [
+          "A. Travel at 60 km/h or faster",
+          "B. Look out for other vehicles and yield to vehicles already in the carriageway.",
+          "C. Make sure you stop at the intersection."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_29",
+        "answerIndex": 0,
+        "question": "What does this road sign prohibit?",
+        "answers": [
+          "A. Animal-drawn vehicles.",
+          "B. Farm animals.",
+          "C. Horse riders."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test3_30",
+        "answerIndex": 1,
+        "question": "Where can you discover this road sign?",
+        "answers": [
+          "A. On the continuing freeway",
+          "B. Between the right hand side of an off-ramp and the continuing freeway",
+          "C. On any road"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "road_sign_test_4",
+    "name": "Test 4",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_sign_test4_1",
+        "answerIndex": 0,
+        "question": "What does this road sign early indicate road users of?",
+        "answers": [
+          "A. An alternative route",
+          "B. An airport",
+          "C. A pickup point"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_2",
+        "answerIndex": 0,
+        "question": "What does this tourist sign early indicate road users of?",
+        "answers": [
+          "A. A camp",
+          "B. A service station",
+          "C. A roadside stall"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_3",
+        "answerIndex": 0,
+        "question": "Which road sign warns you of slow-moving heavy motor vehicles ahead, usually found in mountainous areas?",
+        "answers": [
+          "A. Both are correct.",
+          "B. A",
+          "C. B"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_4",
+        "answerIndex": 2,
+        "question": "Which road sign indicates a dead-end or road closure?",
+        "answers": [
+          "A. B",
+          "B. A",
+          "C. Both are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_5",
+        "answerIndex": 0,
+        "question": "This type of road sign is called",
+        "answers": [
+          "A. An alternative route marker.",
+          "B. An advance trailblazer.",
+          "C. A map-type trailblazer."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_6",
+        "answerIndex": 0,
+        "question": "Where can you possibly find this road sign?",
+        "answers": [
+          "A. On the left-hand side of a freeway and as close as possible to the off-ramp.",
+          "B. On any freeway with more than one traffic lane.",
+          "C. On any ordinary road with more than one traffic lane."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_7",
+        "answerIndex": 0,
+        "question": "What is the purpose of this road sign?",
+        "answers": [
+          "A. To indicate in good time exits that are close together, all leading to the same town.",
+          "B. The distances in km to the next town or suburb.",
+          "C. The fees payable at each toll plaza on this route."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_8",
+        "answerIndex": 1,
+        "question": "Where can you discover this road sign?",
+        "answers": [
+          "A. Usually on the left-hand side of an ordinary road, a couple of meters before the on-ramp to a freeway.",
+          "B. Usually on the left-hand side of an ordinary road, opposite an on-ramp to a freeway.",
+          "C. Usually on the left-hand side of a freeway, just before an off-ramp."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_9",
+        "answerIndex": 0,
+        "question": "What is the name of this road sign?",
+        "answers": [
+          "A. No-entry.",
+          "B. Dead-end.",
+          "C. Cul-de-sac."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_10",
+        "answerIndex": 1,
+        "question": "Does this road marking have the same purpose as a stop sign?",
+        "answers": [
+          "A. True.",
+          "B. False.",
+          "C. Neither."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_11",
+        "answerIndex": 1,
+        "question": "What action should be taken when you come across this left-edge line marking?",
+        "answers": [
+          "A. Give way to anyone who crosses your path.",
+          "B. Avoid driving to the left of the left-edge line.",
+          "C. Drive in such a way that you do not stop, park, or drive over the line."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_12",
+        "answerIndex": 2,
+        "question": "When approaching an intersection and the traffic light changes to steady amber (orange) color, what action should be taken?",
+        "answers": [
+          "A. Flash your lights on oncoming traffic and drive through the intersection.",
+          "B. Speed up to drive through the intersection.",
+          "C. Stop, except when it cannot be done safely."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_13",
+        "answerIndex": 0,
+        "question": "This road sign commands buses, midibuses, and minibuses to",
+        "answers": [
+          "A. Only use such road or portion of such road.",
+          "B. Use such road or portion of such road if they want.",
+          "C. Not use such road or portion of such road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_14",
+        "answerIndex": 0,
+        "question": "This road sign disallows from using the road or part of the road indicated by such sign.",
+        "answers": [
+          "A. Articulated vehicles pulling 2 trailers",
+          "B. Vehicles with an axle mass exceeding 2 tons",
+          "C. Vehicles carrying a load that weighs more than 2 tons"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_15",
+        "answerIndex": 2,
+        "question": "What action should be taken when you come across this road sign?",
+        "answers": [
+          "A. You may not turn left at the next intersection.",
+          "B. You should only turn right.",
+          "C. You may proceed either straight or turn right."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_16",
+        "answerIndex": 0,
+        "question": "What does this road sign convey?",
+        "answers": [
+          "A. You may not park here during any time of the day or night, unless otherwise indicated by a supplementary sign.",
+          "B. No private vehicles allowed to drive beyond this sign.",
+          "C. No pedestrians allowed beyond this sign."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_17",
+        "answerIndex": 0,
+        "question": "This road sign indicates an area reserved exclusively for ...",
+        "answers": [
+          "A. Goods vehicles - collections and deliveries.",
+          "B. Authorized vehicles diplomatic corps.",
+          "C. Company drivers - indicated on the logo."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_18",
+        "answerIndex": 2,
+        "question": "What action should be taken when encountering a 'woonerf' road sign?",
+        "answers": [
+          "A. Follow all the rules, which apply, to freeways.",
+          "B. Never limit the speed of your vehicles in this area to 30km/h.",
+          "C. Drive slowly, obey the special rules mentioned above and be particularly on the lookout for children playing in the street."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_19",
+        "answerIndex": 0,
+        "question": "What action should be taken when you come across this road sign?",
+        "answers": [
+          "A. Do not enter this area or use this road if you are driving a construction vehicle.",
+          "B. Do not enter this area or use this road if you are driving an agricultural vehicle.",
+          "C. Do not enter this area if you are driving an abnormal vehicle."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_20",
+        "answerIndex": 2,
+        "question": "What does this road sign prohibit?",
+        "answers": [
+          "A. Rickshaws.",
+          "B. Animal-drawn vehicles.",
+          "C. Horses and riders."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_21",
+        "answerIndex": 1,
+        "question": "What is the purpose of this road sign?",
+        "answers": [
+          "A. To prohibit pedal cycles from using the area.",
+          "B. To indicate a lane reserved for pedal cycles.",
+          "C. To indicate a parking area reserved for bicycles."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_22",
+        "answerIndex": 1,
+        "question": "What does this road sign convey to a road user?",
+        "answers": [
+          "A. It indicates a bus stop reservation where buses from a specific organization or company may stop to drop off and pick up passengers.",
+          "B. It indicates which lane a bus from a specific organization or company must use.",
+          "C. It indicates that a driver from another company or organization may use the bus stop at any time other than that indicated on the road sign."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_23",
+        "answerIndex": 0,
+        "question": "What does this road sign inform you of?",
+        "answers": [
+          "A. An overhead structure on the road ahead.",
+          "B. The start of a dual-carriageway freeway.",
+          "C. A railway line that crosses the road ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_24",
+        "answerIndex": 1,
+        "question": "Where would you find this road sign?",
+        "answers": [
+          "A. At a one-way road.",
+          "B. At the off-ramp from a freeway.",
+          "C. Below a regulatory sign."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_25",
+        "answerIndex": 0,
+        "question": "Where would you find this road sign?",
+        "answers": [
+          "A. On any road before you reach the place where another road joins your road from the left.",
+          "B. On any road before you reach the place where two roads meet.",
+          "C. On any road before you reach the place where two roads join your road within a short distance."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_26",
+        "answerIndex": 1,
+        "question": "What action should be taken when encountering a sharp junction warning sign?",
+        "answers": [
+          "A. Pass the intersection at a safe speed and look out for merging traffic that might not yield.",
+          "B. Decide well in time which road to take and be on the lookout for approaching traffic whose path you will cross when taking the right-hand side road.",
+          "C. Position your vehicle on the road where it will not endanger approaching traffic. It may be necessary to change lanes."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_27",
+        "answerIndex": 2,
+        "question": "What is the purpose of this road sign?",
+        "answers": [
+          "A. It indicates a one-way road to the right.",
+          "B. It indicates an obstruction on the left-hand side of the roadway.",
+          "C. It warns you that the road curves suddenly to the right where the sign is displayed."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_28",
+        "answerIndex": 1,
+        "question": "What does this road sign indicate?",
+        "answers": [
+          "A. It warns that the road winds for the next 8km and the maximum speed that you may drive is 60km/h.",
+          "B. It warns that there are sharp curves in the road 8km from there and the speed limit is 60km/h.",
+          "C. It warns that the road winds for 8km and the recommended speed to drive is 60km/h."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_29",
+        "answerIndex": 1,
+        "question": "What does this tourism sign early indicate road users of?",
+        "answers": [
+          "A. An inland water resort.",
+          "B. A seaside or beach resort.",
+          "C. A municipal swimming pool."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test4_30",
+        "answerIndex": 2,
+        "question": "Where would you find this type of a road sign?",
+        "answers": [
+          "A. On the left-hand side of a freeway about 2km after entering the freeway and every 20km thereafter.",
+          "B. On the far right-hand side of any road before an intersection leading to a freeway.",
+          "C. On the left-hand side of the road about 750m after entering a freeway and after that every 5 to 10km."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "road_sign_test_5",
+    "name": "Test 5",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_sign_test5_1",
+        "answerIndex": 2,
+        "question": "This road sign warns you of what?",
+        "answers": [
+          "A. A sharp junction, from left then right ahead",
+          "B. Cross traffic ahead",
+          "C. A staggered junction ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_2",
+        "answerIndex": 0,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. An uneven roadway ahead",
+          "B. A gravel road starting ahead",
+          "C. Rough sea washing across the road ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_3",
+        "answerIndex": 0,
+        "question": "This road sign disallows you from",
+        "answers": [
+          "A. Stopping where you see this sign during these two time periods",
+          "B. Stopping unless you are 7m to 9m from the sign",
+          "C. Stopping where you see this sign"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_4",
+        "answerIndex": 1,
+        "question": "This road sign reminds you of a....",
+        "answers": [
+          "A. Chevron ahead",
+          "B. T-junction ahead",
+          "C. Two-way stop ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_5",
+        "answerIndex": 2,
+        "question": "This road sign forbids you from driving...",
+        "answers": [
+          "A. More than 100 times at night",
+          "B. At less than 100 km/h at night",
+          "C. At more than 100 km/h at night"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_6",
+        "answerIndex": 0,
+        "question": "This road sign notifies drivers that",
+        "answers": [
+          "A. You are coming to a secondary crossroad and you must expect to stop or yield",
+          "B. There is a crossroads ahead",
+          "C. There is a primary crossroad ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_7",
+        "answerIndex": 2,
+        "question": "What should you do when you come across this road sign?",
+        "answers": [
+          "A. Drive for 50 kilometers",
+          "B. Drive slower than 50 km/h",
+          "C. Do not drive slower than the speed indicated in km/h."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_8",
+        "answerIndex": 0,
+        "question": "This road sign commands what?",
+        "answers": [
+          "A. Only pedal cycles may ride there",
+          "B. Drivers should be aware of cyclists ahead",
+          "C. Only motorcycles may ride there"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_9",
+        "answerIndex": 1,
+        "question": "What should you do when you come across this road sign?",
+        "answers": [
+          "A. Get out of the vehicle and direct the traffic",
+          "B. Be on the lookout for stop/go traffic controllers",
+          "C. Try to get past as quickly as possible"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_10",
+        "answerIndex": 2,
+        "question": "This road sign commands what?",
+        "answers": [
+          "A. Turn left if you want to",
+          "B. Look out for vehicles turning left",
+          "C. Proceed left only"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_11",
+        "answerIndex": 2,
+        "question": "This area is reserved for...",
+        "answers": [
+          "A. Goods vehicle",
+          "B. Delivery vehicle",
+          "C. Construction vehicle"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_12",
+        "answerIndex": 1,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. The minimum speed limit",
+          "B. The maximum speed limit",
+          "C. The distance to the next town"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_13",
+        "answerIndex": 2,
+        "question": "What does this road sign prohibit?",
+        "answers": [
+          "A. Pedestrians from entering the area.",
+          "B. Double parking in the parking lot.",
+          "C. Unauthorised vehicles"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_14",
+        "answerIndex": 0,
+        "question": "What does this road sign prevent you from doing?",
+        "answers": [
+          "A. Turning to the right at the intersection",
+          "B. Overtaking on the right",
+          "C. Making a U-turn to the right"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_15",
+        "answerIndex": 2,
+        "question": "This road sign forbids you from doing what on a public road?",
+        "answers": [
+          "A. Side parking",
+          "B. Speeding",
+          "C. Stopping"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_16",
+        "answerIndex": 2,
+        "question": "This area is reserved for...",
+        "answers": [
+          "A. Mini-buses",
+          "B. Motor cars",
+          "C. Taxis"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_17",
+        "answerIndex": 0,
+        "question": "This road sign forbids...",
+        "answers": [
+          "A. Animal-drawn vehicles",
+          "B. Rickshaws",
+          "C. Agricultural vehicles"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_18",
+        "answerIndex": 0,
+        "question": "What should you do when you come across this road marking?",
+        "answers": [
+          "A. Look out for pedestrians that may cross the road, slow down and stop if someone wants to cross the road.",
+          "B. You only have to stop if there is more than one person waiting",
+          "C. At this type of pedestrian crossing you do not need to stop"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_19",
+        "answerIndex": 1,
+        "question": "These road markings warn you that...",
+        "answers": [
+          "A. You must keep as far left as possible",
+          "B. There is a no-overtaking line or no-crossing line ahead",
+          "C. There is a gentle curve ahead"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_20",
+        "answerIndex": 1,
+        "question": "What does the third lane inform you about?",
+        "answers": [
+          "A. The number of vehicles in this lane at any given time",
+          "B. The maximum speed limit",
+          "C. The minimum speed limit"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_21",
+        "answerIndex": 1,
+        "question": "This road sign forbids...",
+        "answers": [
+          "A. Delivery vehicles on the second lane.",
+          "B. Heavy motor vehicles on the second lane.",
+          "C. Construction vehicles on the second lane."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_22",
+        "answerIndex": 2,
+        "question": "Where would you find this road marking?",
+        "answers": [
+          "A. On any road in an intersection.",
+          "B. On any road with two-way traffic.",
+          "C. On one-way roads such as dual-carriageways or freeways to indicate the right edge line."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_23",
+        "answerIndex": 0,
+        "question": "How should you respond to a traffic light that displays a steady red arrow?",
+        "answers": [
+          "A. Stop as for a steady red light and only move off when the green light is displayed.",
+          "B. Proceed with caution as for a yield sign.",
+          "C. Stop behind the line and, if turning right, proceed but give right of way to other vehicles and pedestrians crossing your path."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_24",
+        "answerIndex": 2,
+        "question": "Where could you expect to find this traffic signal?",
+        "answers": [
+          "A. On any road, especially in wildlife sanctuaries and rivers.",
+          "B. On any road close to water, harbours.",
+          "C. At a railway crossing and at a public transportation lane"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_25",
+        "answerIndex": 2,
+        "question": "What does this flag signal indicate?",
+        "answers": [
+          "A. Vehicles turning to the right may proceed.",
+          "B. Slow down and stop before reaching the flagman.",
+          "C. Potential hazard ahead. Proceed slowly and be alert."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_26",
+        "answerIndex": 1,
+        "question": "What action should be taken when encountering these road markings?",
+        "answers": [
+          "A. Slow down and be ready to leave the freeway in 300m if you want to use the next exit.",
+          "B. Drive in such a way that you do not stop, park, or drive over the painted island, unless on the orders of a traffic or police officer, to avoid a collision or in an emergency.",
+          "C. Avoid driving to the left of the yellow lines."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_27",
+        "answerIndex": 2,
+        "question": "Where would you find this road sign?",
+        "answers": [
+          "A. At the beginning of any road or part of a road.",
+          "B. On any road, especially in mountainous areas.",
+          "C. In areas where there is mining and industrial activities taking place."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_28",
+        "answerIndex": 0,
+        "question": "This part of the road must be used by... only.",
+        "answers": [
+          "A. Animal-drawn vehicles",
+          "B. Horses and riders",
+          "C. Rickshaws"
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_29",
+        "answerIndex": 1,
+        "question": "Where could you expect to find this road sign and how should you react?",
+        "answers": [
+          "A. On roads with high-incident collision zones. Switch on your vehicle's headlights.",
+          "B. In mountainous areas before a tunnel. Switch the lights of your vehicle on in the dip position.",
+          "C. On roads that carry large amounts of traffic at night. Switch on your vehicle's headlights."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test5_30",
+        "answerIndex": 2,
+        "question": "What does this road sign indicate?",
+        "answers": [
+          "A. It shows a parking area reserved for airport transfers.",
+          "B. It shows a parking area reserved for minibuses from a specific organization or company.",
+          "C. It shows a parking area reserved for ambulances or emergency vehicles."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "road_sign_test_6",
+    "name": "Test 6",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_sign_test6_1",
+        "answerIndex": 0,
+        "question": "What should be your reaction when you approach this road marking at intersection or railway crossing?",
+        "answers": [
+          "A. Bring your vehicle to a stop behind the stop line,If there is no stop line, the front of the vehicle must come to a standstill in line with the stop sign.",
+          "B. Slow down and drive on when it is safe to do so.",
+          "C. Lookout for pedestrians, trains and move on if it is safe to do so."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_2",
+        "answerIndex": 2,
+        "question": "What action should be taken when you encounter this command sign?",
+        "answers": [
+          "A. Be on the lookout for police officers on the next 50km.",
+          "B. Do not exceed the speed indicated by this sign.",
+          "C. Do not drive slower than the speed indicated in km/h."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_3",
+        "answerIndex": 2,
+        "question": "What are you expected to do when you approach this road sign?",
+        "answers": [
+          "A. If other traffic is approaching the intersection, reduce speed and, if necessary, stop.",
+          "B. If more than one vehicle stops at the intersection, the vehicle which stopped first should move off first.",
+          "C. If you intend to carry straight on, bring your vehicle to a standstill behind the stop line. When turning left, yield to all traffic which is close enough to pose a hazard. Proceed only when it is safe."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_4",
+        "answerIndex": 0,
+        "question": "What does this road sign command?",
+        "answers": [
+          "A. Only vehicles with exceeding mass should use this part of the road.",
+          "B. Delivery vehicles only should use this part of the road.",
+          "C. Vehicles carrying dangerous substances only should use this part of the road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_5",
+        "answerIndex": 0,
+        "question": "What action should be taken when you come across this road sign?",
+        "answers": [
+          "A. Stop your vehicle behind the stop line, proceed only when it is safe.",
+          "B. Look out for pedestrians crossing the road or near the road and be ready to stop.",
+          "C. No stopping for the next 4km."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_6",
+        "answerIndex": 1,
+        "question": "This road sign commands what?",
+        "answers": [
+          "A. Proceed right only.",
+          "B. Keep right.",
+          "C. Keep left."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_7",
+        "answerIndex": 2,
+        "question": "What should be your reaction when you approach this road sign ahead?",
+        "answers": [
+          "A. Bring your vehicle to a stop, proceed only when it is safe.",
+          "B. Look out for pedestrians crossing the road or near the road and be ready to stop.",
+          "C. Stop if the STOP sign is displayed. Proceed with caution if the GO sign is displayed."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_8",
+        "answerIndex": 2,
+        "question": "What should you do when you come across this road sign?",
+        "answers": [
+          "A. Keep left.",
+          "B. Keep right.",
+          "C. Proceed straight only."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_9",
+        "answerIndex": 1,
+        "question": "What action should be taken when you come across this road sign?",
+        "answers": [
+          "A. Look out for pedestrians crossing the road or near the road and be ready to stop.",
+          "B. If other traffic is approaching the intersection, reduce speed and, if necessary, stop.",
+          "C. Proceed only when it is safe."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_10",
+        "answerIndex": 0,
+        "question": "What action should be taken when you encounter this command sign?",
+        "answers": [
+          "A. Turn left only.",
+          "B. Keep left.",
+          "C. Proceed left only."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_11",
+        "answerIndex": 2,
+        "question": "What should be your reaction when you approach this road sign at an intersection?",
+        "answers": [
+          "A. Proceed only when it is safe.",
+          "B. If other traffic is approaching the intersection, reduce speed and, if necessary, stop.",
+          "C. Look out for pedestrians crossing the road or near the road and be ready to stop."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_12",
+        "answerIndex": 1,
+        "question": "This road sign commands what?",
+        "answers": [
+          "A. The road or part of the road may be used by cyclists only.",
+          "B. The road or part of the road may be used by pedestrians only.",
+          "C. The road or part of the road may be used by children only."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_13",
+        "answerIndex": 2,
+        "question": "What does this road sign command?",
+        "answers": [
+          "A. Cyclists may not use this part of the road indicated by this sign.",
+          "B. Two-wheeled vehicles may use this part of the road.",
+          "C. Cyclists may use only the part of the road indicated by this sign."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_14",
+        "answerIndex": 0,
+        "question": "What is the purpose of this road sign?",
+        "answers": [
+          "A. To indicate that a freeway begins at the sign and that the rules that apply to freeways are effective from here.",
+          "B. To indicate that a single-carriageway freeway begins at the sign and that all rules that apply to freeways are effective from here.",
+          "C. To warn you against a height restriction ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_15",
+        "answerIndex": 0,
+        "question": "This road sign commands that this part of the road may be used by",
+        "answers": [
+          "A. Cyclists and pedestrians only.",
+          "B. Bikers only.",
+          "C. Elderly people on bicycles only."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_16",
+        "answerIndex": 1,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. The road narrows ahead.",
+          "B. A single-carriageway freeway begins.",
+          "C. There is a bridge 5 km away."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_17",
+        "answerIndex": 1,
+        "question": "Only... are allowed on this part of the road.",
+        "answers": [
+          "A. Midi buses",
+          "B. Goods vehicles",
+          "C. Emergency vehicles."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_18",
+        "answerIndex": 1,
+        "question": "What action should you take when you come across this road marking?",
+        "answers": [
+          "A. Slow down and release your brake before driving over the speed hump.",
+          "B. Only drive into this arrestor bed when your brakes fail.",
+          "C. Ensure not to cross the prohibition line that follows the sign."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_19",
+        "answerIndex": 2,
+        "question": "What does this road sign command?",
+        "answers": [
+          "A. Only buses are allowed to use such road or portion of such road.",
+          "B. Only taxis are allowed to use such road or portion of such road.",
+          "C. Only delivery vehicles are allowed to use such road or portion of such road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_20",
+        "answerIndex": 0,
+        "question": "What will you come by ahead of this control sign?",
+        "answers": [
+          "A. A traffic circle where you must expect to yield to other traffic.",
+          "B. A gentle curve to the right.",
+          "C. A U-shaped curve ahead to the right."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_21",
+        "answerIndex": 1,
+        "question": "This road sign informs you of what?",
+        "answers": [
+          "A. U-shaped curve ahead to the right.",
+          "B. A gently curve ahead to the right.",
+          "C. A sharp curve ahead to the right."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_22",
+        "answerIndex": 0,
+        "question": "What does this road marking alert you of?",
+        "answers": [
+          "A. Railway crossing ahead.",
+          "B. Stop sign ahead.",
+          "C. Pedestrian crossing ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_23",
+        "answerIndex": 2,
+        "question": "This road sign reminds you of a...",
+        "answers": [
+          "A. Sharp turn ahead.",
+          "B. Winding road ahead.",
+          "C. Hairpin bend ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_24",
+        "answerIndex": 1,
+        "question": "What action should you take when you come across this road marking?",
+        "answers": [
+          "A. Only drive into this arrestor bed when your brakes fail.",
+          "B. Slow down if other traffic is approaching the intersection and stop if necessary.",
+          "C. Ensure not to cross the prohibition line that follows the sign."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_25",
+        "answerIndex": 0,
+        "question": "This road sign warns you of what?",
+        "answers": [
+          "A. A two-way traffic crossroad ahead.",
+          "B. A two-way traffic ahead.",
+          "C. A traffic circle ahead."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_26",
+        "answerIndex": 2,
+        "question": "What is the purpose of these road markings?",
+        "answers": [
+          "A. To warn you that there is a no-overtaking line or no-crossing line ahead.",
+          "B. To warn in time that you will be obliged to follow a certain direction at the first intersection.",
+          "C. To warn that the traffic lanes are reduced from the left or right or from both sides."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_27",
+        "answerIndex": 1,
+        "question": "What action should be taken when you come across this road sign?",
+        "answers": [
+          "A. Do not drive slower than the speed indicated in km/h.",
+          "B. Do not exceed the speed indicated by this sign.",
+          "C. Do not proceed past the sign or enter the road without special permission."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_28",
+        "answerIndex": 0,
+        "question": "What action should you take when you come across these road markings?",
+        "answers": [
+          "A. Ensure not to cross the prohibition line that follows the sign.",
+          "B. Choose the correct lane in time to drive in the direction that you want to go.",
+          "C. Change lanes in time if the lane you are traveling in ends."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_29",
+        "answerIndex": 2,
+        "question": "What does this road sign prohibit?",
+        "answers": [
+          "A. A vehicle which is higher than the height indicated by the sign.",
+          "B. A vehicle which has an axle mass that exceeds the mass indicated in tons by the sign.",
+          "C. A vehicle which has a GVM or GCM that exceeds the mass indicated in tons by the sign."
+        ]
+      },
+      {
+        "imageResName": "ic_road_sign_test6_30",
+        "answerIndex": 1,
+        "question": "What should be your reaction when you approach this road marking?",
+        "answers": [
+          "A. Drive in the center of your demarcated lane.",
+          "B. Slow down and release your brake before driving over the speed hump.",
+          "C. Be on the lookout for approaching vehicles."
+        ]
+      }
+    ]
+  }
+]

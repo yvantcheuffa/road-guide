@@ -1,7 +1,8 @@
 package com.southafrica.roadguide.ui.learner.learn.controls.details
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.MenuItem
+import androidx.appcompat.app.AppCompatActivity
 import com.southafrica.roadguide.databinding.ActivityControlsDetailBinding
 import com.southafrica.roadguide.databinding.ItemTextviewBinding
 import com.southafrica.roadguide.model.VehicleControl
@@ -16,7 +17,8 @@ class ControlsDetailActivity : AppCompatActivity() {
         vehicleControl = intent.getSerializableExtra(ARG_VEHICLE_CONTROL) as VehicleControl
         binding = ActivityControlsDetailBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+        supportActionBar!!.title = vehicleControl.name
         setupViews()
     }
 
@@ -34,6 +36,11 @@ class ControlsDetailActivity : AppCompatActivity() {
             descriptionBinding.root.text = "${index.plus(1)}. $description"
             binding.descriptionsContainer.addView(descriptionBinding.root)
         }
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        if (item.itemId == android.R.id.home) finish()
+        return super.onOptionsItemSelected(item)
     }
 
     companion object {

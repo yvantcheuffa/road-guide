@@ -1,0 +1,920 @@
+[
+  {
+    "id": "road_rules_test_1",
+    "name": "Test 1",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_rule_test1_1",
+        "answerIndex": 0,
+        "question": "You may not drive a motor vehicle on a public road meanwhile the concentration of alcohol in your body is...",
+        "answers": [
+          "A) 0.05 grams per 100ml of blood or more",
+          "B) 0.005 grams per 100ml of blood or more",
+          "C) 0.0005 grams per 100ml of blood or more"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_2",
+        "answerIndex": 1,
+        "question": "A driver/rider should not drive/ride on a public road...",
+        "answers": [
+          "A) If it does not have a sunroof.",
+          "B) In such a manner that wilfully disregard the safety of individuals or property.",
+          "C) If it does not have a car stereo."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_3",
+        "answerIndex": 2,
+        "question": "Your vehicle is involved in an accident you are supposed to (i) immediately stop your vehicle (ii) Ascertain the nature and the extent of any injuries. (iii) Drink a bit to calm your nerves down.",
+        "answers": [
+          "A) (iii) only is correct.",
+          "B) All are above.",
+          "C) (i),(ii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_4",
+        "answerIndex": 0,
+        "question": "Vehicles must be fitted with pneumatic tyres and maintain a tread depth of at least...",
+        "answers": [
+          "A) 1 millimeter",
+          "B) 0.1 millimeter",
+          "C) 0.10 millimeter"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_5",
+        "answerIndex": 1,
+        "question": "A vehicle may not be used on a public road if...",
+        "answers": [
+          "A) The fuel tank is fitted with an effective yellow cap.",
+          "B) The fuel tank is not fitted with an effective cap.",
+          "C) The fuel tank is fitted with an effective red cap."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_6",
+        "answerIndex": 2,
+        "question": "A driver/rider of a vehicle on a public road should stop if... (i) Is in compliance with a direction conveyed by a traffic sign. (ii) He was signaled by a person leading or driving any bovine on the road. (iii) Animals are seen crossing the road and can only move when all the animals have crossed and the road is safe to continue...",
+        "answers": [
+          "A) (i) only is correct.",
+          "B) (ii),(iii) are correct.",
+          "C) All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_7",
+        "answerIndex": 0,
+        "question": "A driver/rider of a vehicle may not enter/cross a public road if...",
+        "answers": [
+          "A) There is obstruction or moving traffic.",
+          "B) The vehicle can cross the road without obstructing or endangering any traffic.",
+          "C) The road is clear of moving traffic."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_8",
+        "answerIndex": 1,
+        "question": "You may tow another vehicle on the public road if...",
+        "answers": [
+          "A) The length of the tow-rope chain or tow-bar between the two vehicles is less than 3.5 meters",
+          "B) The length of the tow-rope chain or tow-bar between the two vehicles is 3.5 meters",
+          "C) The length of the tow-rope chain or tow-bar between the two vehicles is 2.5 meters"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_9",
+        "answerIndex": 2,
+        "question": "Which of the following vehicles are not allowed on a freeway (i) vehicle drawn by an animal. (ii) Pedal cycle. (iii) A tractor",
+        "answers": [
+          "A) (i),(ii) are correct.",
+          "B) (i) is only correct.",
+          "C) All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_10",
+        "answerIndex": 0,
+        "question": "You better not stop on a freeway except (i) In compliance with a road traffic sign (ii) Told by a traffic officer (iii) any reason beyond your control...",
+        "answers": [
+          "A) All of the above.",
+          "B) (ii) only is correct.",
+          "C) (iii) only is correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_11",
+        "answerIndex": 0,
+        "question": "A general limit speed of....should apply in any freeway respectively.",
+        "answers": [
+          "A) 120 kilometers per hour",
+          "B) 100 kilometers per hour",
+          "C) 60 kilometers per hour"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_12",
+        "answerIndex": 1,
+        "question": "A vehicle is deemed abandoned if it is left for...",
+        "answers": [
+          "A) 5 days in an urban area",
+          "B) 7 days in the same place on a public road within an urban area",
+          "C) 1 day in the same place on a public road"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_13",
+        "answerIndex": 2,
+        "question": "A cellular, mobile telephone device or any other communication device should... while driving",
+        "answers": [
+          "A) Be handled with both hands.",
+          "B) Be handled with one hand.",
+          "C) Not be handled with either hands or any other part of the body."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_14",
+        "answerIndex": 0,
+        "question": "A driver of a vehicle or rider can disobey traffic road sign or rule of the road if...",
+        "answers": [
+          "A) Ordered to do so by a traffic officer.",
+          "B) He/She feels like.",
+          "C) He/She is under the influence of alcohol."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_15",
+        "answerIndex": 2,
+        "question": "You should not park a vehicle on the roadway of a public road if ...",
+        "answers": [
+          "It is beyond your control.",
+          "You have a flat tire.",
+          "It will obstruct any private or public vehicular entrance."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_16",
+        "answerIndex": 2,
+        "question": "You should not park a vehicle on the road way of a public within an urban area if...",
+        "answers": [
+          "You have a flat tire",
+          "It is beyond your control",
+          "You are within 5 metres of any intersection."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_17",
+        "answerIndex": 0,
+        "question": "A driver/rider of a vehicle can never...",
+        "answers": [
+          "Exceed the speed limit when overtaking/passing",
+          "Pass to the right at a safe distance when overtaking",
+          "Have passengers when overtaking"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_18",
+        "answerIndex": 2,
+        "question": "The driver/rider of a vehicle may not overtake another moving vehicle in the same direction on a public road when...",
+        "answers": [
+          "He or She can do so without encroaching on the right-hand side of the roadway.",
+          "The roadway of such road is restricted to vehicles moving in one direction.",
+          "Approaching a curve"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_19",
+        "answerIndex": 2,
+        "question": "A load that projects more than 150 millimeters to the side or 300 millimeters to the rear must be marked by a...",
+        "answers": [
+          "Red flag or flags (30mm x 30mm) during the day, retro reflectors at night.",
+          "Red flag or flags (100mm x 100mm) during the day, retro reflectors at night.",
+          "Red flag or flags (300mm x 300mm) during the day, retro reflectors at night."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_20",
+        "answerIndex": 2,
+        "question": "Goods should not be loaded on the vehicle in a way...",
+        "answers": [
+          "That it is securely fastened to such vehicle.",
+          "That is safely contained within the body of such vehicle.",
+          "That they may obscure the driver's/riders view of traffic at the front, on either side or the rear."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_21",
+        "answerIndex": 2,
+        "question": "A speed limit of... should apply in respect of every public road other than a freeway situated outside an urban area.",
+        "answers": [
+          "60 kilometers per hour.",
+          "120 kilometers per hour.",
+          "100 kilometers per hour."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_22",
+        "answerIndex": 1,
+        "question": "You can tow another vehicle on the public road if...",
+        "answers": [
+          "You are using a tow-rope and chain traveling at 30km/h.",
+          "You are using a draw bar or a tow-bar and traveling 30km/h",
+          "You are using a chain."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_23",
+        "answerIndex": 2,
+        "question": "A vehicle is deemed abandoned if it is left for...",
+        "answers": [
+          "20 hours in the same place on a public road.",
+          "12 hours in the same place on a public road outside an urban area.",
+          "24 hours in the same place on a public road outside an urban area."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_24",
+        "answerIndex": 0,
+        "question": "You may not drive a motor vehicle on a public road while the concentration of alcohol in your body is... in case of a professional driver.",
+        "answers": [
+          "0.02 grams per 100ml of your blood or more.",
+          "0.01 grams per 100ml of your blood or more.",
+          "0.002 grams per 100ml of your blood or more."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_25",
+        "answerIndex": 0,
+        "question": "A South African Bureau of Standards (SABS) approved number plate should... (i) be affixed in such a manner that each letter and figure thereon is clearly legible. (ii) be affixed in an upright position or within 30 degrees of such position. (iii) have a dark ground.",
+        "answers": [
+          "(i) and (ii) are correct.",
+          "(i) is only correct.",
+          "All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_26",
+        "answerIndex": 1,
+        "question": "A speed limit of.... should apply in respect of every public road situated within an urban area.",
+        "answers": [
+          "120 kilometers per hour",
+          "60 kilometers per hour",
+          "100 kilometers per hour"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_27",
+        "answerIndex": 2,
+        "question": "Displaying an emergency warning triangle must not apply to a vehicle being stationary on the roadway of a public road... in a place a road traffic sign authorizes the loading and unloading of goods. (ii) in compliance with a road traffic sign or instruction given by a traffic officer. (iii) on account of other traffic and the driver occupies the driving seat of such vehicle (iv) in the course of an event accompanying the carry out of a State or municipal function.",
+        "answers": [
+          "Only (i) and (ii) are correct",
+          "None of the above are correct",
+          "All of the above are correct"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_28",
+        "answerIndex": 0,
+        "question": "How many windscreen wipers should a light or heavy motor vehicle have when operational they should wipe the outside of the windscreen continuously, evenly and adequately.",
+        "answers": [
+          "At least one windscreen wiper, to wipe the windscreen directly in front of the driver.",
+          "Two windscreen wipers to clean the entire windscreen.",
+          "Three windscreen wipers. Two fitted to the front windscreen and fitted to the back window of the vehicle"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_29",
+        "answerIndex": 0,
+        "question": "When can you use your emergency warning triangle.",
+        "answers": [
+          "When your vehicle has broken down",
+          "When parked outside a friend's house on the wrong side of the road facing oncoming traffic.",
+          "When you want to stop for a lunch break at next to the road"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test1_30",
+        "answerIndex": 2,
+        "question": "Pedestrians should cross a roadway only at a pedestrian crossing, at an intersection or a distance further than.... from such pedestrian or intersection crossing.",
+        "answers": [
+          "9m",
+          "12m",
+          "50m"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "road_rules_test_2",
+    "name": "Test 2",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_rule_test2_1",
+        "answerIndex": 1,
+        "question": "When should the vehicle's headlamps be kept on? (i) During day time. (ii) Between sunset and sunrise. (iii) When road is not visible from 150m ahead.",
+        "answers": [
+          "(ii),(iii) are correct.",
+          "(ii) only is correct.",
+          "(i),(ii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_2",
+        "answerIndex": 2,
+        "question": "What distance should the main beam brighten objects ahead?",
+        "answers": [
+          "60 metres away",
+          "100 metres away",
+          "80 metres away"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_3",
+        "answerIndex": 0,
+        "question": "The main beam may not illuminate more than...",
+        "answers": [
+          "60 metres away",
+          "10 metres away",
+          "45 metres away"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_4",
+        "answerIndex": 0,
+        "question": "If your vehicle is in motion...",
+        "answers": [
+          "You may not light your parking lights",
+          "You are not allowed to have a passenger",
+          "You may not drive at 60km/h"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_5",
+        "answerIndex": 1,
+        "question": "Your vehicle is not allowed on a public road if....(for motorcycle, light motor and heavy vehicle)",
+        "answers": [
+          "You play loud music in your vehicle.",
+          "It does not have a rear lamp producing a red light to the rear.",
+          "You drive at a low speed."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_6",
+        "answerIndex": 2,
+        "question": "What are the rules regarding stop lamp (for all the vehicle types) (i) if your vehicle is not fitted with stop lamps it should not be driven on the public road (ii) You may drive a vehicle without stop lamps. (iii) stop lamps must be visible in normal sunlight from 30 metres to a person of normal eyesight.",
+        "answers": [
+          "(ii) only is correct.",
+          "All the above.",
+          "(i) and (iii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_7",
+        "answerIndex": 0,
+        "question": "Which point is correct about number plates.",
+        "answers": [
+          "All vehicle on a public road should have a number plate that has clear letters from 20 metres away.",
+          "A driver may remove their vehicle's number plate when driving on the freeway.",
+          "You may drive a vehicle without a number plate on a public road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_8",
+        "answerIndex": 1,
+        "question": "A motor vehicle will not be allowed on a public road if its turning radius is more than...",
+        "answers": [
+          "6 metres",
+          "13.1 metres",
+          "15 metres"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_9",
+        "answerIndex": 2,
+        "question": "If an emergency vehicle approaches you in the rear on a roadway, you should...",
+        "answers": [
+          "Stay in your lane and block it.",
+          "Race it.",
+          "Give the right of way to the emergency vehicle."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_10",
+        "answerIndex": 0,
+        "question": "What are the rules regarding a vehicle hooter?",
+        "answers": [
+          "You may use your hooter for safety reasons and it must be audible from 90 metres away.",
+          "You may use the hooter to get attention from pedestrians.",
+          "You may use your hooter for other drivers on the road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_11",
+        "answerIndex": 1,
+        "question": "When is it not compulsory to wear a seatbelt? (i) When moving in and out of a parking area. (ii) When reversing your vehicle. (iii) When driving below 60km/h",
+        "answers": [
+          "(i) only is correct.",
+          "(i) and (ii) are correct.",
+          "All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_12",
+        "answerIndex": 1,
+        "question": "Your vehicle windscreen should....(i) Provide you with enough visibility for safe driving. Have visible light transfer through the windscreen at 70%. (iii) Be of safety glass.",
+        "answers": [
+          "(iii) only is correct.",
+          "(i) and (iii) are correct.",
+          "All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_13",
+        "answerIndex": 2,
+        "question": "The wipers of your windscreen should....",
+        "answers": [
+          "Be black in colour.",
+          "Be able to wipe the sunroof window.",
+          "Wipe the outside of the windscreen directly in front of the driver, continuously and adequately."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_14",
+        "answerIndex": 1,
+        "question": "A vehicle that....is not allowed on a public road.",
+        "answers": [
+          "Moves at a low speed.",
+          "Causes excessive noise.",
+          "Carries 20 passengers."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_15",
+        "answerIndex": 2,
+        "question": "Unless otherwise indicated by a traffic sign, what is the speed limit in an urban area?",
+        "answers": [
+          "120km/h",
+          "100km/h",
+          "60km/h"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_16",
+        "answerIndex": 0,
+        "question": "What is the length limit for a trailer (not semi-trailer) with a GMV of less than 12000 kg?",
+        "answers": [
+          "Less than 8 metres.",
+          "Less than 5 metres.",
+          "More than 10 metres."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_17",
+        "answerIndex": 1,
+        "question": "If the GMV of a trailer (not semi-trailer) is more than 12000kg then height should be...",
+        "answers": [
+          "Less than 5 metres.",
+          "Less than 12.5 metres.",
+          "More than 10 metres."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_18",
+        "answerIndex": 0,
+        "question": "What is the length limit of any other vehicle?",
+        "answers": [
+          "Less than 10 metres.",
+          "More than 20 metres.",
+          "Less than 12.5 metres."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_19",
+        "answerIndex": 1,
+        "question": "You are towing a vehicle with faulty brakes, you must...",
+        "answers": [
+          "Not drive faster than 30km/h.",
+          "Use a tow-bar or draw-bar and not a rope.",
+          "Not carry more than one passenger in the towed vehicle."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_20",
+        "answerIndex": 2,
+        "question": "How long is a learner's license valid for?",
+        "answers": [
+          "18 months",
+          "12 months",
+          "24 months"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_21",
+        "answerIndex": 0,
+        "question": "Any motor vehicle with an overall height of...may not be driven on public road together with any load.",
+        "answers": [
+          "More than 10 metres.",
+          "Less than 10 metres.",
+          "More than 4.3 metres."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_22",
+        "answerIndex": 0,
+        "question": "The overall height of a double-decker bus with any load is...then it is not allowed on public road.",
+        "answers": [
+          "More than 4.65 metres.",
+          "5 metres.",
+          "9 metres."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_23",
+        "answerIndex": 1,
+        "question": "Any load carried on a vehicle must...",
+        "answers": [
+          "Be covered with sheeting.",
+          "Not obscure the driver's view.",
+          "Have red triangles or flags tied to it."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_24",
+        "answerIndex": 1,
+        "question": "What is the ideal frequency for checking your rearview mirror(s) while driving?",
+        "answers": [
+          "Only when you intend on changing direction, slowing down, or stopping.",
+          "Every 5 to 8 seconds.",
+          "Every minute."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_25",
+        "answerIndex": 0,
+        "question": "Before you reach the exit where you will be exiting the freeway, which lane should you position yourself on the roadway.",
+        "answers": [
+          "On the left-hand lane.",
+          "In the middle lane.",
+          "On the shoulder of the road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_26",
+        "answerIndex": 2,
+        "question": "Which rules apply to an adjustable spot lamp? (i) Vehicles of medical doctors, vets, or breakdown contractors may have an adjustable spot lamp. (ii) Adjustable spot lamp must light up other vehicles or individuals at least 100m ahead of your vehicle. (iii) Adjustable spot lamps are permissible on game spotting vehicles.",
+        "answers": [
+          "(i) and (iii) are correct.",
+          "Only (i) is correct.",
+          "All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_27",
+        "answerIndex": 1,
+        "question": "If a person has been killed or injured in an accident and such accident causes a complete obstruction on the roadway, no vehicle may be moved from the position from where it came to rest unless...",
+        "answers": [
+          "A certified tow-truck arrives at the scene and removes such vehicle(s) from the roadway.",
+          "Its position has been clearly marked on the road surface by the person moving the vehicle, or such removal has been authorized by a traffic officer.",
+          "The driver authorizes such removal."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_28",
+        "answerIndex": 2,
+        "question": "Under adverse conditions such as rain, slippery road surface, poor visibility, the driver/rider of a vehicle must...",
+        "answers": [
+          "Put the emergency lights on.",
+          "Decrease their following distance.",
+          "Increase their following distance."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_29",
+        "answerIndex": 1,
+        "question": "What is the speed limit for passenger vehicles such as buses and minibuses?",
+        "answers": [
+          "80km/h",
+          "100km/h",
+          "60km/h"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test2_30",
+        "answerIndex": 1,
+        "question": "When are you allowed to park in a parking bay reserved for disabled individuals? (i) If you are a disabled person or the driver of a motor vehicle conveying disabled individuals. (ii) If such a vehicle is issued with a sticker for disabled individuals or conveying disabled individuals. (iii) If you are conveying elderly individuals. (iv) If you have an emergency and there are no other parking bays available.",
+        "answers": [
+          "(i) and (ii) are correct.",
+          "(i) and (ii) are correct.",
+          "All of the above."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "road_rules_test_3",
+    "name": "Test 3",
+    "quizzes": [
+      {
+        "imageResName": "ic_road_rule_test3_1",
+        "answerIndex": 1,
+        "question": "Unless permitted by an appropriate road traffic sign, the distance between the pavement and the outside of any left-hand wheel of a parked vehicle on the left-hand side of the road within an urban area should be... within the roadway",
+        "answers": [
+          "300mm",
+          "450mm",
+          "550mm"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_2",
+        "answerIndex": 2,
+        "question": "When are you allowed to park in a parking bay reserved for disabled individuals? (i) If you are a disabled person or driver of a motor vehicle conveying disabled individuals. (ii) If such a vehicle is issued with a sticker for disabled individuals or conveying of disabled individuals. (iii) If you are conveying elderly individuals. (iv) If you have an emergency and there are no parking bays available.",
+        "answers": [
+          "All of the above.",
+          "(i),(ii) and (iii) are correct.",
+          "(i) and (ii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_3",
+        "answerIndex": 0,
+        "question": "Which of these vehicles may stop or park anywhere on a public road while in execution of their duties and displaying applicable identification lamps.(i) Ambulances and medical response vehicles. (ii) A vehicle engaged in civil protection (iv) A vehicle being used for construction or maintenance of a public road.",
+        "answers": [
+          "All of the above.",
+          "(i) and (ii) are correct.",
+          "(i),(ii) and (iii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_4",
+        "answerIndex": 1,
+        "question": "When is it compulsory to stop? (i) In compliance with any direction conveyed by a road traffic sign or given by a traffic officer in uniform. (ii) At the request or on signal of a person leading or driving any bovine animal, horse, ass, mule, sheep, goat, pig, ostrich on such road. (iii) When pedestrians want to cross a blocked pedestrian crossing.",
+        "answers": [
+          "(i) is correct",
+          "All of the above",
+          "(i) and (iii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_5",
+        "answerIndex": 2,
+        "question": "Under adverse conditions such as rain, slippery road surface, poor visibility, the driver/rider of a vehicle must...",
+        "answers": [
+          "Switch their emergency lights on.",
+          "Decrease their following distance.",
+          "Increase their following distance."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_6",
+        "answerIndex": 0,
+        "question": "Which of the following is allowed on a freeway? (i) Stopping or parking within an area reserved by an appropriate road traffic sign. (ii) Being on foot in the shoulder of the road under normal circumstances. (iii) Giving hand signals.",
+        "answers": [
+          "Only (i) is correct",
+          "(ii) and (ii) are correct",
+          "All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_7",
+        "answerIndex": 1,
+        "question": "Under normal circumstances, a combination of motor vehicles is restricted to....(i) a drawing vehicle and a maximum of two trailers. (ii) a drawing vehicle and one other motor vehicle, which is not a trailer. (iii) a drawing vehicle and two other motor vehicles, which are not trailers.",
+        "answers": [
+          "Only (i) is correct.",
+          "(i) and (ii) are correct.",
+          "(i) and (iii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_8",
+        "answerIndex": 2,
+        "question": "Any professional driver would be legally accused of driving under the influence when the concentration of alcohol in their blood is....",
+        "answers": [
+          "0.05g per 100ml of blood or more.",
+          "0.2g per 100ml of blood or more.",
+          "0.02g per 100ml of blood or more."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_9",
+        "answerIndex": 2,
+        "question": "Which rules apply to an adjustable stop lamp? (i) Vehicles of medical doctors, vets or breakdown contractors may have adjustable stop lamps. (ii) An adjustable stop lamp must light up other vehicles or individuals at least 100m ahead of your vehicle. (iii) Adjustable stop lamps are permissible on game spotting vehicles.",
+        "answers": [
+          "Only (i) is correct",
+          "(i) and (iii) are correct.",
+          "All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_10",
+        "answerIndex": 0,
+        "question": "Which of the following vehicles would be considered abandoned?(i) A vehicle left standing in such a way as to cause a danger or obstruction to other traffic. (ii) A vehicle parked on the street in a residential area not moved for 48 hours. (iii) A vehicle left for 24 hours in the same place on a public road outside an urban area. (iv) A vehicle left in a car park for more than 8 hours without the parking fee having been paid.",
+        "answers": [
+          "All of the above are correct.",
+          "(i) and (iii) are only correct.",
+          "(iii) and (iv) are only correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_11",
+        "answerIndex": 2,
+        "question": "When pedestrians are already crossing the road into which you are turning left, you must....",
+        "answers": [
+          "Continue driving as it is your right of way.",
+          "Sound your horn to warn them of your presence.",
+          "Wait and allow them to cross the road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_12",
+        "answerIndex": 0,
+        "question": "Before you reach the exit where you will be exiting the freeway, which lane should you position yourself on the roadway",
+        "answers": [
+          "On the left-hand lane.",
+          "In the middle lane.",
+          "On the shoulder of the road."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_13",
+        "answerIndex": 1,
+        "question": "What is the ideal frequency for checking your rear view mirror(s) whilst driving.",
+        "answers": [
+          "Every minute.",
+          "Every 5 to 8 seconds",
+          "Only when you intend on changing direction, slowing down or stopping."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_14",
+        "answerIndex": 0,
+        "question": "Pedestrians should cross a roadway only at a pedestrian crossing, at an intersection or a distance further than....from such pedestrian or intersection crossing.",
+        "answers": [
+          "9m",
+          "12m",
+          "50m"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_15",
+        "answerIndex": 0,
+        "question": "When must you use your emergency warning triangle?",
+        "answers": [
+          "When your vehicle has broken down",
+          "When parked outside a friend's house on the wrong side of the road, facing oncoming traffic.",
+          "When you want to stop for a lunch break."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_16",
+        "answerIndex": 1,
+        "question": "Any load carried on a vehicle must...",
+        "answers": [
+          "Be covered with sheeting.",
+          "Not obscure the driver's view.",
+          "Have red triangles or flags tied to it."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_17",
+        "answerIndex": 2,
+        "question": "A SABS approved number plate(s) shall be affixed to a vehicle...",
+        "answers": [
+          "In such a manner that the whole number plate has a dark background.",
+          "In such a manner that it is easily detachable.",
+          "In an upright position or within 30 degrees of such position."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_18",
+        "answerIndex": 0,
+        "question": "The number plate(s) of a vehicle should correspond with the....",
+        "answers": [
+          "Vehicle license disc.",
+          "Province the vehicle is being used in.",
+          "Driver's license card."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_19",
+        "answerIndex": 1,
+        "question": "Which of the following vehicles are regarded as emergency vehicles? (i) A fire-fighting vehicle (red warning light). (ii) An ambulance (red warning light) (iii) A vehicle driven by a traffic officer in the carrying out of duties (blue warning lights). A vehicle being driven by a person engaged in civil protection (green warning light).",
+        "answers": [
+          "(i),(ii) and (iii) are correct.",
+          "All of the above.",
+          "(i) and (ii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_20",
+        "answerIndex": 2,
+        "question": "The windscreen of a light motor vehicle must have visible light transmittance through the windscreen of....",
+        "answers": [
+          "At least 30%",
+          "At least 90%",
+          "At least 70%"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_21",
+        "answerIndex": 0,
+        "question": "How many windscreen wipers should a light or heavy motor vehicle have, and when in operation, they should wipe the outside of the windscreen continuously, evenly, and adequately.",
+        "answers": [
+          "At least one windscreen wiper, to wipe the windscreen directly in front of the driver.",
+          "Two windscreen wipers to clean the entire windscreen.",
+          "Three windscreen wipers. Two fitted to be fitted to the front windscreen and one fitted to the back window of the vehicle."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_22",
+        "answerIndex": 1,
+        "question": "Which of these statements is true with regards to a vehicle's fuel tank?",
+        "answers": [
+          "You only have to put a cap on the filling orifice of the fuel tank if you don't want to spill and lose fuel while driving.",
+          "The filling orifice of the fuel tank must be with an effective cap at all times.",
+          "You may drive a vehicle with a cloth in the filling orifice of the fuel tank until you are able to replace the fuel tank."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_23",
+        "answerIndex": 2,
+        "question": "Displaying an emergency warning triangle shall not apply to a vehicle being stationary on the roadway of a public road....(i) in place where a road traffic sign authorizes the loading and unloading of goods. (ii) in compliance with a road traffic sign or direction given by a traffic officer. (iii) on account of other traffic and the driver occupies the driving seat of such vehicle. (iv) in the course of events occupying the carrying out of a state or municipal function.",
+        "answers": [
+          "(i) and (ii) are correct.",
+          "(ii) and (iv) are correct.",
+          "All of the above."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_24",
+        "answerIndex": 0,
+        "question": "What speed limit applies to vehicles or a combination of vehicles with a GMV greater than 9000kg or any breakdown vehicle that is towing another vehicle? Provided such vehicles shall not exceed general speed limits or as indicated by road traffic signs.",
+        "answers": [
+          "80km/h",
+          "100km/h",
+          "60km/h"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_25",
+        "answerIndex": 1,
+        "question": "What is the overall length allowed in the case of a combination of vehicles, consisting of a drawing vehicle and a semi-trailer?",
+        "answers": [
+          "22m",
+          "18.5m",
+          "12.5m"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_26",
+        "answerIndex": 2,
+        "question": "The following motor vehicles may not be used on a public road if the overall height together with any load thereon (i) in the case of a double-decker bus, exceeds 4.65m. (ii) in the case of a goods vehicle exceeding 4.3m. (iii) in the case of a motorcar (carrying goods on the roof), does not exceed more than half the height of the vehicle.",
+        "answers": [
+          "(iii) is only correct.",
+          "(ii) and (iii) are correct.",
+          "(i) and (ii) are correct."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_27",
+        "answerIndex": 0,
+        "question": "If a light or heavy motor vehicle is fitted with brackets for the conveyance of goods, such brackets may not project more than..... beyond the widest part of such vehicle, excluding side mirrors and direction indicators.",
+        "answers": [
+          "150mm",
+          "300mm",
+          "450mm"
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_28",
+        "answerIndex": 1,
+        "question": "The driver/rider of a vehicle intending to pass a stationary bus must....",
+        "answers": [
+          "Stop behind such bus and wait for it to move off.",
+          "Be on the lookout for such individuals approaching, leaving, or who might approach or leave such bus.",
+          "Accelerate and drive past the bus as quickly as possible, in case it moves off when your vehicle is next to it."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_29",
+        "answerIndex": 2,
+        "question": "When driving a motor vehicle on a public road which is divided into two traffic lanes by means of road markings, the driver/rider shall not turn from one lane into another unless he/she....",
+        "answers": [
+          "Can speed up enough to take a gap between traffic.",
+          "Has a clear view of the road ahead for at least 150m.",
+          "Can do so without obstructing or endangering other traffic."
+        ]
+      },
+      {
+        "imageResName": "ic_road_rule_test3_30",
+        "answerIndex": 2,
+        "question": "How far must a vehicle's indicator lights be visible to a person of normal eyesight in normal daylight.",
+        "answers": [
+          "90m",
+          "200m",
+          "30m"
+        ]
+      }
+    ]
+  }
+]

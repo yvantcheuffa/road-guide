@@ -3,6 +3,7 @@ package com.southafrica.roadguide.ui.learner.learn.controls
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.MenuItem
 import androidx.activity.viewModels
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
@@ -61,7 +62,8 @@ class ControlsActivity : AppCompatActivity() {
         }
     }
 
-    private fun displayControls() {
-
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        if (item.itemId == android.R.id.home) finish()
+        return super.onOptionsItemSelected(item)
     }
 }
